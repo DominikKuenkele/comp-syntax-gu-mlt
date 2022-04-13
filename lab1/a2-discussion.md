@@ -84,7 +84,7 @@ Verbs can be classified in different inflection classes, depending on the rules,
 The preteritum and presens are the only forms, in which only the verb is inflected. All three other forms (plusquamperfect, perfect and future) require additionally an auxilary verb.
 
 The preteritum is build, by adding the suffix *-de* to the infinitve form of the verb. 
-Perfect and plusquamperfect use the supinum form of the verb (usually the suffix *-t* to the infinitve) with a preceding *har* or *hade* (preteritum of *har*). 
+Perfect and plusquamperfect use the *supinum* form of the verb (usually the suffix *-t* to the infinitve) with a preceding *har* or *hade* (preteritum of *har*). 
 The future form is using the auxilary verbs *ska*/*kommer att* and the infintive form of the verb. 
 
 ## Voice
@@ -92,3 +92,54 @@ The future form is using the auxilary verbs *ska*/*kommer att* and the infintive
 
 The **voice** is an inflectional feature of the verb. 
 Usually, the mediopassive form of a verb is built, by adding the suffix *-s* to the end of the active form.
+
+# Comparison with PUD
+The following features were present in the PUD for Swedish:
+- **Abbr=Yes**
+- Case=Acc
+- Case=Gen
+- Case=Nom
+- Definite=Def
+- Definite=Ind
+- Degree=Cmp
+- Degree=Pos
+- Degree=Sup
+- **Foreign=Yes**
+- Gender=Com
+- Gender=Masc
+- Gender=Neut
+- Mood=Imp
+- Mood=Ind
+- Number=Plur
+- Number=Sing
+- **NumType=Card**
+- **NumType=Ord**
+- **Polarity=Neg**
+- **Poss=Yes**
+- **PronType=Art**
+- **PronType=Ind**
+- **PronType=Int,Rel**
+- **PronType=Prs**
+- Tense=Past
+- Tense=Pres
+- VerbForm=Fin
+- VerbForm=Inf
+- VerbForm=Part
+- VerbForm=Sup
+- Voice=Act
+- Voice=Pass
+
+Most of the features fit to the hypothesis made in the first chapter. There are noentheless some features, which are interesting and need a closer look.
+The **gender** feature contains mostly of the *common* or *neuter* gender. But there are still 22 occurences of the masculine gender. These are all adjectives and refer to actual persons.
+
+As excpected, the PUD only contains the *imperative* or *indicative* **mood**. The conjunctive is not used in this corpus.
+
+In the previous chapter, I didn't differentiate between **tense** and **aspect**. The annotation in the corpus actually did use the features **tense** and **VerbForm**. Interestingly, the tense has only *present* and *past* as values. The auxiliary verb in sentences, which use the future (*ska* or *kommer att*) are annotated as present. The reason for that is probably that the verb form is the present form and there is no 'real' future form of a verb in Swedish.
+
+The feature **person** does not appear in the annotated corpus. This is probably due to the fact that there is no inflection on any POS for the person in Swedish.
+
+***
+
+Furthermore, there appear some more features, which I didn't mention in the previous chapter (marked in bold).
+There are e.g. the **polarity** which is only annotated for the negations *inte* and *ej* or a feature that marks **abbreviations**.  
+Also, there is a feature, which annotates the exact type of the pronouns.

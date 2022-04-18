@@ -52,7 +52,7 @@
 5	is	_	AUX	_	_	6	aux	_	_
 6	called	_	VERB	_	_	0	root	_	_
 7	volcanology	_	NOUN	_	_	6	xcomp	_	_
-8	,	_	PUNCT	_	_	7	punct	_	_
+8	,	_	PUNCT	_	_	10	punct	_	_
 9	sometimes	_	ADV	_	_	10	advmod	_	_
 10	spelled	_	VERB	_	_	6	acl	_	_
 11	vulcanology	_	NOUN	_	_	10	xcomp	_	_
@@ -142,7 +142,7 @@
 14	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 11
-# text = This discordance between economic data and political rethoric is familiar, or should be.
+# text = This discordance between economic data and political rhetoric is familiar, or should be.
 1	This	_	DET	_	_	2	det	_	_
 2	discordance	_	NOUN	_	_	10	nsubj	_	_
 3	between	_	ADP	_	_	5	case	_	_
@@ -160,7 +160,7 @@
 15	.	_	PUNCT	_	_	10	punct	_	_
 
 # sent_id = 12
-# text = The feasibility study estimates that it would take passagners about four minutes to crossthe Potamac River on the gondola.
+# text = The feasibility study estimates that it would take passengers about four minutes to cross the Potamac River on the gondola.
 1	The	_	DET	_	_	3	det	_	_
 2	feasibility	_	NOUN	_	_	3	compound	_	_
 3	study	_	NOUN	_	_	4	nsubj	_	_
@@ -176,7 +176,7 @@
 13	to	_	PART	_	_	14	mark	_	_
 14	cross	_	VERB	_	_	8	csubj	_	_
 15	the	_	DET	_	_	17	det	_	_
-16	Potomac	_	PROPN	_	_	17	flat	_	_
+16	Potomac	_	PROPN	_	_	17	compound	_	_
 17	River	_	PROPN	_	_	14	obj	_	_
 18	on	_	ADP	_	_	20	case	_	_
 19	the	_	DET	_	_	20	det	_	_

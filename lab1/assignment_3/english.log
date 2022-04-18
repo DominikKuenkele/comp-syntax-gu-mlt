@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.1.25)  18 APR 2022 10:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.1.25)  18 APR 2022 18:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -91,7 +91,7 @@ LaTeX Font Info:    ... okay on input line 4.
 * \headsep=25.0pt
 * \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=65.0pt
+* \marginparwidth=144.0pt
 * \marginparsep=11.0pt
 * \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
@@ -136,6 +136,9 @@ LaTeX Warning: \oval, \circle, or \line size unavailable on input line 185.
 
 
 LaTeX Warning: \oval, \circle, or \line size unavailable on input line 224.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 245.
 
 
 LaTeX Warning: \oval, \circle, or \line size unavailable on input line 251.
@@ -433,13 +436,13 @@ LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1845.
 Here is how much of TeX's memory you used:
  1034 strings out of 478353
  17867 string characters out of 5854635
- 382483 words of memory out of 5000000
+ 382567 words of memory out of 5000000
  19224 multiletter control sequences out of 15000+600000
  403430 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,6n,62p,223b,129s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb>
-Output written on english.pdf (4 pages, 67285 bytes).
+Output written on english.pdf (4 pages, 67293 bytes).
 PDF statistics:
  37 PDF objects out of 1000 (max. 8388607)
  22 compressed objects within 1 object stream

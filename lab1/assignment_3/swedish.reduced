@@ -20,7 +20,7 @@
 9	.	PUNCT	7	punct
 
 # sent_id = 3
-# text = Jag var bara en pojke med leriga skor
+# text = Jag var bara en pojke med leriga skor.
 # text_en = I was just a boy with muddy shoes.
 1	Jag	PRON	5	nsubj
 2	var	AUX	5 cop
@@ -169,7 +169,7 @@
 
 # sent_id = 12
 # text = Rimlighetsstudien uppskattar att det skulle ta passagerare ungefär fyra minuter att korsa Potomacfloden med gondolen.
-# text = The feasibility study estimates that it would take passagners about four minutes to cross the Potamac River on the gondola.
+# text = The feasibility study estimates that it would take passengers about four minutes to cross the Potamac River on the gondola.
 1	Rimlighetsstudien	NOUN	2	nsubj
 2	uppskattar	VERB	0	root
 3	att	SCONJ	6	mark

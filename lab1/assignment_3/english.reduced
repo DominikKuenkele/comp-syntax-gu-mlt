@@ -52,7 +52,7 @@
 5	is	AUX	6	aux
 6	called	VERB	0	root
 7	volcanology	NOUN	6	xcomp
-8	,	PUNCT	7 punct
+8	,	PUNCT	10 punct
 9	sometimes	ADV	10	advmod
 10	spelled	VERB	6	acl
 11	vulcanology	NOUN	10	xcomp
@@ -142,7 +142,7 @@
 14	.	PUNCT	4	punct
 
 # sent_id = 11
-# text = This discordance between economic data and political rethoric is familiar, or should be.
+# text = This discordance between economic data and political rhetoric is familiar, or should be.
 1	This	DET	2	det
 2	discordance	NOUN	10	nsubj
 3	between	ADP	5	case
@@ -160,7 +160,7 @@
 15	.	PUNCT	10	punct
 
 # sent_id = 12
-# text = The feasibility study estimates that it would take passagners about four minutes to crossthe Potamac River on the gondola.
+# text = The feasibility study estimates that it would take passengers about four minutes to cross the Potamac River on the gondola.
 1	The	DET	3	det
 2	feasibility	NOUN	3	compound
 3	study	NOUN	4	nsubj
@@ -176,7 +176,7 @@
 13	to	PART	14	mark
 14	cross	VERB	8	csubj
 15	the	DET	17	det
-16	Potomac	PROPN	17	flat
+16	Potomac	PROPN	17	compound
 17	River	PROPN	14	obj
 18	on	ADP	20	case
 19	the	DET	20	det

@@ -1,0 +1,448 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.1.25)  18 APR 2022 10:26
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/dominik/PycharmProjects/comp-syntax-gu-mlt/lab1/assignment_3/english.tex
+(/home/dominik/PycharmProjects/comp-syntax-gu-mlt/lab1/assignment_3/english.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+) (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count191
+\Gm@cntv=\count192
+\c@Gm@tempcnt=\count193
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks19
+) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-12-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count194
+\l__pdf_internal_box=\box50
+) (./english.aux)
+\openout1 = `english.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape 
+* h-part:(L,W,R)=(0.0pt, 794.96999pt, 0.0pt)
+* v-part:(T,H,B)=(0.0pt, 614.295pt, 0.0pt)
+* \paperwidth=794.96999pt
+* \paperheight=614.295pt
+* \textwidth=794.96999pt
+* \textheight=614.295pt
+* \oddsidemargin=-72.26999pt
+* \evensidemargin=-72.26999pt
+* \topmargin=-109.26999pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 22.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 58.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 67.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 103.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 106.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 121.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 124.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 179.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 182.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 185.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 224.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 251.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 295.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 298.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 307.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 313.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 322.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 360.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 378.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 381.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 384.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 390.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 442.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 454.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 466.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 469.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 509.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 518.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 521.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 530.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 533.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 542.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 545.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 585.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 618.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 621.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 666.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 675.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 684.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 690.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 699.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 702.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 765.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 774.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 792.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 801.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 810.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 813.
+
+
+Overfull \hbox (37.1801pt too wide) in paragraph at lines 818--819
+[][] 
+ []
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 860.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 869.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 919.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 925.
+
+[2]
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 972.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 981.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1028.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1037.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1069.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1072.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1090.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1149.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1211.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1217.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1226.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1232.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1256.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1265.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1326.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1335.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1344.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1359.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1374.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1377.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1386.
+
+
+Overfull \hbox (44.5777pt too wide) in paragraph at lines 1391--1392
+[][] 
+ []
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1465.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1480.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1486.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1489.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1507.
+
+[3]
+Overfull \hbox (141.88457pt too wide) in paragraph at lines 1512--1513
+[][] 
+ []
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1575.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1584.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1587.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1590.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1599.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1614.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1623.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1677.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1686.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1689.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1698.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1701.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1710.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1719.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1725.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1794.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1797.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1800.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1809.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1818.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1821.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1830.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1836.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 1845.
+
+[4] (./english.aux) ) 
+Here is how much of TeX's memory you used:
+ 1034 strings out of 478353
+ 17867 string characters out of 5854635
+ 382483 words of memory out of 5000000
+ 19224 multiletter control sequences out of 15000+600000
+ 403430 words of font info for 27 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,6n,62p,223b,129s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb>
+Output written on english.pdf (4 pages, 67285 bytes).
+PDF statistics:
+ 37 PDF objects out of 1000 (max. 8388607)
+ 22 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

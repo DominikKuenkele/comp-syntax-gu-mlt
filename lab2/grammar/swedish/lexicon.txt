@@ -1,0 +1,40 @@
+  animal_N : N ; djur djuret djur djuren Neutr
+  apple_N : N ; äpple äpplet äpplen äpplena Neutr
+  baby_N : N ;  bebis bebisen bebisar bebisarna Comm
+  beer_N : N ;  öl ölen öl ölen Comm
+  bike_N : N ; cykel cykeln cyklar cyklarna Comm 
+  bird_N : N ;  fågel fågeln fåglar fåglarna
+  blood_N : N ;  blod blodet Neutr
+  boat_N : N ; båt båten båtar båtarna Comm
+  book_N : N ; bok boken böcker böckerna Comm
+  boy_N : N ; pojke pojken pojkar pojkarna Comm
+  bread_N : N ; bröd brödet bröd bröden Neutr
+  car_N : N ; bil bilen bilar bilarna Comm
+  cat_N : N ; katt katten katter katterna Comm
+  child_N : N ; barn barnet barn barnen Neutr
+  city_N : N ; stad staden städer städerna Comm
+  cloud_N : N ; moln molnet moln molnen Neutr 
+  computer_N : N ; dator datorn datorer datorerna Comm
+  cow_N : N ;  ko kon kor korna Comm
+  dog_N : N ;  hund hunden hundar hundarna Comm
+  fire_N : N ; eld elden eldar eldarna Comm
+  fish_N : N ; fisk fisken fiskar fiskarna Comm
+  flower_N : N ; blomma blomman blommor blommorna Comm
+  friend_N : N ; vän vännen vänner vännerna Comm
+  girl_N : N ; flicka flickan flickor flickorna Comm
+  grammar_N : N ; grammatik grammatiken grammatiker grammatikerna Comm
+  horse_N : N ; häst hästen hästar hästarna Comm 
+  house_N : N ; hus huset hus huser Neutr
+  language_N : N ; språk språket språk språken Neutr
+  man_N : N ; man mannen män männen Comm
+  milk_N : N ; mjölk mjölket Comm
+  music_N : N ; musik musiken Comm
+  river_N : N ;  flod floden floder floderna Comm
+  sea_N : N ;  hav havet hav haven Neutr
+  ship_N : N ; fartyg fartyget fartyg fartygen Neutr
+  star_N : N ;  stjärna stjärnan stjärnor stjärnorna Comm
+  train_N : N ;  tåg tåget tåg tågen Neutr
+  tree_N : N ; träd trädet träd träden Neutr
+  water_N : N ; vatten vattnet vatten vattnen Neutr  
+  wine_N : N ; vin vinet viner vinerna Neutr
+  woman_N : N ; kvinna kvinnan kvinnor kvinnorna Comm

@@ -1,40 +1,136 @@
-  animal_N : N ; djur djuret djur djuren Neutr
-  apple_N : N ; äpple äpplet äpplen äpplena Neutr
-  baby_N : N ;  bebis bebisen bebisar bebisarna Comm
-  beer_N : N ;  öl ölen öl ölen Comm
-  bike_N : N ; cykel cykeln cyklar cyklarna Comm 
-  bird_N : N ;  fågel fågeln fåglar fåglarna
-  blood_N : N ;  blod blodet Neutr
-  boat_N : N ; båt båten båtar båtarna Comm
-  book_N : N ; bok boken böcker böckerna Comm
-  boy_N : N ; pojke pojken pojkar pojkarna Comm
-  bread_N : N ; bröd brödet bröd bröden Neutr
-  car_N : N ; bil bilen bilar bilarna Comm
-  cat_N : N ; katt katten katter katterna Comm
-  child_N : N ; barn barnet barn barnen Neutr
-  city_N : N ; stad staden städer städerna Comm
-  cloud_N : N ; moln molnet moln molnen Neutr 
-  computer_N : N ; dator datorn datorer datorerna Comm
-  cow_N : N ;  ko kon kor korna Comm
-  dog_N : N ;  hund hunden hundar hundarna Comm
-  fire_N : N ; eld elden eldar eldarna Comm
-  fish_N : N ; fisk fisken fiskar fiskarna Comm
-  flower_N : N ; blomma blomman blommor blommorna Comm
-  friend_N : N ; vän vännen vänner vännerna Comm
-  girl_N : N ; flicka flickan flickor flickorna Comm
-  grammar_N : N ; grammatik grammatiken grammatiker grammatikerna Comm
-  horse_N : N ; häst hästen hästar hästarna Comm 
-  house_N : N ; hus huset hus huser Neutr
-  language_N : N ; språk språket språk språken Neutr
-  man_N : N ; man mannen män männen Comm
-  milk_N : N ; mjölk mjölket Comm
-  music_N : N ; musik musiken Comm
-  river_N : N ;  flod floden floder floderna Comm
-  sea_N : N ;  hav havet hav haven Neutr
-  ship_N : N ; fartyg fartyget fartyg fartygen Neutr
-  star_N : N ;  stjärna stjärnan stjärnor stjärnorna Comm
-  train_N : N ;  tåg tåget tåg tågen Neutr
-  tree_N : N ; träd trädet träd träden Neutr
-  water_N : N ; vatten vattnet vatten vattnen Neutr  
-  wine_N : N ; vin vinet viner vinerna Neutr
-  woman_N : N ; kvinna kvinnan kvinnor kvinnorna Comm
+============== NOUNS ======================
+apple_N					Neutr	äpple äpplet äpplen äpplena
+
+wine_N					Neutr	vin vinet viner vinerna
+
+water_N					Neutr	vatten vattnet vatten vattnen  
+
+child_N					Neutr	barn barnet barn barnen
+tree_N					Neutr	träd trädet träd träden
+ship_N					Neutr	skepp skeppet skepp skeppen
+bread_N					Neutr	bröd brödet bröd bröden
+cloud_N					Neutr	moln molnet moln molnen 
+train_N					Neutr	tåg tåget tåg tågen
+language_N			    Neutr	språk språket språk språken
+house_N					Neutr	hus huset hus husen
+sea_N					Neutr   hav havet hav haven
+animal_N				Neutr	djur djuret djur djuren
+beer_N					Neutr	öl ölet öl ölen
+
+blood_N					Neutr	blod blodet
+
+
+milk_N					Comm	mjölk mjölket
+
+friend_N				Comm	vän vännen vänner vännerna
+man_N					Comm    man mannen män männen
+
+flower_N				Comm	blomma blomman blommor blommorna
+woman_N					Comm	kvinna kvinnan kvinnor kvinnorna
+girl_N					Comm	flicka flickan flickor flickorna
+star_N					Comm	stjärna stjärnan stjärnor stjärnorna
+
+bike_N					Comm	cykel cykeln cyklar cyklarna 
+bird_N					Comm	fågel fågeln fåglar fåglarna
+
+boy_N					Comm    pojke pojken pojkar pojkarna
+river_N					Comm    å ån åar åarna
+cow_N					Comm    ko kon kor korna
+
+dog_N					Comm    hund hunden hundar hundarna
+horse_N					Comm	häst hästen hästar hästarna 
+fire_N					Comm	eld elden eldar eldarna
+car_N					Comm    bil bilen bilar bilarna
+boat_N					Comm	båt båten båtar båtarna
+baby_N					Comm	bebis bebisen bebisar bebisarna
+fish_N					Comm	fisk fisken fiskar fiskarna
+
+music_N					Comm	musik musiken
+
+grammar_N				Comm	grammatik grammatiken grammatiker grammatikerna
+cat_N					Comm    katt katten katter katterna
+
+computer_N			    Comm	dator datorn datorer datorerna
+
+city_N					Comm	stad staden städer städerna
+book_N					Comm	bok boken böcker böckerna
+
+
+=================== ADJ =====================
+                ---------------- indefinite ------------------------- | -- definite --
+                --------- positive --------- | -- comp -- | ------ superlative -------
+                -comm-| - neutr - | - plu -  |
+
+                x       x           x           x           x           
+small_A 		liten   litet       små         mindre      minst       minsta
+
+                x       x           x           x
+old_A		gammal  gammalt     gamla       äldre       äldst       äldsta
+
+
+                x                               x
+bad_A 			dålig   dåligt      dåliga      sämre       sämst       sämsta
+big_A 			stor    stort       stora       större      störst      största
+young_A 		ung     ungt        unga        yngre       yngst       yngsta
+heavy_A 		tung    tungt       tunga       tyngre      tyngst      tyngsta
+
+                x
+clean_A 		ren     rent        rena        renare      renast      renaste
+cold_A 			kall    kallt       kalla       kallare     kallast     kallaste   
+dirty_A 		smutsig smutsigt    smutsiga    smutsigare  smutsigast  smutsigaste
+green_A 		grön    grönt       gröna       grönare     grönast     grönaste
+hot_A 			het     hett        heta        hetare      hetast      hetaste
+warm_A 			varm    varmt       varma       varmare     varmast     varmaste
+white_A 		vit     vitt        vita        vitare      vitast      vitaste
+yellow_A 		gul     gult        gula        gulare      gulast      gulaste
+clever_A 		klok    klokt       kloka       klokare     klokast     klokaste
+ready_A 		färdig  färdigt     färdiga     färdigare    färdigast   färdigaste
+
+                x       x
+red_A 		röd     rött        röda        rödare      rödast      rödaste
+good_A 		god     gott        goda        godare      godast      godaste
+
+blue_A 		blå     blått       blåa        blåare      blåast      blåaste
+new_A 		ny      nytt        nya         nyare       nyast       nyaste
+
+black_A 		svart   svart       svarta      svartare    svartast    svartaste
+
+# ready_A 		redo    -           -           mer redo    mest redo   mest redo
+
+
+==================== Verbs ===================
+                inf      |  supine   |  imp    | --------- indicative -----------
+                                               | ------ active ---------   | pass
+                                                    pres        past       | pres       
+
+                x           x                                   x           
+break_V2        slå         slagit      slå         slår        slog        slås       
+drink_V2        dricka      druckit     drick       dricker     drack       dricks      
+eat_V2          äta         ätit        ät          äter        åt          äts         
+come_V          komma       kommit      kom         kommer      kom         -        
+run_V           springa     sprungit    spring      springer    sprang      springs
+sleep_V         sova        sovit       sov         sover       sov         sovs        
+find_V2         finna       funnit      finn        finner      fann        finns      
+
+
+                x
+jump_V          hoppa       hoppat      hoppa       hoppar      hoppade     hoppas      
+love_V2         älska       älskat      älska       älskar      älskade     älskas      
+wait_V2         vänta       väntat      vänta       väntar      väntade     vändas      
+teach_V2        undervisa   undervisat  undervisa   undervisar  undervisade undervisas  
+swim_V          simma       simmat      simma       simmar      simmade     simmas      
+kill_V2         döda        dödat       döda        dödar       dödade      dödas       
+
+                x                                               x
+read_V2         läsa        läst        läs         läser       läste       läses       
+travel_V        resa        rest        res         reser       reste       reses       
+buy_V2          köpa        köpt        köp         köper       köpte       köps        
+live_V          leva        levt        lev         lever       levde       levs        
+play_V          leka        lekt        lek         leker       lekte       leks      
+                x                                               x
+see_V2          se          sett        se          ser         såg         ses        
+understand_V2   förstå      förstått    förstå      förstår     förstod     förstås     
+walk_V          gå          gått        gå          går         gick        gås         
+go_V            gå          gått        gå          går         gick        gås         
+
+be_Verb         vara        varit       var         är          var         -

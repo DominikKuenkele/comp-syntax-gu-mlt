@@ -1,0 +1,988 @@
+                              
+         *  *  *              
+      *           *           
+    *               *         
+   *                          
+   *                          
+   *        * * * * * *       
+   *        *         *       
+    *       * * * *  *        
+      *     *      *          
+         *  *  *              
+                              
+This is GF version 3.11.0. 
+Built on linux/x86_64 with ghc-8.10, flags: interrupt server
+License: see help -license.   
+
+- compiling swedish/MicroLangSwedish.gf...   write file swedish/MicroLangSwedish.gfo
+linking ... OK
+
+Languages: MicroLangFunctorSwedish MicroLangSwedish
+MicroLang> PredVPS (DetCN thePl_Det (AdjCN (PositA red_A) (UseN grammar_N))) (UseComp (CompAP (PositA ready_A)))	de röda grammatikerna är färdiga	de röda grammatikerna är färdiga
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 teach_V2 (UsePron he_Pron)) now_Adv)	hon undervisar honom nu	hon undervisar honom nu
+PredVPS (UsePron she_Pron) (UseV play_V)	hon leker	hon leker
+PredVPS (DetCN the_Det (UseN car_N)) (ComplV2 teach_V2 (DetCN the_Det (UseN woman_N)))	bilen undervisar kvinnan	bilen undervisar kvinnan
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA ready_A)))	han är färdig	han är färdig
+PredVPS (DetCN aPl_Det (UseN river_N)) (ComplV2 drink_V2 (UsePron she_Pron))	åar dricker henne	åar dricker henne
+PredVPS (DetCN the_Det (AdjCN (PositA small_A) (UseN house_N))) (ComplV2 read_V2 (UsePron he_Pron))	det lilla huset läser honom	det lilla huset läser honom
+PredVPS (UsePron she_Pron) (UseV live_V)	hon lever	hon lever
+PredVPS (DetCN aPl_Det (UseN cloud_N)) (UseV live_V)	moln lever	moln lever
+PredVPS (DetCN a_Det (AdjCN (PositA young_A) (UseN horse_N))) (ComplV2 find_V2 (UsePron she_Pron))	en ung häst finner henne	en ung häst finner henne
+PredVPS (UsePron they_Pron) (ComplV2 see_V2 (UsePron he_Pron))	de ser honom	de ser honom
+PredVPS (DetCN aPl_Det (AdjCN (PositA white_A) (UseN flower_N))) (UseV live_V)	vita blommor lever	vita blommor lever
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 read_V2 (UsePron she_Pron)) now_Adv)	han läser henne nu	han läser henne nu
+PredVPS (UsePron they_Pron) (ComplV2 find_V2 (DetCN thePl_Det (UseN cow_N)))	de finner korna	de finner korna
+PredVPS (DetCN aPl_Det (AdjCN (PositA clever_A) (UseN grammar_N))) (UseComp (CompAP (PositA warm_A)))	kloka grammatiker är varma	kloka grammatiker är varma
+PredVPS (UsePron she_Pron) (ComplV2 wait_V2 (DetCN a_Det (UseN boat_N)))	hon väntar på en båt	hon väntar på en båt
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA bad_A)))	hon är dålig	hon är dålig
+PredVPS (DetCN the_Det (AdjCN (PositA blue_A) (UseN boat_N))) (UseComp (CompAP (PositA white_A)))	den blåa båten är vit	den blåa båten är vit
+PredVPS (UsePron she_Pron) (UseV live_V)	hon lever	hon lever
+PredVPS (DetCN thePl_Det (UseN star_N)) (AdvVP (ComplV2 teach_V2 (UsePron he_Pron)) already_Adv)	stjärnorna undervisar honom redan	stjärnorna undervisar honom redan
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 find_V2 (UsePron he_Pron)) now_Adv)	de finner honom nu	de finner honom nu
+PredVPS (DetCN aPl_Det (AdjCN (PositA ready_A) (UseN bike_N))) (AdvVP (ComplV2 see_V2 (UsePron he_Pron)) already_Adv)	färdiga cyklar ser honom redan	färdiga cyklar ser honom redan
+PredVPS (DetCN a_Det (UseN book_N)) (ComplV2 love_V2 (UsePron they_Pron))	en bok älskar dem	en bok älskar dem
+PredVPS (DetCN thePl_Det (UseN animal_N)) (AdvVP (UseV live_V) (PrepNP in_Prep (UsePron he_Pron)))	djuren lever i honom	djuren lever i honom
+PredVPS (DetCN aPl_Det (AdjCN (PositA good_A) (UseN water_N))) (UseComp (CompAP (PositA small_A)))	goda vatten är små	goda vatten är små
+PredVPS (DetCN a_Det (AdjCN (PositA warm_A) (UseN child_N))) (UseV live_V)	ett varmt barn lever	ett varmt barn lever
+PredVPS (DetCN a_Det (UseN city_N)) (AdvVP (UseV walk_V) already_Adv)	en stad går redan	en stad går redan
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 understand_V2 (UsePron they_Pron)) (PrepNP on_Prep (UsePron she_Pron)))	de förstår dem på henne	de förstår dem på henne
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA dirty_A)))	de är smutsiga	de är smutsiga
+PredVPS (DetCN a_Det (AdjCN (PositA small_A) (UseN wine_N))) (ComplV2 wait_V2 (UsePron he_Pron))	ett litet vin väntar på honom	ett litet vin väntar på honom
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA good_A)))	han är god	han är god
+PredVPS (DetCN a_Det (AdjCN (PositA big_A) (UseN star_N))) (UseV come_V)	en stor stjärna kommer	en stor stjärna kommer
+PredVPS (DetCN a_Det (UseN bird_N)) (UseComp (CompAP (PositA bad_A)))	en fågel är dålig	en fågel är dålig
+PredVPS (UsePron she_Pron) (AdvVP (UseV come_V) now_Adv)	hon kommer nu	hon kommer nu
+PredVPS (DetCN thePl_Det (AdjCN (PositA big_A) (UseN cloud_N))) (UseV come_V)	de stora molnen kommer	de stora molnen kommer
+PredVPS (UsePron she_Pron) (ComplV2 eat_V2 (DetCN aPl_Det (UseN wine_N)))	hon äter viner	hon äter viner
+PredVPS (UsePron she_Pron) (AdvVP (AdvVP (UseV go_V) now_Adv) already_Adv)	hon går nu redan	hon går nu redan
+PredVPS (DetCN the_Det (AdjCN (PositA big_A) (UseN cloud_N))) (UseComp (CompAP (PositA cold_A)))	det stora molnet är kallt	det stora molnet är kallt
+PredVPS (DetCN a_Det (AdjCN (PositA bad_A) (UseN baby_N))) (AdvVP (UseV travel_V) (PrepNP with_Prep (UsePron she_Pron)))	en dålig bebis reser med henne	en dålig bebis reser med henne
+PredVPS (DetCN thePl_Det (AdjCN (PositA hot_A) (UseN flower_N))) (UseV walk_V)	de heta blommorna går	de heta blommorna går
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA clever_A)))	hon är klok	hon är klok
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA clever_A)))	de är kloka	de är kloka
+PredVPS (DetCN a_Det (AdjCN (PositA white_A) (UseN apple_N))) (UseComp (CompAP (PositA white_A)))	ett vitt äpple är vitt	ett vitt äpple är vitt
+PredVPS (DetCN the_Det (UseN book_N)) (UseV run_V)	boken springer	boken springer
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 teach_V2 (UsePron they_Pron)) already_Adv)	hon undervisar dem redan	hon undervisar dem redan
+PredVPS (UsePron they_Pron) (ComplV2 eat_V2 (UsePron he_Pron))	de äter honom	de äter honom
+PredVPS (UsePron they_Pron) (ComplV2 kill_V2 (DetCN a_Det (UseN ship_N)))	de dödar ett skepp	de dödar ett skepp
+PredVPS (DetCN thePl_Det (UseN star_N)) (AdvVP (UseV play_V) now_Adv)	stjärnorna leker nu	stjärnorna leker nu
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV play_V) already_Adv) already_Adv)	han leker redan redan	han leker redan redan
+PredVPS (DetCN a_Det (AdjCN (PositA green_A) (UseN fish_N))) (AdvVP (UseV come_V) already_Adv)	en grön fisk kommer redan	en grön fisk kommer redan
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA new_A)))	han är ny	han är ny
+PredVPS (UsePron he_Pron) (AdvVP (UseV walk_V) now_Adv)	han går nu	han går nu
+PredVPS (DetCN aPl_Det (UseN language_N)) (ComplV2 teach_V2 (DetCN a_Det (UseN language_N)))	språk undervisar ett språk	språk undervisar ett språk
+PredVPS (UsePron they_Pron) (ComplV2 wait_V2 (DetCN a_Det (UseN fish_N)))	de väntar på en fisk	de väntar på en fisk
+PredVPS (DetCN thePl_Det (AdjCN (PositA yellow_A) (UseN girl_N))) (ComplV2 wait_V2 (DetCN the_Det (UseN cat_N)))	de gula flickorna väntar på katten	de gula flickorna väntar på katten
+PredVPS (DetCN the_Det (UseN language_N)) (ComplV2 drink_V2 (DetCN aPl_Det (UseN sea_N)))	språket dricker hav	språket dricker hav
+PredVPS (DetCN a_Det (UseN baby_N)) (ComplV2 understand_V2 (UsePron she_Pron))	en bebis förstår henne	en bebis förstår henne
+PredVPS (UsePron they_Pron) (AdvVP (UseV run_V) now_Adv)	de springer nu	de springer nu
+PredVPS (UsePron they_Pron) (UseV jump_V)	de hoppar	de hoppar
+PredVPS (DetCN the_Det (UseN child_N)) (AdvVP (AdvVP (UseV sleep_V) now_Adv) now_Adv)	barnet sover nu nu	barnet sover nu nu
+PredVPS (UsePron he_Pron) (UseV play_V)	han leker	han leker
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 break_V2 (UsePron he_Pron)) now_Adv)	hon slår honom sönder nu	hon slår sönder honom nu
+PredVPS (UsePron they_Pron) (UseV swim_V)	de simmar	de simmar
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV play_V) already_Adv) now_Adv)	han leker redan nu	han leker redan nu
+PredVPS (DetCN the_Det (AdjCN (PositA red_A) (UseN grammar_N))) (UseComp (CompAP (PositA clean_A)))	den röda grammatiken är ren	den röda grammatiken är ren
+PredVPS (DetCN a_Det (UseN beer_N)) (UseComp (CompAP (PositA bad_A)))	ett öl är dåligt	ett öl är dåligt
+PredVPS (DetCN thePl_Det (UseN car_N)) (AdvVP (AdvVP (UseV swim_V) already_Adv) already_Adv)	bilarna simmar redan redan	bilarna simmar redan redan
+PredVPS (UsePron he_Pron) (AdvVP (UseV walk_V) already_Adv)	han går redan	han går redan
+PredVPS (DetCN thePl_Det (AdjCN (PositA green_A) (UseN fish_N))) (ComplV2 see_V2 (DetCN thePl_Det (UseN computer_N)))	de gröna fiskarna ser datorerna	de gröna fiskarna ser datorerna
+PredVPS (DetCN aPl_Det (AdjCN (PositA yellow_A) (UseN baby_N))) (UseComp (CompAP (PositA big_A)))	gula bebisar är stora	gula bebisar är stora
+PredVPS (DetCN thePl_Det (AdjCN (PositA blue_A) (UseN fish_N))) (UseV walk_V)	de blåa fiskarna går	de blåa fiskarna går
+PredVPS (DetCN thePl_Det (UseN bread_N)) (ComplV2 love_V2 (UsePron he_Pron))	bröden älskar honom	bröden älskar honom
+PredVPS (UsePron she_Pron) (ComplV2 kill_V2 (UsePron he_Pron))	hon dödar honom	hon dödar honom
+PredVPS (DetCN aPl_Det (AdjCN (PositA clean_A) (UseN animal_N))) (UseV walk_V)	rena djur går	rena djur går
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 break_V2 (UsePron she_Pron)) already_Adv)	hon slår henne sönder redan	hon slår sönder henne redan
+PredVPS (UsePron he_Pron) (AdvVP (UseV sleep_V) already_Adv)	han sover redan	han sover redan
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV sleep_V) now_Adv) (PrepNP with_Prep (UsePron they_Pron)))	han sover nu med dem	han sover nu med dem
+PredVPS (UsePron they_Pron) (ComplV2 buy_V2 (UsePron they_Pron))	de köper dem	de köper dem
+PredVPS (UsePron she_Pron) (ComplV2 love_V2 (DetCN thePl_Det (UseN blood_N)))	hon älskar bloden	hon älskar bloden
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 read_V2 (UsePron she_Pron)) now_Adv)	hon läser henne nu	hon läser henne nu
+PredVPS (UsePron she_Pron) (ComplV2 drink_V2 (DetCN aPl_Det (UseN star_N)))	hon dricker stjärnor	hon dricker stjärnor
+PredVPS (UsePron they_Pron) (AdvVP (UseV come_V) now_Adv)	de kommer nu	de kommer nu
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV run_V) already_Adv) already_Adv)	han springer redan redan	han springer redan redan
+PredVPS (UsePron she_Pron) (UseV run_V)	hon springer	hon springer
+PredVPS (UsePron they_Pron) (UseV swim_V)	de simmar	de simmar
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA young_A)))	hon är ung	hon är ung
+PredVPS (DetCN the_Det (AdjCN (PositA black_A) (UseN horse_N))) (AdvVP (ComplV2 find_V2 (UsePron they_Pron)) already_Adv)	den svarta hästen finner dem redan	den svarta hästen finner dem redan
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA red_A)))	han är röd	han är röd
+PredVPS (DetCN thePl_Det (UseN bird_N)) (UseV play_V)	fåglarna leker	fåglarna leker
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA big_A)))	de är stora	de är stora
+PredVPS (DetCN a_Det (AdjCN (PositA clean_A) (UseN train_N))) (AdvVP (AdvVP (UseV swim_V) already_Adv) (PrepNP with_Prep (UsePron she_Pron)))	ett rent tåg simmar redan med henne	ett rent tåg simmar redan med henne
+PredVPS (DetCN aPl_Det (UseN flower_N)) (ComplV2 teach_V2 (DetCN aPl_Det (UseN girl_N)))	blommor undervisar flickor	blommor undervisar flickor
+PredVPS (UsePron they_Pron) (ComplV2 eat_V2 (UsePron he_Pron))	de äter honom	de äter honom
+PredVPS (UsePron she_Pron) (UseV play_V)	hon leker	hon leker
+PredVPS (DetCN the_Det (AdjCN (PositA new_A) (UseN book_N))) (UseComp (CompAP (PositA small_A)))	den nya boken är liten	den nya boken är liten
+PredVPS (DetCN the_Det (UseN cloud_N)) (ComplV2 wait_V2 (DetCN thePl_Det (UseN cat_N)))	molnet väntar på katterna	molnet väntar på katterna
+PredVPS (UsePron they_Pron) (ComplV2 kill_V2 (UsePron he_Pron))	de dödar honom	de dödar honom
+PredVPS (UsePron she_Pron) (ComplV2 eat_V2 (DetCN thePl_Det (UseN grammar_N)))	hon äter grammatikerna	hon äter grammatikerna
+PredVPS (DetCN thePl_Det (UseN city_N)) (ComplV2 understand_V2 (DetCN the_Det (UseN computer_N)))	städerna förstår datorn	städerna förstår datorn
+PredVPS (DetCN the_Det (AdjCN (PositA blue_A) (UseN apple_N))) (AdvVP (ComplV2 read_V2 (UsePron they_Pron)) now_Adv)	det blåa äpplet läser dem nu	det blåa äpplet läser dem nu
+PredVPS (DetCN thePl_Det (AdjCN (PositA yellow_A) (UseN woman_N))) (ComplV2 eat_V2 (DetCN aPl_Det (UseN grammar_N)))	de gula kvinnorna äter grammatiker	de gula kvinnorna äter grammatiker
+PredVPS (UsePron he_Pron) (UseV play_V)	han leker	han leker
+PredVPS (DetCN the_Det (UseN ship_N)) (AdvVP (UseV walk_V) (PrepNP with_Prep (UsePron she_Pron)))	skeppet går med henne	skeppet går med henne
+PredVPS (DetCN a_Det (AdjCN (PositA dirty_A) (UseN woman_N))) (AdvVP (AdvVP (UseV play_V) already_Adv) (PrepNP with_Prep (UsePron he_Pron)))	en smutsig kvinna leker redan med honom	en smutsig kvinna leker redan med honom
+PredVPS (UsePron she_Pron) (AdvVP (AdvVP (UseV walk_V) now_Adv) now_Adv)	hon går nu nu	hon går nu nu
+PredVPS (DetCN thePl_Det (UseN book_N)) (ComplV2 see_V2 (UsePron they_Pron))	böckerna ser dem	böckerna ser dem
+PredVPS (DetCN the_Det (AdjCN (PositA old_A) (UseN man_N))) (UseV run_V)	den gamla mannen springer	den gamla mannen springer
+PredVPS (DetCN thePl_Det (AdjCN (PositA black_A) (UseN sea_N))) (AdvVP (UseV play_V) (PrepNP in_Prep (UsePron they_Pron)))	de svarta haven leker i dem	de svarta haven leker i dem
+PredVPS (DetCN thePl_Det (UseN girl_N)) (AdvVP (UseV sleep_V) (PrepNP in_Prep (UsePron she_Pron)))	flickorna sover i henne	flickorna sover i henne
+PredVPS (UsePron she_Pron) (AdvVP (UseV come_V) already_Adv)	hon kommer redan	hon kommer redan
+PredVPS (DetCN a_Det (AdjCN (PositA bad_A) (UseN cow_N))) (AdvVP (AdvVP (UseV walk_V) now_Adv) (PrepNP in_Prep (UsePron he_Pron)))	en dålig ko går nu i honom	en dålig ko går nu i honom
+PredVPS (UsePron they_Pron) (ComplV2 buy_V2 (UsePron he_Pron))	de köper honom	de köper honom
+PredVPS (UsePron she_Pron) (ComplV2 see_V2 (DetCN thePl_Det (UseN cow_N)))	hon ser korna	hon ser korna
+PredVPS (UsePron she_Pron) (ComplV2 drink_V2 (DetCN aPl_Det (UseN fire_N)))	hon dricker eldar	hon dricker eldar
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA red_A)))	hon är röd	hon är röd
+PredVPS (UsePron they_Pron) (ComplV2 teach_V2 (UsePron she_Pron))	de undervisar henne	de undervisar henne
+PredVPS (UsePron he_Pron) (ComplV2 wait_V2 (UsePron they_Pron))	han väntar på dem	han väntar på dem
+PredVPS (DetCN the_Det (AdjCN (PositA small_A) (UseN horse_N))) (UseV go_V)	den lilla hästen går	den lilla hästen går
+PredVPS (UsePron she_Pron) (AdvVP (UseV go_V) now_Adv)	hon går nu	hon går nu
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA heavy_A)))	hon är tung	hon är tung
+PredVPS (DetCN thePl_Det (UseN sea_N)) (UseV live_V)	haven lever	haven lever
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA clean_A)))	han är ren	han är ren
+PredVPS (DetCN a_Det (UseN cow_N)) (UseV sleep_V)	en ko sover	en ko sover
+PredVPS (DetCN thePl_Det (AdjCN (PositA red_A) (UseN bird_N))) (UseComp (CompAP (PositA yellow_A)))	de röda fåglarna är gula	de röda fåglarna är gula
+PredVPS (UsePron he_Pron) (UseV walk_V)	han går	han går
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA bad_A)))	de är dåliga	de är dåliga
+PredVPS (UsePron they_Pron) (ComplV2 teach_V2 (DetCN a_Det (UseN star_N)))	de undervisar en stjärna	de undervisar en stjärna
+PredVPS (UsePron he_Pron) (AdvVP (UseV swim_V) already_Adv)	han simmar redan	han simmar redan
+PredVPS (DetCN a_Det (AdjCN (PositA heavy_A) (UseN train_N))) (ComplV2 eat_V2 (UsePron she_Pron))	ett tungt tåg äter henne	ett tungt tåg äter henne
+PredVPS (UsePron she_Pron) (UseV live_V)	hon lever	hon lever
+PredVPS (DetCN aPl_Det (AdjCN (PositA old_A) (UseN cat_N))) (UseComp (CompAP (PositA yellow_A)))	gamla katter är gula	gamla katter är gula
+PredVPS (DetCN thePl_Det (AdjCN (PositA clever_A) (UseN bread_N))) (ComplV2 teach_V2 (UsePron she_Pron))	de kloka bröden undervisar henne	de kloka bröden undervisar henne
+PredVPS (DetCN thePl_Det (AdjCN (PositA clean_A) (UseN computer_N))) (UseV sleep_V)	de rena datorerna sover	de rena datorerna sover
+PredVPS (DetCN thePl_Det (UseN house_N)) (ComplV2 break_V2 (UsePron he_Pron))	husen slår honom sönder	husen slår sönder honom
+PredVPS (DetCN the_Det (UseN woman_N)) (AdvVP (ComplV2 buy_V2 (UsePron she_Pron)) already_Adv)	kvinnan köper henne redan	kvinnan köper henne redan
+PredVPS (DetCN a_Det (AdjCN (PositA black_A) (UseN cloud_N))) (UseV run_V)	ett svart moln springer	ett svart moln springer
+PredVPS (UsePron he_Pron) (AdvVP (UseV run_V) already_Adv)	han springer redan	han springer redan
+PredVPS (UsePron she_Pron) (UseV play_V)	hon leker	hon leker
+PredVPS (UsePron they_Pron) (UseV jump_V)	de hoppar	de hoppar
+PredVPS (DetCN a_Det (AdjCN (PositA old_A) (UseN cat_N))) (ComplV2 drink_V2 (DetCN thePl_Det (UseN computer_N)))	en gammal katt dricker datorerna	en gammal katt dricker datorerna
+PredVPS (UsePron they_Pron) (ComplV2 break_V2 (UsePron he_Pron))	de slår honom sönder	de slår sönder honom
+PredVPS (DetCN thePl_Det (UseN flower_N)) (AdvVP (UseV swim_V) (PrepNP with_Prep (UsePron they_Pron)))	blommorna simmar med dem	blommorna simmar med dem
+PredVPS (UsePron she_Pron) (UseV run_V)	hon springer	hon springer
+PredVPS (UsePron they_Pron) (UseV run_V)	de springer	de springer
+PredVPS (UsePron they_Pron) (ComplV2 teach_V2 (DetCN thePl_Det (UseN cow_N)))	de undervisar korna	de undervisar korna
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV jump_V) now_Adv) already_Adv)	han hoppar nu redan	han hoppar nu redan
+PredVPS (DetCN thePl_Det (AdjCN (PositA small_A) (UseN river_N))) (AdvVP (ComplV2 eat_V2 (UsePron she_Pron)) now_Adv)	de små åarna äter henne nu	de lilla åarna äter henne nu
+PredVPS (DetCN aPl_Det (UseN child_N)) (AdvVP (UseV play_V) (PrepNP in_Prep (UsePron she_Pron)))	barn leker i henne	barn leker i henne
+PredVPS (UsePron they_Pron) (AdvVP (UseV jump_V) now_Adv)	de hoppar nu	de hoppar nu
+PredVPS (DetCN thePl_Det (UseN apple_N)) (UseComp (CompAP (PositA cold_A)))	äpplena är kalla	äpplena är kalla
+PredVPS (UsePron they_Pron) (ComplV2 break_V2 (UsePron he_Pron))	de slår honom sönder	de slår sönder honom
+PredVPS (UsePron she_Pron) (UseV play_V)	hon leker	hon leker
+PredVPS (DetCN the_Det (AdjCN (PositA hot_A) (UseN woman_N))) (ComplV2 break_V2 (DetCN the_Det (UseN train_N)))	den heta kvinnan slår sönder tåget	den heta kvinnan slår sönder tåget
+PredVPS (UsePron she_Pron) (AdvVP (UseV go_V) (PrepNP in_Prep (UsePron she_Pron)))	hon går i henne	hon går i henne
+PredVPS (UsePron they_Pron) (ComplV2 eat_V2 (UsePron he_Pron))	de äter honom	de äter honom
+PredVPS (DetCN thePl_Det (AdjCN (PositA heavy_A) (UseN friend_N))) (UseComp (CompAP (PositA young_A)))	de tunga vännerna är unga	de tunga vännerna är unga
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 drink_V2 (UsePron he_Pron)) already_Adv)	han dricker honom redan	han dricker honom redan
+PredVPS (UsePron he_Pron) (ComplV2 kill_V2 (DetCN a_Det (UseN ship_N)))	han dödar ett skepp	han dödar ett skepp
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA young_A)))	hon är ung	hon är ung
+PredVPS (DetCN the_Det (AdjCN (PositA new_A) (UseN boy_N))) (UseComp (CompAP (PositA black_A)))	den nya pojken är svart	den nya pojken är svart
+PredVPS (UsePron he_Pron) (UseV jump_V)	han hoppar	han hoppar
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA old_A)))	de är gamla	de är gamla
+PredVPS (DetCN the_Det (AdjCN (PositA yellow_A) (UseN wine_N))) (UseV live_V)	det gula vinet lever	det gula vinet lever
+PredVPS (UsePron she_Pron) (UseV live_V)	hon lever	hon lever
+PredVPS (UsePron she_Pron) (UseV swim_V)	hon simmar	hon simmar
+PredVPS (UsePron he_Pron) (UseV come_V)	han kommer	han kommer
+PredVPS (DetCN thePl_Det (AdjCN (PositA green_A) (UseN bike_N))) (UseComp (CompAP (PositA new_A)))	de gröna cyklarna är nya	de gröna cyklarna är nya
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA new_A)))	hon är ny	hon är ny
+PredVPS (UsePron they_Pron) (ComplV2 see_V2 (DetCN the_Det (UseN water_N)))	de ser vattnet	de ser vattnet
+PredVPS (DetCN a_Det (AdjCN (PositA good_A) (UseN wine_N))) (AdvVP (AdvVP (UseV swim_V) already_Adv) (PrepNP in_Prep (UsePron she_Pron)))	ett gott vin simmar redan i henne	ett gott vin simmar redan i henne
+PredVPS (UsePron he_Pron) (ComplV2 understand_V2 (UsePron he_Pron))	han förstår honom	han förstår honom
+PredVPS (DetCN a_Det (UseN apple_N)) (ComplV2 see_V2 (DetCN aPl_Det (UseN horse_N)))	ett äpple ser hästar	ett äpple ser hästar
+PredVPS (DetCN aPl_Det (AdjCN (PositA good_A) (UseN cloud_N))) (UseV live_V)	goda moln lever	goda moln lever
+PredVPS (DetCN thePl_Det (UseN child_N)) (UseComp (CompAP (PositA heavy_A)))	barnen är tunga	barnen är tunga
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV swim_V) already_Adv) already_Adv)	han simmar redan redan	han simmar redan redan
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA clever_A)))	hon är klok	hon är klok
+PredVPS (DetCN a_Det (AdjCN (PositA bad_A) (UseN language_N))) (UseComp (CompAP (PositA black_A)))	ett dåligt språk är svart	ett dåligt språk är svart
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA warm_A)))	de är varma	de är varma
+PredVPS (DetCN aPl_Det (AdjCN (PositA hot_A) (UseN train_N))) (UseComp (CompAP (PositA white_A)))	heta tåg är vita	heta tåg är vita
+PredVPS (UsePron they_Pron) (ComplV2 teach_V2 (DetCN aPl_Det (UseN blood_N)))	de undervisar blod	de undervisar blod
+PredVPS (DetCN aPl_Det (AdjCN (PositA white_A) (UseN language_N))) (UseComp (CompAP (PositA hot_A)))	vita språk är heta	vita språk är heta
+PredVPS (UsePron she_Pron) (AdvVP (UseV run_V) now_Adv)	hon springer nu	hon springer nu
+PredVPS (DetCN thePl_Det (AdjCN (PositA small_A) (UseN animal_N))) (ComplV2 see_V2 (UsePron they_Pron))	de små djuren ser dem	de lilla djuren ser dem
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 see_V2 (UsePron he_Pron)) now_Adv)	de ser honom nu	de ser honom nu
+PredVPS (DetCN aPl_Det (UseN train_N)) (AdvVP (ComplV2 eat_V2 (UsePron he_Pron)) already_Adv)	tåg äter honom redan	tåg äter honom redan
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA good_A)))	hon är god	hon är god
+PredVPS (DetCN the_Det (UseN language_N)) (ComplV2 kill_V2 (UsePron they_Pron))	språket dödar dem	språket dödar dem
+PredVPS (UsePron they_Pron) (UseV sleep_V)	de sover	de sover
+PredVPS (DetCN a_Det (AdjCN (PositA big_A) (UseN beer_N))) (AdvVP (ComplV2 kill_V2 (UsePron they_Pron)) now_Adv)	ett stort öl dödar dem nu	ett stort öl dödar dem nu
+PredVPS (DetCN the_Det (AdjCN (PositA green_A) (UseN bike_N))) (AdvVP (AdvVP (UseV live_V) already_Adv) now_Adv)	den gröna cykeln lever redan nu	den gröna cykeln lever redan nu
+PredVPS (DetCN aPl_Det (AdjCN (PositA bad_A) (UseN friend_N))) (ComplV2 wait_V2 (UsePron she_Pron))	dåliga vänner väntar på henne	dåliga vänner väntar på henne
+PredVPS (UsePron she_Pron) (UseV travel_V)	hon reser	hon reser
+PredVPS (UsePron she_Pron) (ComplV2 buy_V2 (UsePron he_Pron))	hon köper honom	hon köper honom
+PredVPS (UsePron he_Pron) (ComplV2 drink_V2 (DetCN aPl_Det (UseN language_N)))	han dricker språk	han dricker språk
+PredVPS (UsePron she_Pron) (ComplV2 find_V2 (UsePron they_Pron))	hon finner dem	hon finner dem
+PredVPS (DetCN thePl_Det (AdjCN (PositA small_A) (UseN baby_N))) (AdvVP (AdvVP (UseV travel_V) already_Adv) now_Adv)	de små bebisarna reser redan nu	de lilla bebisarna reser redan nu
+PredVPS (DetCN a_Det (AdjCN (PositA old_A) (UseN tree_N))) (AdvVP (AdvVP (UseV go_V) now_Adv) (PrepNP with_Prep (UsePron he_Pron)))	ett gammalt träd går nu med honom	ett gammalt träd går nu med honom
+PredVPS (DetCN the_Det (AdjCN (PositA cold_A) (UseN apple_N))) (ComplV2 break_V2 (DetCN aPl_Det (UseN cat_N)))	det kalla äpplet slår sönder katter	det kalla äpplet slår sönder katter
+PredVPS (DetCN thePl_Det (UseN car_N)) (ComplV2 teach_V2 (DetCN thePl_Det (UseN grammar_N)))	bilarna undervisar grammatikerna	bilarna undervisar grammatikerna
+PredVPS (DetCN thePl_Det (UseN wine_N)) (AdvVP (ComplV2 teach_V2 (UsePron they_Pron)) now_Adv)	vinerna undervisar dem nu	vinerna undervisar dem nu
+PredVPS (DetCN aPl_Det (AdjCN (PositA cold_A) (UseN ship_N))) (ComplV2 see_V2 (UsePron she_Pron))	kalla skepp ser henne	kalla skepp ser henne
+PredVPS (UsePron he_Pron) (AdvVP (UseV sleep_V) now_Adv)	han sover nu	han sover nu
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA white_A)))	de är vita	de är vita
+PredVPS (DetCN thePl_Det (AdjCN (PositA new_A) (UseN train_N))) (UseV travel_V)	de nya tågen reser	de nya tågen reser
+PredVPS (UsePron he_Pron) (UseV play_V)	han leker	han leker
+PredVPS (DetCN the_Det (UseN sea_N)) (ComplV2 see_V2 (DetCN a_Det (UseN city_N)))	havet ser en stad	havet ser en stad
+PredVPS (DetCN a_Det (UseN city_N)) (UseComp (CompAP (PositA clever_A)))	en stad är klok	en stad är klok
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV jump_V) already_Adv) now_Adv)	de hoppar redan nu	de hoppar redan nu
+PredVPS (DetCN a_Det (AdjCN (PositA small_A) (UseN baby_N))) (UseV go_V)	en liten bebis går	en liten bebis går
+PredVPS (DetCN thePl_Det (AdjCN (PositA ready_A) (UseN train_N))) (UseV run_V)	de färdiga tågen springer	de färdiga tågen springer
+PredVPS (DetCN a_Det (UseN house_N)) (UseComp (CompAP (PositA hot_A)))	ett hus är hett	ett hus är hett
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA small_A)))	han är liten	han är liten
+PredVPS (DetCN the_Det (UseN bike_N)) (ComplV2 drink_V2 (UsePron he_Pron))	cykeln dricker honom	cykeln dricker honom
+PredVPS (DetCN the_Det (UseN computer_N)) (UseComp (CompAP (PositA dirty_A)))	datorn är smutsig	datorn är smutsig
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA dirty_A)))	de är smutsiga	de är smutsiga
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA small_A)))	hon är liten	hon är liten
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA warm_A)))	hon är varm	hon är varm
+PredVPS (DetCN the_Det (AdjCN (PositA cold_A) (UseN flower_N))) (UseComp (CompAP (PositA good_A)))	den kalla blomman är god	den kalla blomman är god
+PredVPS (DetCN a_Det (AdjCN (PositA hot_A) (UseN child_N))) (UseV play_V)	ett hett barn leker	ett hett barn leker
+PredVPS (DetCN aPl_Det (UseN child_N)) (ComplV2 find_V2 (UsePron she_Pron))	barn finner henne	barn finner henne
+PredVPS (UsePron he_Pron) (AdvVP (UseV come_V) now_Adv)	han kommer nu	han kommer nu
+PredVPS (UsePron she_Pron) (ComplV2 buy_V2 (DetCN the_Det (UseN cloud_N)))	hon köper molnet	hon köper molnet
+PredVPS (UsePron she_Pron) (UseV walk_V)	hon går	hon går
+PredVPS (DetCN a_Det (UseN grammar_N)) (AdvVP (AdvVP (UseV walk_V) already_Adv) already_Adv)	en grammatik går redan redan	en grammatik går redan redan
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA red_A)))	hon är röd	hon är röd
+PredVPS (DetCN aPl_Det (AdjCN (PositA bad_A) (UseN fire_N))) (UseComp (CompAP (PositA black_A)))	dåliga eldar är svarta	dåliga eldar är svarta
+PredVPS (DetCN aPl_Det (UseN friend_N)) (UseV sleep_V)	vänner sover	vänner sover
+PredVPS (UsePron she_Pron) (ComplV2 buy_V2 (DetCN aPl_Det (UseN house_N)))	hon köper hus	hon köper hus
+PredVPS (UsePron he_Pron) (ComplV2 wait_V2 (DetCN thePl_Det (UseN woman_N)))	han väntar på kvinnorna	han väntar på kvinnorna
+PredVPS (DetCN the_Det (AdjCN (PositA black_A) (UseN bird_N))) (UseComp (CompAP (PositA bad_A)))	den svarta fågeln är dålig	den svarta fågeln är dålig
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 read_V2 (UsePron he_Pron)) already_Adv)	de läser honom redan	de läser honom redan
+PredVPS (DetCN a_Det (UseN apple_N)) (ComplV2 find_V2 (UsePron he_Pron))	ett äpple finner honom	ett äpple finner honom
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 buy_V2 (UsePron she_Pron)) now_Adv)	han köper henne nu	han köper henne nu
+PredVPS (DetCN the_Det (UseN bird_N)) (ComplV2 wait_V2 (DetCN the_Det (UseN woman_N)))	fågeln väntar på kvinnan	fågeln väntar på kvinnan
+PredVPS (DetCN thePl_Det (UseN beer_N)) (ComplV2 eat_V2 (UsePron she_Pron))	ölen äter henne	ölen äter henne
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA ready_A)))	de är färdiga	de är färdiga
+PredVPS (DetCN thePl_Det (UseN apple_N)) (ComplV2 find_V2 (DetCN the_Det (UseN girl_N)))	äpplena finner flickan	äpplena finner flickan
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA big_A)))	han är stor	han är stor
+PredVPS (DetCN thePl_Det (AdjCN (PositA black_A) (UseN cat_N))) (UseV come_V)	de svarta katterna kommer	de svarta katterna kommer
+PredVPS (UsePron she_Pron) (ComplV2 eat_V2 (DetCN the_Det (UseN child_N)))	hon äter barnet	hon äter barnet
+PredVPS (UsePron he_Pron) (ComplV2 find_V2 (UsePron they_Pron))	han finner dem	han finner dem
+PredVPS (UsePron they_Pron) (ComplV2 kill_V2 (UsePron she_Pron))	de dödar henne	de dödar henne
+PredVPS (DetCN a_Det (AdjCN (PositA ready_A) (UseN woman_N))) (ComplV2 read_V2 (UsePron she_Pron))	en färdig kvinna läser henne	en färdig kvinna läser henne
+PredVPS (DetCN thePl_Det (UseN book_N)) (ComplV2 kill_V2 (UsePron they_Pron))	böckerna dödar dem	böckerna dödar dem
+PredVPS (UsePron she_Pron) (UseV come_V)	hon kommer	hon kommer
+PredVPS (UsePron she_Pron) (ComplV2 see_V2 (DetCN a_Det (UseN cow_N)))	hon ser en ko	hon ser en ko
+PredVPS (UsePron he_Pron) (ComplV2 understand_V2 (UsePron he_Pron))	han förstår honom	han förstår honom
+PredVPS (DetCN the_Det (AdjCN (PositA bad_A) (UseN cloud_N))) (AdvVP (ComplV2 break_V2 (UsePron they_Pron)) now_Adv)	det dåliga molnet slår dem sönder nu	det dåliga molnet slår sönder dem nu
+PredVPS (UsePron he_Pron) (UseV run_V)	han springer	han springer
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 understand_V2 (UsePron he_Pron)) (PrepNP with_Prep (UsePron she_Pron)))	de förstår honom med henne	de förstår honom med henne
+PredVPS (DetCN the_Det (UseN river_N)) (UseComp (CompAP (PositA clean_A)))	ån är ren	ån är ren
+PredVPS (DetCN thePl_Det (UseN car_N)) (UseComp (CompAP (PositA cold_A)))	bilarna är kalla	bilarna är kalla
+PredVPS (UsePron they_Pron) (UseV sleep_V)	de sover	de sover
+PredVPS (UsePron they_Pron) (AdvVP (UseV walk_V) now_Adv)	de går nu	de går nu
+PredVPS (UsePron she_Pron) (ComplV2 find_V2 (DetCN aPl_Det (UseN horse_N)))	hon finner hästar	hon finner hästar
+PredVPS (UsePron she_Pron) (ComplV2 understand_V2 (DetCN thePl_Det (UseN ship_N)))	hon förstår skeppen	hon förstår skeppen
+PredVPS (DetCN a_Det (AdjCN (PositA new_A) (UseN bike_N))) (UseComp (CompAP (PositA black_A)))	en ny cykel är svart	en ny cykel är svart
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA bad_A)))	han är dålig	han är dålig
+PredVPS (UsePron they_Pron) (UseV come_V)	de kommer	de kommer
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA dirty_A)))	hon är smutsig	hon är smutsig
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA warm_A)))	han är varm	han är varm
+PredVPS (DetCN a_Det (UseN flower_N)) (AdvVP (AdvVP (UseV sleep_V) now_Adv) already_Adv)	en blomma sover nu redan	en blomma sover nu redan
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV travel_V) already_Adv) (PrepNP in_Prep (UsePron he_Pron)))	han reser redan i honom	han reser redan i honom
+PredVPS (UsePron she_Pron) (UseV go_V)	hon går	hon går
+PredVPS (DetCN the_Det (AdjCN (PositA cold_A) (UseN blood_N))) (ComplV2 teach_V2 (DetCN the_Det (UseN wine_N)))	det kalla blodet undervisar vinet	det kalla blodet undervisar vinet
+PredVPS (UsePron they_Pron) (ComplV2 wait_V2 (UsePron they_Pron))	de väntar på dem	de väntar på dem
+PredVPS (DetCN a_Det (AdjCN (PositA ready_A) (UseN animal_N))) (UseComp (CompAP (PositA clever_A)))	ett färdigt djur är klokt	ett färdigt djur är klokt
+PredVPS (DetCN the_Det (UseN grammar_N)) (ComplV2 read_V2 (UsePron they_Pron))	grammatiken läser dem	grammatiken läser dem
+PredVPS (DetCN thePl_Det (AdjCN (PositA new_A) (UseN language_N))) (ComplV2 love_V2 (DetCN the_Det (UseN horse_N)))	de nya språken älskar hästen	de nya språken älskar hästen
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA good_A)))	de är goda	de är goda
+PredVPS (DetCN aPl_Det (AdjCN (PositA ready_A) (UseN flower_N))) (UseV come_V)	färdiga blommor kommer	färdiga blommor kommer
+PredVPS (UsePron they_Pron) (ComplV2 drink_V2 (UsePron he_Pron))	de dricker honom	de dricker honom
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA dirty_A)))	de är smutsiga	de är smutsiga
+PredVPS (UsePron she_Pron) (UseV run_V)	hon springer	hon springer
+PredVPS (DetCN aPl_Det (UseN tree_N)) (UseV walk_V)	träd går	träd går
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA black_A)))	han är svart	han är svart
+PredVPS (DetCN a_Det (AdjCN (PositA young_A) (UseN boy_N))) (ComplV2 kill_V2 (DetCN a_Det (UseN house_N)))	en ung pojke dödar ett hus	en ung pojke dödar ett hus
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 read_V2 (UsePron they_Pron)) already_Adv)	han läser dem redan	han läser dem redan
+PredVPS (DetCN a_Det (UseN cow_N)) (AdvVP (AdvVP (UseV go_V) now_Adv) already_Adv)	en ko går nu redan	en ko går nu redan
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA blue_A)))	de är blåa	de är blåa
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA blue_A)))	de är blåa	de är blåa
+PredVPS (UsePron she_Pron) (UseV jump_V)	hon hoppar	hon hoppar
+PredVPS (DetCN aPl_Det (AdjCN (PositA red_A) (UseN boat_N))) (AdvVP (ComplV2 find_V2 (UsePron they_Pron)) (PrepNP on_Prep (UsePron they_Pron)))	röda båtar finner dem på dem	röda båtar finner dem på dem
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 see_V2 (UsePron he_Pron)) now_Adv)	hon ser honom nu	hon ser honom nu
+PredVPS (DetCN a_Det (AdjCN (PositA ready_A) (UseN language_N))) (AdvVP (UseV walk_V) now_Adv)	ett färdigt språk går nu	ett färdigt språk går nu
+PredVPS (DetCN thePl_Det (UseN boy_N)) (UseComp (CompAP (PositA clean_A)))	pojkarna är rena	pojkarna är rena
+PredVPS (UsePron she_Pron) (UseV jump_V)	hon hoppar	hon hoppar
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 kill_V2 (UsePron she_Pron)) now_Adv)	de dödar henne nu	de dödar henne nu
+PredVPS (UsePron he_Pron) (ComplV2 understand_V2 (UsePron she_Pron))	han förstår henne	han förstår henne
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 break_V2 (UsePron they_Pron)) already_Adv)	hon slår dem sönder redan	hon slår sönder dem redan
+PredVPS (DetCN a_Det (AdjCN (PositA red_A) (UseN water_N))) (UseComp (CompAP (PositA hot_A)))	ett rött vatten är hett	ett rött vatten är hett
+PredVPS (UsePron he_Pron) (UseV swim_V)	han simmar	han simmar
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV run_V) already_Adv) now_Adv)	han springer redan nu	han springer redan nu
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV walk_V) already_Adv) now_Adv)	han går redan nu	han går redan nu
+PredVPS (DetCN the_Det (AdjCN (PositA black_A) (UseN ship_N))) (UseComp (CompAP (PositA clean_A)))	det svarta skeppet är rent	det svarta skeppet är rent
+PredVPS (DetCN aPl_Det (UseN water_N)) (ComplV2 teach_V2 (UsePron he_Pron))	vatten undervisar honom	vatten undervisar honom
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA good_A)))	hon är god	hon är god
+PredVPS (UsePron she_Pron) (AdvVP (UseV sleep_V) now_Adv)	hon sover nu	hon sover nu
+PredVPS (UsePron they_Pron) (UseV walk_V)	de går	de går
+PredVPS (UsePron he_Pron) (UseV sleep_V)	han sover	han sover
+PredVPS (UsePron he_Pron) (UseV travel_V)	han reser	han reser
+PredVPS (DetCN aPl_Det (AdjCN (PositA green_A) (UseN baby_N))) (AdvVP (UseV sleep_V) (PrepNP with_Prep (UsePron she_Pron)))	gröna bebisar sover med henne	gröna bebisar sover med henne
+PredVPS (UsePron they_Pron) (ComplV2 read_V2 (UsePron they_Pron))	de läser dem	de läser dem
+PredVPS (DetCN aPl_Det (AdjCN (PositA ready_A) (UseN apple_N))) (UseComp (CompAP (PositA clever_A)))	färdiga äpplen är kloka	färdiga äpplen är kloka
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA old_A)))	hon är gammal	hon är gammal
+PredVPS (DetCN thePl_Det (UseN friend_N)) (ComplV2 find_V2 (UsePron she_Pron))	vännerna finner henne	vännerna finner henne
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 kill_V2 (UsePron they_Pron)) already_Adv)	hon dödar dem redan	hon dödar dem redan
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA young_A)))	han är ung	han är ung
+PredVPS (DetCN the_Det (UseN friend_N)) (UseComp (CompAP (PositA warm_A)))	vännen är varm	vännen är varm
+PredVPS (UsePron she_Pron) (ComplV2 break_V2 (UsePron she_Pron))	hon slår henne sönder	hon slår sönder henne
+PredVPS (UsePron she_Pron) (UseV walk_V)	hon går	hon går
+PredVPS (DetCN thePl_Det (AdjCN (PositA black_A) (UseN boy_N))) (UseV swim_V)	de svarta pojkarna simmar	de svarta pojkarna simmar
+PredVPS (UsePron he_Pron) (ComplV2 teach_V2 (UsePron they_Pron))	han undervisar dem	han undervisar dem
+PredVPS (UsePron she_Pron) (UseV play_V)	hon leker	hon leker
+PredVPS (DetCN aPl_Det (UseN man_N)) (ComplV2 eat_V2 (UsePron they_Pron))	män äter dem	män äter dem
+PredVPS (UsePron she_Pron) (UseV come_V)	hon kommer	hon kommer
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA clean_A)))	hon är ren	hon är ren
+PredVPS (UsePron she_Pron) (UseV live_V)	hon lever	hon lever
+PredVPS (DetCN thePl_Det (UseN animal_N)) (ComplV2 see_V2 (UsePron she_Pron))	djuren ser henne	djuren ser henne
+PredVPS (UsePron they_Pron) (AdvVP (UseV come_V) now_Adv)	de kommer nu	de kommer nu
+PredVPS (DetCN the_Det (AdjCN (PositA heavy_A) (UseN horse_N))) (ComplV2 kill_V2 (UsePron he_Pron))	den tunga hästen dödar honom	den tunga hästen dödar honom
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA clever_A)))	hon är klok	hon är klok
+PredVPS (DetCN thePl_Det (UseN apple_N)) (AdvVP (ComplV2 love_V2 (UsePron he_Pron)) already_Adv)	äpplena älskar honom redan	äpplena älskar honom redan
+PredVPS (UsePron she_Pron) (UseV swim_V)	hon simmar	hon simmar
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA bad_A)))	han är dålig	han är dålig
+PredVPS (DetCN aPl_Det (AdjCN (PositA heavy_A) (UseN computer_N))) (AdvVP (ComplV2 eat_V2 (UsePron she_Pron)) (PrepNP in_Prep (UsePron she_Pron)))	tunga datorer äter henne i henne	tunga datorer äter henne i henne
+PredVPS (DetCN thePl_Det (UseN dog_N)) (UseV swim_V)	hundarna simmar	hundarna simmar
+PredVPS (DetCN the_Det (UseN cloud_N)) (ComplV2 teach_V2 (DetCN the_Det (UseN cloud_N)))	molnet undervisar molnet	molnet undervisar molnet
+PredVPS (DetCN a_Det (AdjCN (PositA heavy_A) (UseN woman_N))) (UseComp (CompAP (PositA new_A)))	en tung kvinna är ny	en tung kvinna är ny
+PredVPS (DetCN the_Det (AdjCN (PositA small_A) (UseN cloud_N))) (ComplV2 love_V2 (DetCN the_Det (UseN fish_N)))	det lilla molnet älskar fisken	det lilla molnet älskar fisken
+PredVPS (DetCN thePl_Det (UseN friend_N)) (ComplV2 eat_V2 (DetCN thePl_Det (UseN river_N)))	vännerna äter åarna	vännerna äter åarna
+PredVPS (DetCN thePl_Det (UseN language_N)) (ComplV2 understand_V2 (UsePron she_Pron))	språken förstår henne	språken förstår henne
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA black_A)))	han är svart	han är svart
+PredVPS (UsePron he_Pron) (ComplV2 see_V2 (DetCN aPl_Det (UseN child_N)))	han ser barn	han ser barn
+PredVPS (UsePron she_Pron) (UseV travel_V)	hon reser	hon reser
+PredVPS (UsePron he_Pron) (UseV live_V)	han lever	han lever
+PredVPS (DetCN aPl_Det (AdjCN (PositA big_A) (UseN girl_N))) (UseV travel_V)	stora flickor reser	stora flickor reser
+PredVPS (DetCN aPl_Det (AdjCN (PositA heavy_A) (UseN book_N))) (AdvVP (ComplV2 eat_V2 (UsePron she_Pron)) (PrepNP on_Prep (UsePron they_Pron)))	tunga böcker äter henne på dem	tunga böcker äter henne på dem
+PredVPS (DetCN a_Det (AdjCN (PositA blue_A) (UseN train_N))) (AdvVP (AdvVP (UseV come_V) now_Adv) now_Adv)	ett blått tåg kommer nu nu	ett blått tåg kommer nu nu
+PredVPS (DetCN thePl_Det (AdjCN (PositA old_A) (UseN fire_N))) (AdvVP (AdvVP (UseV run_V) already_Adv) already_Adv)	de gamla eldarna springer redan redan	de gamla eldarna springer redan redan
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA dirty_A)))	de är smutsiga	de är smutsiga
+PredVPS (UsePron she_Pron) (ComplV2 understand_V2 (UsePron she_Pron))	hon förstår henne	hon förstår henne
+PredVPS (UsePron she_Pron) (UseV walk_V)	hon går	hon går
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA new_A)))	hon är ny	hon är ny
+PredVPS (UsePron she_Pron) (AdvVP (UseV swim_V) now_Adv)	hon simmar nu	hon simmar nu
+PredVPS (UsePron he_Pron) (UseV walk_V)	han går	han går
+PredVPS (UsePron she_Pron) (ComplV2 read_V2 (UsePron they_Pron))	hon läser dem	hon läser dem
+PredVPS (UsePron he_Pron) (UseV jump_V)	han hoppar	han hoppar
+PredVPS (DetCN a_Det (AdjCN (PositA good_A) (UseN boat_N))) (UseComp (CompAP (PositA clever_A)))	en god båt är klok	en god båt är klok
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA cold_A)))	hon är kall	hon är kall
+PredVPS (UsePron they_Pron) (UseV run_V)	de springer	de springer
+PredVPS (DetCN the_Det (UseN cow_N)) (AdvVP (ComplV2 understand_V2 (UsePron she_Pron)) (PrepNP with_Prep (UsePron they_Pron)))	kon förstår henne med dem	kon förstår henne med dem
+PredVPS (DetCN thePl_Det (AdjCN (PositA ready_A) (UseN car_N))) (ComplV2 kill_V2 (DetCN thePl_Det (UseN animal_N)))	de färdiga bilarna dödar djuren	de färdiga bilarna dödar djuren
+PredVPS (DetCN thePl_Det (UseN child_N)) (UseComp (CompAP (PositA red_A)))	barnen är röda	barnen är röda
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA dirty_A)))	hon är smutsig	hon är smutsig
+PredVPS (DetCN the_Det (AdjCN (PositA small_A) (UseN tree_N))) (UseComp (CompAP (PositA dirty_A)))	det lilla trädet är smutsigt	det lilla trädet är smutsigt
+PredVPS (UsePron he_Pron) (ComplV2 drink_V2 (DetCN a_Det (UseN fire_N)))	han dricker en eld	han dricker en eld
+PredVPS (DetCN aPl_Det (UseN woman_N)) (AdvVP (AdvVP (UseV come_V) now_Adv) (PrepNP on_Prep (UsePron she_Pron)))	kvinnor kommer nu på henne	kvinnor kommer nu på henne
+PredVPS (UsePron she_Pron) (UseV come_V)	hon kommer	hon kommer
+PredVPS (DetCN a_Det (UseN car_N)) (AdvVP (AdvVP (UseV live_V) now_Adv) already_Adv)	en bil lever nu redan	en bil lever nu redan
+PredVPS (UsePron they_Pron) (UseV swim_V)	de simmar	de simmar
+PredVPS (DetCN a_Det (AdjCN (PositA young_A) (UseN friend_N))) (AdvVP (UseV run_V) (PrepNP with_Prep (UsePron he_Pron)))	en ung vän springer med honom	en ung vän springer med honom
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV come_V) now_Adv) now_Adv)	de kommer nu nu	de kommer nu nu
+PredVPS (DetCN the_Det (UseN beer_N)) (UseComp (CompAP (PositA dirty_A)))	ölet är smutsigt	ölet är smutsigt
+PredVPS (DetCN aPl_Det (UseN wine_N)) (UseComp (CompAP (PositA old_A)))	viner är gamla	viner är gamla
+PredVPS (UsePron she_Pron) (ComplV2 drink_V2 (DetCN the_Det (UseN bird_N)))	hon dricker fågeln	hon dricker fågeln
+PredVPS (UsePron they_Pron) (UseV travel_V)	de reser	de reser
+PredVPS (DetCN thePl_Det (UseN bike_N)) (ComplV2 find_V2 (UsePron she_Pron))	cyklarna finner henne	cyklarna finner henne
+PredVPS (DetCN aPl_Det (AdjCN (PositA old_A) (UseN house_N))) (AdvVP (AdvVP (UseV walk_V) already_Adv) (PrepNP in_Prep (UsePron he_Pron)))	gamla hus går redan i honom	gamla hus går redan i honom
+PredVPS (UsePron she_Pron) (ComplV2 understand_V2 (UsePron she_Pron))	hon förstår henne	hon förstår henne
+PredVPS (UsePron she_Pron) (AdvVP (AdvVP (UseV live_V) now_Adv) now_Adv)	hon lever nu nu	hon lever nu nu
+PredVPS (DetCN the_Det (AdjCN (PositA white_A) (UseN baby_N))) (ComplV2 understand_V2 (UsePron they_Pron))	den vita bebisen förstår dem	den vita bebisen förstår dem
+PredVPS (UsePron she_Pron) (ComplV2 read_V2 (UsePron he_Pron))	hon läser honom	hon läser honom
+PredVPS (DetCN thePl_Det (UseN child_N)) (UseComp (CompAP (PositA hot_A)))	barnen är heta	barnen är heta
+PredVPS (DetCN a_Det (AdjCN (PositA clever_A) (UseN fish_N))) (AdvVP (UseV live_V) already_Adv)	en klok fisk lever redan	en klok fisk lever redan
+PredVPS (DetCN a_Det (AdjCN (PositA warm_A) (UseN grammar_N))) (ComplV2 wait_V2 (DetCN aPl_Det (UseN cat_N)))	en varm grammatik väntar på katter	en varm grammatik väntar på katter
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA heavy_A)))	de är tunga	de är tunga
+PredVPS (UsePron they_Pron) (ComplV2 love_V2 (DetCN aPl_Det (UseN computer_N)))	de älskar datorer	de älskar datorer
+PredVPS (UsePron he_Pron) (UseV sleep_V)	han sover	han sover
+PredVPS (DetCN a_Det (AdjCN (PositA green_A) (UseN apple_N))) (UseComp (CompAP (PositA bad_A)))	ett grönt äpple är dåligt	ett grönt äpple är dåligt
+PredVPS (DetCN aPl_Det (AdjCN (PositA big_A) (UseN boy_N))) (ComplV2 drink_V2 (DetCN aPl_Det (UseN cow_N)))	stora pojkar dricker kor	stora pojkar dricker kor
+PredVPS (UsePron she_Pron) (ComplV2 love_V2 (UsePron he_Pron))	hon älskar honom	hon älskar honom
+PredVPS (UsePron she_Pron) (UseV play_V)	hon leker	hon leker
+PredVPS (DetCN aPl_Det (UseN tree_N)) (UseV go_V)	träd går	träd går
+PredVPS (DetCN thePl_Det (AdjCN (PositA ready_A) (UseN animal_N))) (UseV sleep_V)	de färdiga djuren sover	de färdiga djuren sover
+PredVPS (DetCN a_Det (AdjCN (PositA black_A) (UseN boat_N))) (AdvVP (AdvVP (UseV run_V) already_Adv) now_Adv)	en svart båt springer redan nu	en svart båt springer redan nu
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA clever_A)))	hon är klok	hon är klok
+PredVPS (UsePron they_Pron) (ComplV2 wait_V2 (UsePron they_Pron))	de väntar på dem	de väntar på dem
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA black_A)))	de är svarta	de är svarta
+PredVPS (UsePron he_Pron) (UseV sleep_V)	han sover	han sover
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA hot_A)))	han är het	han är het
+PredVPS (DetCN aPl_Det (AdjCN (PositA cold_A) (UseN city_N))) (ComplV2 kill_V2 (DetCN aPl_Det (UseN apple_N)))	kalla städer dödar äpplen	kalla städer dödar äpplen
+PredVPS (UsePron they_Pron) (ComplV2 read_V2 (DetCN thePl_Det (UseN boy_N)))	de läser pojkarna	de läser pojkarna
+PredVPS (UsePron they_Pron) (UseV go_V)	de går	de går
+PredVPS (DetCN aPl_Det (UseN bird_N)) (UseV travel_V)	fåglar reser	fåglar reser
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA good_A)))	de är goda	de är goda
+PredVPS (DetCN aPl_Det (UseN star_N)) (ComplV2 wait_V2 (UsePron he_Pron))	stjärnor väntar på honom	stjärnor väntar på honom
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 kill_V2 (UsePron he_Pron)) now_Adv)	de dödar honom nu	de dödar honom nu
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA blue_A)))	de är blåa	de är blåa
+PredVPS (UsePron he_Pron) (UseV play_V)	han leker	han leker
+PredVPS (DetCN the_Det (UseN dog_N)) (UseV live_V)	hunden lever	hunden lever
+PredVPS (UsePron they_Pron) (UseV go_V)	de går	de går
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA clean_A)))	han är ren	han är ren
+PredVPS (DetCN a_Det (UseN sea_N)) (AdvVP (ComplV2 read_V2 (UsePron they_Pron)) (PrepNP in_Prep (UsePron she_Pron)))	ett hav läser dem i henne	ett hav läser dem i henne
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV live_V) already_Adv) now_Adv)	han lever redan nu	han lever redan nu
+PredVPS (DetCN aPl_Det (AdjCN (PositA clever_A) (UseN water_N))) (UseV come_V)	kloka vatten kommer	kloka vatten kommer
+PredVPS (UsePron they_Pron) (ComplV2 wait_V2 (UsePron they_Pron))	de väntar på dem	de väntar på dem
+PredVPS (UsePron they_Pron) (UseV jump_V)	de hoppar	de hoppar
+PredVPS (DetCN a_Det (UseN man_N)) (UseV swim_V)	en man simmar	en man simmar
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 find_V2 (UsePron he_Pron)) (PrepNP on_Prep (UsePron he_Pron)))	han finner honom på honom	han finner honom på honom
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV come_V) now_Adv) now_Adv)	de kommer nu nu	de kommer nu nu
+PredVPS (DetCN the_Det (UseN computer_N)) (AdvVP (ComplV2 kill_V2 (UsePron he_Pron)) now_Adv)	datorn dödar honom nu	datorn dödar honom nu
+PredVPS (UsePron they_Pron) (UseV walk_V)	de går	de går
+PredVPS (DetCN thePl_Det (AdjCN (PositA big_A) (UseN bread_N))) (UseV come_V)	de stora bröden kommer	de stora bröden kommer
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA clean_A)))	de är rena	de är rena
+PredVPS (DetCN a_Det (UseN city_N)) (ComplV2 eat_V2 (UsePron she_Pron))	en stad äter henne	en stad äter henne
+PredVPS (UsePron she_Pron) (ComplV2 drink_V2 (UsePron she_Pron))	hon dricker henne	hon dricker henne
+PredVPS (DetCN aPl_Det (UseN cow_N)) (AdvVP (UseV travel_V) now_Adv)	kor reser nu	kor reser nu
+PredVPS (DetCN the_Det (UseN beer_N)) (ComplV2 understand_V2 (UsePron he_Pron))	ölet förstår honom	ölet förstår honom
+PredVPS (DetCN a_Det (UseN ship_N)) (ComplV2 drink_V2 (DetCN aPl_Det (UseN car_N)))	ett skepp dricker bilar	ett skepp dricker bilar
+PredVPS (DetCN a_Det (AdjCN (PositA blue_A) (UseN ship_N))) (AdvVP (AdvVP (UseV run_V) already_Adv) already_Adv)	ett blått skepp springer redan redan	ett blått skepp springer redan redan
+PredVPS (UsePron he_Pron) (AdvVP (UseV swim_V) (PrepNP on_Prep (UsePron she_Pron)))	han simmar på henne	han simmar på henne
+PredVPS (UsePron she_Pron) (ComplV2 wait_V2 (DetCN a_Det (UseN woman_N)))	hon väntar på en kvinna	hon väntar på en kvinna
+PredVPS (DetCN aPl_Det (UseN apple_N)) (UseComp (CompAP (PositA warm_A)))	äpplen är varma	äpplen är varma
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA dirty_A)))	de är smutsiga	de är smutsiga
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA yellow_A)))	han är gul	han är gul
+PredVPS (DetCN a_Det (UseN star_N)) (AdvVP (AdvVP (UseV travel_V) already_Adv) already_Adv)	en stjärna reser redan redan	en stjärna reser redan redan
+PredVPS (UsePron he_Pron) (ComplV2 find_V2 (DetCN aPl_Det (UseN blood_N)))	han finner blod	han finner blod
+PredVPS (DetCN aPl_Det (AdjCN (PositA clean_A) (UseN language_N))) (UseComp (CompAP (PositA clever_A)))	rena språk är kloka	rena språk är kloka
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA heavy_A)))	han är tung	han är tung
+PredVPS (UsePron he_Pron) (UseV sleep_V)	han sover	han sover
+PredVPS (DetCN a_Det (UseN boy_N)) (AdvVP (ComplV2 see_V2 (UsePron he_Pron)) already_Adv)	en pojke ser honom redan	en pojke ser honom redan
+PredVPS (UsePron she_Pron) (AdvVP (UseV come_V) now_Adv)	hon kommer nu	hon kommer nu
+PredVPS (DetCN the_Det (AdjCN (PositA young_A) (UseN flower_N))) (AdvVP (UseV play_V) already_Adv)	den unga blomman leker redan	den unga blomman leker redan
+PredVPS (DetCN a_Det (UseN city_N)) (UseV swim_V)	en stad simmar	en stad simmar
+PredVPS (DetCN thePl_Det (UseN cow_N)) (AdvVP (UseV play_V) now_Adv)	korna leker nu	korna leker nu
+PredVPS (DetCN the_Det (AdjCN (PositA black_A) (UseN river_N))) (AdvVP (UseV walk_V) (PrepNP with_Prep (UsePron she_Pron)))	den svarta ån går med henne	den svarta ån går med henne
+PredVPS (DetCN thePl_Det (AdjCN (PositA green_A) (UseN water_N))) (AdvVP (UseV swim_V) already_Adv)	de gröna vattnen simmar redan	de gröna vattnen simmar redan
+PredVPS (UsePron they_Pron) (AdvVP (UseV play_V) already_Adv)	de leker redan	de leker redan
+PredVPS (UsePron they_Pron) (ComplV2 read_V2 (DetCN thePl_Det (UseN grammar_N)))	de läser grammatikerna	de läser grammatikerna
+PredVPS (DetCN a_Det (AdjCN (PositA white_A) (UseN fish_N))) (AdvVP (ComplV2 see_V2 (UsePron they_Pron)) now_Adv)	en vit fisk ser dem nu	en vit fisk ser dem nu
+PredVPS (DetCN aPl_Det (UseN baby_N)) (UseComp (CompAP (PositA young_A)))	bebisar är unga	bebisar är unga
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 teach_V2 (UsePron he_Pron)) now_Adv)	hon undervisar honom nu	hon undervisar honom nu
+PredVPS (DetCN a_Det (UseN boat_N)) (UseComp (CompAP (PositA hot_A)))	en båt är het	en båt är het
+PredVPS (DetCN a_Det (UseN girl_N)) (UseV live_V)	en flicka lever	en flicka lever
+PredVPS (UsePron he_Pron) (UseV run_V)	han springer	han springer
+PredVPS (DetCN thePl_Det (UseN language_N)) (UseV play_V)	språken leker	språken leker
+PredVPS (DetCN thePl_Det (UseN tree_N)) (AdvVP (ComplV2 kill_V2 (UsePron she_Pron)) (PrepNP on_Prep (UsePron she_Pron)))	träden dödar henne på henne	träden dödar henne på henne
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 love_V2 (UsePron he_Pron)) (PrepNP on_Prep (UsePron he_Pron)))	han älskar honom på honom	han älskar honom på honom
+PredVPS (DetCN the_Det (AdjCN (PositA black_A) (UseN river_N))) (UseV play_V)	den svarta ån leker	den svarta ån leker
+PredVPS (DetCN aPl_Det (AdjCN (PositA warm_A) (UseN bird_N))) (ComplV2 see_V2 (UsePron they_Pron))	varma fåglar ser dem	varma fåglar ser dem
+PredVPS (DetCN a_Det (UseN horse_N)) (ComplV2 break_V2 (DetCN a_Det (UseN sea_N)))	en häst slår sönder ett hav	en häst slår sönder ett hav
+PredVPS (DetCN thePl_Det (UseN baby_N)) (AdvVP (AdvVP (UseV go_V) now_Adv) now_Adv)	bebisarna går nu nu	bebisarna går nu nu
+PredVPS (DetCN a_Det (AdjCN (PositA cold_A) (UseN book_N))) (AdvVP (ComplV2 eat_V2 (UsePron she_Pron)) (PrepNP with_Prep (UsePron she_Pron)))	en kall bok äter henne med henne	en kall bok äter henne med henne
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA new_A)))	de är nya	de är nya
+PredVPS (DetCN thePl_Det (AdjCN (PositA red_A) (UseN bird_N))) (UseV run_V)	de röda fåglarna springer	de röda fåglarna springer
+PredVPS (DetCN thePl_Det (UseN horse_N)) (AdvVP (UseV swim_V) now_Adv)	hästarna simmar nu	hästarna simmar nu
+PredVPS (UsePron she_Pron) (AdvVP (AdvVP (UseV walk_V) now_Adv) now_Adv)	hon går nu nu	hon går nu nu
+PredVPS (DetCN thePl_Det (AdjCN (PositA hot_A) (UseN language_N))) (AdvVP (UseV walk_V) now_Adv)	de heta språken går nu	de heta språken går nu
+PredVPS (DetCN a_Det (AdjCN (PositA cold_A) (UseN grammar_N))) (AdvVP (UseV jump_V) already_Adv)	en kall grammatik hoppar redan	en kall grammatik hoppar redan
+PredVPS (UsePron they_Pron) (UseV run_V)	de springer	de springer
+PredVPS (DetCN thePl_Det (UseN ship_N)) (ComplV2 drink_V2 (UsePron he_Pron))	skeppen dricker honom	skeppen dricker honom
+PredVPS (DetCN aPl_Det (AdjCN (PositA warm_A) (UseN ship_N))) (ComplV2 eat_V2 (UsePron she_Pron))	varma skepp äter henne	varma skepp äter henne
+PredVPS (DetCN the_Det (UseN fish_N)) (UseV go_V)	fisken går	fisken går
+PredVPS (DetCN aPl_Det (AdjCN (PositA hot_A) (UseN man_N))) (AdvVP (AdvVP (UseV go_V) now_Adv) (PrepNP on_Prep (UsePron he_Pron)))	heta män går nu på honom	heta män går nu på honom
+PredVPS (DetCN thePl_Det (UseN friend_N)) (UseV sleep_V)	vännerna sover	vännerna sover
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 eat_V2 (UsePron they_Pron)) already_Adv)	hon äter dem redan	hon äter dem redan
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA big_A)))	hon är stor	hon är stor
+PredVPS (UsePron she_Pron) (ComplV2 eat_V2 (UsePron they_Pron))	hon äter dem	hon äter dem
+PredVPS (DetCN a_Det (AdjCN (PositA green_A) (UseN wine_N))) (ComplV2 understand_V2 (DetCN aPl_Det (UseN book_N)))	ett grönt vin förstår böcker	ett grönt vin förstår böcker
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA young_A)))	han är ung	han är ung
+PredVPS (DetCN the_Det (AdjCN (PositA warm_A) (UseN bread_N))) (UseV go_V)	det varma brödet går	det varma brödet går
+PredVPS (DetCN a_Det (AdjCN (PositA dirty_A) (UseN beer_N))) (UseComp (CompAP (PositA dirty_A)))	ett smutsigt öl är smutsigt	ett smutsigt öl är smutsigt
+PredVPS (DetCN thePl_Det (UseN horse_N)) (UseV run_V)	hästarna springer	hästarna springer
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA clever_A)))	hon är klok	hon är klok
+PredVPS (DetCN a_Det (AdjCN (PositA old_A) (UseN water_N))) (UseV live_V)	ett gammalt vatten lever	ett gammalt vatten lever
+PredVPS (DetCN aPl_Det (AdjCN (PositA dirty_A) (UseN sea_N))) (ComplV2 drink_V2 (DetCN the_Det (UseN river_N)))	smutsiga hav dricker ån	smutsiga hav dricker ån
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA dirty_A)))	de är smutsiga	de är smutsiga
+PredVPS (UsePron she_Pron) (ComplV2 find_V2 (UsePron she_Pron))	hon finner henne	hon finner henne
+PredVPS (UsePron they_Pron) (UseV travel_V)	de reser	de reser
+PredVPS (UsePron she_Pron) (UseV live_V)	hon lever	hon lever
+PredVPS (DetCN thePl_Det (AdjCN (PositA bad_A) (UseN car_N))) (UseV swim_V)	de dåliga bilarna simmar	de dåliga bilarna simmar
+PredVPS (UsePron they_Pron) (AdvVP (UseV walk_V) already_Adv)	de går redan	de går redan
+PredVPS (UsePron he_Pron) (ComplV2 see_V2 (UsePron she_Pron))	han ser henne	han ser henne
+PredVPS (DetCN thePl_Det (AdjCN (PositA heavy_A) (UseN woman_N))) (ComplV2 break_V2 (DetCN the_Det (UseN ship_N)))	de tunga kvinnorna slår sönder skeppet	de tunga kvinnorna slår sönder skeppet
+PredVPS (DetCN aPl_Det (UseN cloud_N)) (AdvVP (ComplV2 eat_V2 (UsePron they_Pron)) already_Adv)	moln äter dem redan	moln äter dem redan
+PredVPS (UsePron he_Pron) (UseV come_V)	han kommer	han kommer
+PredVPS (UsePron he_Pron) (AdvVP (UseV swim_V) already_Adv)	han simmar redan	han simmar redan
+PredVPS (DetCN a_Det (AdjCN (PositA big_A) (UseN boy_N))) (UseV sleep_V)	en stor pojke sover	en stor pojke sover
+PredVPS (DetCN thePl_Det (AdjCN (PositA black_A) (UseN flower_N))) (UseV travel_V)	de svarta blommorna reser	de svarta blommorna reser
+PredVPS (DetCN thePl_Det (AdjCN (PositA clean_A) (UseN computer_N))) (ComplV2 buy_V2 (UsePron they_Pron))	de rena datorerna köper dem	de rena datorerna köper dem
+PredVPS (DetCN aPl_Det (AdjCN (PositA clever_A) (UseN flower_N))) (AdvVP (AdvVP (UseV walk_V) now_Adv) now_Adv)	kloka blommor går nu nu	kloka blommor går nu nu
+PredVPS (DetCN the_Det (AdjCN (PositA new_A) (UseN book_N))) (UseV run_V)	den nya boken springer	den nya boken springer
+PredVPS (UsePron she_Pron) (ComplV2 kill_V2 (DetCN a_Det (UseN fire_N)))	hon dödar en eld	hon dödar en eld
+PredVPS (UsePron he_Pron) (ComplV2 love_V2 (UsePron he_Pron))	han älskar honom	han älskar honom
+PredVPS (DetCN a_Det (UseN grammar_N)) (UseComp (CompAP (PositA hot_A)))	en grammatik är het	en grammatik är het
+PredVPS (DetCN aPl_Det (UseN friend_N)) (ComplV2 read_V2 (UsePron she_Pron))	vänner läser henne	vänner läser henne
+PredVPS (UsePron they_Pron) (AdvVP (UseV walk_V) already_Adv)	de går redan	de går redan
+PredVPS (UsePron she_Pron) (AdvVP (UseV swim_V) now_Adv)	hon simmar nu	hon simmar nu
+PredVPS (UsePron she_Pron) (ComplV2 drink_V2 (UsePron he_Pron))	hon dricker honom	hon dricker honom
+PredVPS (DetCN the_Det (AdjCN (PositA black_A) (UseN sea_N))) (UseComp (CompAP (PositA new_A)))	det svarta havet är nytt	det svarta havet är nytt
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA white_A)))	de är vita	de är vita
+PredVPS (UsePron they_Pron) (AdvVP (UseV run_V) already_Adv)	de springer redan	de springer redan
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA clean_A)))	de är rena	de är rena
+PredVPS (DetCN the_Det (UseN book_N)) (ComplV2 find_V2 (UsePron she_Pron))	boken finner henne	boken finner henne
+PredVPS (DetCN thePl_Det (AdjCN (PositA clever_A) (UseN dog_N))) (UseComp (CompAP (PositA warm_A)))	de kloka hundarna är varma	de kloka hundarna är varma
+PredVPS (DetCN a_Det (UseN flower_N)) (AdvVP (AdvVP (UseV sleep_V) now_Adv) already_Adv)	en blomma sover nu redan	en blomma sover nu redan
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 understand_V2 (UsePron they_Pron)) already_Adv)	han förstår dem redan	han förstår dem redan
+PredVPS (DetCN thePl_Det (AdjCN (PositA clean_A) (UseN dog_N))) (UseComp (CompAP (PositA warm_A)))	de rena hundarna är varma	de rena hundarna är varma
+PredVPS (UsePron he_Pron) (ComplV2 read_V2 (UsePron he_Pron))	han läser honom	han läser honom
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA old_A)))	han är gammal	han är gammal
+PredVPS (UsePron they_Pron) (UseV play_V)	de leker	de leker
+PredVPS (UsePron he_Pron) (UseV travel_V)	han reser	han reser
+PredVPS (UsePron he_Pron) (UseV go_V)	han går	han går
+PredVPS (DetCN aPl_Det (AdjCN (PositA blue_A) (UseN computer_N))) (ComplV2 love_V2 (UsePron she_Pron))	blåa datorer älskar henne	blåa datorer älskar henne
+PredVPS (DetCN the_Det (AdjCN (PositA dirty_A) (UseN city_N))) (AdvVP (ComplV2 drink_V2 (UsePron he_Pron)) already_Adv)	den smutsiga staden dricker honom redan	den smutsiga staden dricker honom redan
+PredVPS (UsePron she_Pron) (UseV go_V)	hon går	hon går
+PredVPS (DetCN a_Det (AdjCN (PositA clever_A) (UseN baby_N))) (UseComp (CompAP (PositA red_A)))	en klok bebis är röd	en klok bebis är röd
+PredVPS (DetCN thePl_Det (UseN dog_N)) (UseComp (CompAP (PositA blue_A)))	hundarna är blåa	hundarna är blåa
+PredVPS (UsePron they_Pron) (ComplV2 understand_V2 (DetCN a_Det (UseN boy_N)))	de förstår en pojke	de förstår en pojke
+PredVPS (UsePron she_Pron) (UseV sleep_V)	hon sover	hon sover
+PredVPS (DetCN aPl_Det (UseN woman_N)) (UseComp (CompAP (PositA cold_A)))	kvinnor är kalla	kvinnor är kalla
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA ready_A)))	han är färdig	han är färdig
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 find_V2 (UsePron they_Pron)) now_Adv)	de finner dem nu	de finner dem nu
+PredVPS (UsePron they_Pron) (ComplV2 wait_V2 (DetCN a_Det (UseN flower_N)))	de väntar på en blomma	de väntar på en blomma
+PredVPS (UsePron she_Pron) (ComplV2 buy_V2 (DetCN the_Det (UseN car_N)))	hon köper bilen	hon köper bilen
+PredVPS (UsePron she_Pron) (UseV live_V)	hon lever	hon lever
+PredVPS (UsePron she_Pron) (AdvVP (UseV come_V) now_Adv)	hon kommer nu	hon kommer nu
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA ready_A)))	de är färdiga	de är färdiga
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA old_A)))	hon är gammal	hon är gammal
+PredVPS (DetCN a_Det (AdjCN (PositA red_A) (UseN apple_N))) (ComplV2 break_V2 (DetCN thePl_Det (UseN book_N)))	ett rött äpple slår sönder böckerna	ett rött äpple slår sönder böckerna
+PredVPS (UsePron she_Pron) (ComplV2 teach_V2 (UsePron she_Pron))	hon undervisar henne	hon undervisar henne
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA warm_A)))	hon är varm	hon är varm
+PredVPS (UsePron they_Pron) (ComplV2 teach_V2 (DetCN a_Det (UseN man_N)))	de undervisar en man	de undervisar en man
+PredVPS (DetCN the_Det (UseN animal_N)) (AdvVP (UseV go_V) already_Adv)	djuret går redan	djuret går redan
+PredVPS (DetCN the_Det (UseN blood_N)) (UseV sleep_V)	blodet sover	blodet sover
+PredVPS (DetCN the_Det (UseN grammar_N)) (UseComp (CompAP (PositA new_A)))	grammatiken är ny	grammatiken är ny
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA good_A)))	hon är god	hon är god
+PredVPS (DetCN the_Det (UseN child_N)) (UseComp (CompAP (PositA warm_A)))	barnet är varmt	barnet är varmt
+PredVPS (DetCN a_Det (AdjCN (PositA red_A) (UseN flower_N))) (AdvVP (ComplV2 find_V2 (UsePron he_Pron)) already_Adv)	en röd blomma finner honom redan	en röd blomma finner honom redan
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA white_A)))	hon är vit	hon är vit
+PredVPS (DetCN thePl_Det (UseN car_N)) (AdvVP (UseV jump_V) now_Adv)	bilarna hoppar nu	bilarna hoppar nu
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA clever_A)))	hon är klok	hon är klok
+PredVPS (UsePron they_Pron) (AdvVP (UseV walk_V) (PrepNP with_Prep (UsePron she_Pron)))	de går med henne	de går med henne
+PredVPS (DetCN thePl_Det (UseN car_N)) (AdvVP (ComplV2 love_V2 (UsePron they_Pron)) (PrepNP with_Prep (UsePron he_Pron)))	bilarna älskar dem med honom	bilarna älskar dem med honom
+PredVPS (UsePron they_Pron) (ComplV2 teach_V2 (DetCN the_Det (UseN train_N)))	de undervisar tåget	de undervisar tåget
+PredVPS (DetCN thePl_Det (UseN fish_N)) (ComplV2 love_V2 (UsePron they_Pron))	fiskarna älskar dem	fiskarna älskar dem
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 break_V2 (UsePron he_Pron)) already_Adv)	han slår honom sönder redan	han slår sönder honom redan
+PredVPS (DetCN thePl_Det (AdjCN (PositA cold_A) (UseN cloud_N))) (ComplV2 find_V2 (DetCN thePl_Det (UseN fish_N)))	de kalla molnen finner fiskarna	de kalla molnen finner fiskarna
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA cold_A)))	han är kall	han är kall
+PredVPS (DetCN thePl_Det (AdjCN (PositA clever_A) (UseN cow_N))) (AdvVP (ComplV2 buy_V2 (UsePron she_Pron)) now_Adv)	de kloka korna köper henne nu	de kloka korna köper henne nu
+PredVPS (UsePron they_Pron) (ComplV2 understand_V2 (DetCN aPl_Det (UseN boy_N)))	de förstår pojkar	de förstår pojkar
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 teach_V2 (UsePron they_Pron)) already_Adv)	de undervisar dem redan	de undervisar dem redan
+PredVPS (UsePron she_Pron) (ComplV2 wait_V2 (UsePron they_Pron))	hon väntar på dem	hon väntar på dem
+PredVPS (DetCN a_Det (UseN baby_N)) (AdvVP (AdvVP (UseV jump_V) already_Adv) now_Adv)	en bebis hoppar redan nu	en bebis hoppar redan nu
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV walk_V) already_Adv) already_Adv)	de går redan redan	de går redan redan
+PredVPS (DetCN thePl_Det (AdjCN (PositA hot_A) (UseN computer_N))) (ComplV2 read_V2 (DetCN aPl_Det (UseN cloud_N)))	de heta datorerna läser moln	de heta datorerna läser moln
+PredVPS (UsePron she_Pron) (ComplV2 wait_V2 (UsePron she_Pron))	hon väntar på henne	hon väntar på henne
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA blue_A)))	hon är blå	hon är blå
+PredVPS (DetCN a_Det (AdjCN (PositA new_A) (UseN star_N))) (UseComp (CompAP (PositA black_A)))	en ny stjärna är svart	en ny stjärna är svart
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 buy_V2 (UsePron he_Pron)) (PrepNP with_Prep (UsePron she_Pron)))	de köper honom med henne	de köper honom med henne
+PredVPS (UsePron he_Pron) (ComplV2 eat_V2 (UsePron he_Pron))	han äter honom	han äter honom
+PredVPS (DetCN aPl_Det (AdjCN (PositA old_A) (UseN fish_N))) (UseComp (CompAP (PositA cold_A)))	gamla fiskar är kalla	gamla fiskar är kalla
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA green_A)))	han är grön	han är grön
+PredVPS (DetCN a_Det (AdjCN (PositA bad_A) (UseN man_N))) (UseV live_V)	en dålig man lever	en dålig man lever
+PredVPS (DetCN thePl_Det (UseN bike_N)) (UseComp (CompAP (PositA cold_A)))	cyklarna är kalla	cyklarna är kalla
+PredVPS (UsePron she_Pron) (UseV sleep_V)	hon sover	hon sover
+PredVPS (DetCN the_Det (UseN bird_N)) (ComplV2 kill_V2 (UsePron they_Pron))	fågeln dödar dem	fågeln dödar dem
+PredVPS (DetCN the_Det (AdjCN (PositA white_A) (UseN car_N))) (UseV sleep_V)	den vita bilen sover	den vita bilen sover
+PredVPS (DetCN thePl_Det (AdjCN (PositA young_A) (UseN ship_N))) (ComplV2 teach_V2 (UsePron they_Pron))	de unga skeppen undervisar dem	de unga skeppen undervisar dem
+PredVPS (UsePron she_Pron) (ComplV2 wait_V2 (DetCN a_Det (UseN car_N)))	hon väntar på en bil	hon väntar på en bil
+PredVPS (DetCN aPl_Det (UseN book_N)) (UseV swim_V)	böcker simmar	böcker simmar
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA blue_A)))	de är blåa	de är blåa
+PredVPS (DetCN thePl_Det (AdjCN (PositA small_A) (UseN ship_N))) (UseV play_V)	de små skeppen leker	de lilla skeppen leker
+PredVPS (DetCN thePl_Det (AdjCN (PositA heavy_A) (UseN sea_N))) (UseComp (CompAP (PositA green_A)))	de tunga haven är gröna	de tunga haven är gröna
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA black_A)))	hon är svart	hon är svart
+PredVPS (DetCN a_Det (AdjCN (PositA clean_A) (UseN cat_N))) (ComplV2 buy_V2 (UsePron she_Pron))	en ren katt köper henne	en ren katt köper henne
+PredVPS (UsePron she_Pron) (ComplV2 find_V2 (UsePron he_Pron))	hon finner honom	hon finner honom
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV run_V) already_Adv) now_Adv)	han springer redan nu	han springer redan nu
+PredVPS (DetCN aPl_Det (AdjCN (PositA green_A) (UseN city_N))) (UseV come_V)	gröna städer kommer	gröna städer kommer
+PredVPS (DetCN aPl_Det (AdjCN (PositA hot_A) (UseN fish_N))) (UseV run_V)	heta fiskar springer	heta fiskar springer
+PredVPS (UsePron he_Pron) (ComplV2 find_V2 (DetCN a_Det (UseN tree_N)))	han finner ett träd	han finner ett träd
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA small_A)))	de är små	de är små
+PredVPS (DetCN aPl_Det (AdjCN (PositA dirty_A) (UseN ship_N))) (AdvVP (ComplV2 wait_V2 (UsePron she_Pron)) already_Adv)	smutsiga skepp väntar på henne redan	smutsiga skepp väntar på henne redan
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA dirty_A)))	de är smutsiga	de är smutsiga
+PredVPS (UsePron they_Pron) (UseV run_V)	de springer	de springer
+PredVPS (DetCN the_Det (UseN car_N)) (ComplV2 drink_V2 (DetCN a_Det (UseN man_N)))	bilen dricker en man	bilen dricker en man
+PredVPS (DetCN a_Det (UseN apple_N)) (ComplV2 understand_V2 (DetCN thePl_Det (UseN star_N)))	ett äpple förstår stjärnorna	ett äpple förstår stjärnorna
+PredVPS (UsePron he_Pron) (UseV run_V)	han springer	han springer
+PredVPS (UsePron she_Pron) (UseV play_V)	hon leker	hon leker
+PredVPS (DetCN thePl_Det (AdjCN (PositA good_A) (UseN boat_N))) (UseV run_V)	de goda båtarna springer	de goda båtarna springer
+PredVPS (UsePron they_Pron) (ComplV2 find_V2 (UsePron they_Pron))	de finner dem	de finner dem
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA ready_A)))	han är färdig	han är färdig
+PredVPS (DetCN the_Det (UseN cow_N)) (UseV come_V)	kon kommer	kon kommer
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA heavy_A)))	han är tung	han är tung
+PredVPS (UsePron they_Pron) (UseV travel_V)	de reser	de reser
+PredVPS (DetCN the_Det (UseN river_N)) (UseV go_V)	ån går	ån går
+PredVPS (DetCN aPl_Det (AdjCN (PositA heavy_A) (UseN child_N))) (UseV travel_V)	tunga barn reser	tunga barn reser
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA dirty_A)))	de är smutsiga	de är smutsiga
+PredVPS (UsePron she_Pron) (ComplV2 wait_V2 (UsePron he_Pron))	hon väntar på honom	hon väntar på honom
+PredVPS (UsePron she_Pron) (ComplV2 eat_V2 (UsePron they_Pron))	hon äter dem	hon äter dem
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV travel_V) already_Adv) (PrepNP with_Prep (UsePron he_Pron)))	de reser redan med honom	de reser redan med honom
+PredVPS (DetCN aPl_Det (UseN city_N)) (UseV travel_V)	städer reser	städer reser
+PredVPS (UsePron they_Pron) (UseV travel_V)	de reser	de reser
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV live_V) already_Adv) already_Adv)	de lever redan redan	de lever redan redan
+PredVPS (DetCN a_Det (AdjCN (PositA small_A) (UseN man_N))) (AdvVP (AdvVP (UseV go_V) already_Adv) (PrepNP on_Prep (UsePron he_Pron)))	en liten man går redan på honom	en liten man går redan på honom
+PredVPS (UsePron they_Pron) (ComplV2 understand_V2 (UsePron they_Pron))	de förstår dem	de förstår dem
+PredVPS (DetCN the_Det (UseN river_N)) (UseV travel_V)	ån reser	ån reser
+PredVPS (UsePron he_Pron) (ComplV2 kill_V2 (DetCN the_Det (UseN house_N)))	han dödar huset	han dödar huset
+PredVPS (DetCN thePl_Det (UseN ship_N)) (UseComp (CompAP (PositA ready_A)))	skeppen är färdiga	skeppen är färdiga
+PredVPS (UsePron they_Pron) (UseV swim_V)	de simmar	de simmar
+PredVPS (DetCN aPl_Det (AdjCN (PositA heavy_A) (UseN book_N))) (UseComp (CompAP (PositA black_A)))	tunga böcker är svarta	tunga böcker är svarta
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA ready_A)))	han är färdig	han är färdig
+PredVPS (DetCN a_Det (AdjCN (PositA new_A) (UseN sea_N))) (AdvVP (UseV walk_V) already_Adv)	ett nytt hav går redan	ett nytt hav går redan
+PredVPS (DetCN a_Det (UseN cloud_N)) (AdvVP (ComplV2 read_V2 (UsePron he_Pron)) already_Adv)	ett moln läser honom redan	ett moln läser honom redan
+PredVPS (DetCN thePl_Det (AdjCN (PositA small_A) (UseN baby_N))) (ComplV2 find_V2 (UsePron she_Pron))	de små bebisarna finner henne	de lilla bebisarna finner henne
+PredVPS (DetCN thePl_Det (UseN girl_N)) (UseComp (CompAP (PositA yellow_A)))	flickorna är gula	flickorna är gula
+PredVPS (DetCN aPl_Det (AdjCN (PositA old_A) (UseN girl_N))) (ComplV2 kill_V2 (UsePron he_Pron))	gamla flickor dödar honom	gamla flickor dödar honom
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 understand_V2 (UsePron they_Pron)) already_Adv)	de förstår dem redan	de förstår dem redan
+PredVPS (UsePron they_Pron) (ComplV2 find_V2 (DetCN the_Det (UseN cloud_N)))	de finner molnet	de finner molnet
+PredVPS (DetCN a_Det (UseN computer_N)) (UseComp (CompAP (PositA young_A)))	en dator är ung	en dator är ung
+PredVPS (UsePron they_Pron) (AdvVP (UseV run_V) (PrepNP with_Prep (UsePron they_Pron)))	de springer med dem	de springer med dem
+PredVPS (DetCN aPl_Det (UseN city_N)) (AdvVP (UseV play_V) now_Adv)	städer leker nu	städer leker nu
+PredVPS (UsePron she_Pron) (ComplV2 understand_V2 (UsePron he_Pron))	hon förstår honom	hon förstår honom
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA dirty_A)))	hon är smutsig	hon är smutsig
+PredVPS (DetCN thePl_Det (AdjCN (PositA blue_A) (UseN cloud_N))) (UseV come_V)	de blåa molnen kommer	de blåa molnen kommer
+PredVPS (DetCN a_Det (UseN boy_N)) (AdvVP (ComplV2 eat_V2 (UsePron they_Pron)) already_Adv)	en pojke äter dem redan	en pojke äter dem redan
+PredVPS (DetCN thePl_Det (UseN friend_N)) (AdvVP (AdvVP (UseV live_V) already_Adv) now_Adv)	vännerna lever redan nu	vännerna lever redan nu
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA warm_A)))	de är varma	de är varma
+PredVPS (DetCN thePl_Det (AdjCN (PositA blue_A) (UseN bike_N))) (AdvVP (AdvVP (UseV go_V) now_Adv) (PrepNP with_Prep (UsePron she_Pron)))	de blåa cyklarna går nu med henne	de blåa cyklarna går nu med henne
+PredVPS (UsePron she_Pron) (ComplV2 love_V2 (UsePron they_Pron))	hon älskar dem	hon älskar dem
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV swim_V) already_Adv) already_Adv)	de simmar redan redan	de simmar redan redan
+PredVPS (DetCN a_Det (AdjCN (PositA clever_A) (UseN horse_N))) (UseComp (CompAP (PositA green_A)))	en klok häst är grön	en klok häst är grön
+PredVPS (DetCN the_Det (UseN dog_N)) (AdvVP (UseV travel_V) already_Adv)	hunden reser redan	hunden reser redan
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV travel_V) now_Adv) now_Adv)	han reser nu nu	han reser nu nu
+PredVPS (DetCN a_Det (AdjCN (PositA green_A) (UseN horse_N))) (UseComp (CompAP (PositA yellow_A)))	en grön häst är gul	en grön häst är gul
+PredVPS (UsePron he_Pron) (ComplV2 eat_V2 (DetCN a_Det (UseN baby_N)))	han äter en bebis	han äter en bebis
+PredVPS (DetCN the_Det (UseN bird_N)) (UseComp (CompAP (PositA cold_A)))	fågeln är kall	fågeln är kall
+PredVPS (DetCN thePl_Det (UseN blood_N)) (UseV play_V)	bloden leker	bloden leker
+PredVPS (UsePron he_Pron) (ComplV2 teach_V2 (DetCN a_Det (UseN woman_N)))	han undervisar en kvinna	han undervisar en kvinna
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA blue_A)))	hon är blå	hon är blå
+PredVPS (DetCN a_Det (AdjCN (PositA good_A) (UseN train_N))) (AdvVP (ComplV2 understand_V2 (UsePron he_Pron)) now_Adv)	ett gott tåg förstår honom nu	ett gott tåg förstår honom nu
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA yellow_A)))	hon är gul	hon är gul
+PredVPS (UsePron he_Pron) (ComplV2 see_V2 (DetCN a_Det (UseN cow_N)))	han ser en ko	han ser en ko
+PredVPS (DetCN aPl_Det (UseN star_N)) (ComplV2 wait_V2 (UsePron he_Pron))	stjärnor väntar på honom	stjärnor väntar på honom
+PredVPS (UsePron she_Pron) (UseV sleep_V)	hon sover	hon sover
+PredVPS (DetCN aPl_Det (AdjCN (PositA clever_A) (UseN cat_N))) (AdvVP (AdvVP (UseV go_V) now_Adv) now_Adv)	kloka katter går nu nu	kloka katter går nu nu
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 wait_V2 (UsePron they_Pron)) already_Adv)	hon väntar på dem redan	hon väntar på dem redan
+PredVPS (DetCN aPl_Det (AdjCN (PositA cold_A) (UseN grammar_N))) (UseComp (CompAP (PositA bad_A)))	kalla grammatiker är dåliga	kalla grammatiker är dåliga
+PredVPS (UsePron he_Pron) (ComplV2 see_V2 (UsePron they_Pron))	han ser dem	han ser dem
+PredVPS (DetCN thePl_Det (UseN ship_N)) (AdvVP (UseV travel_V) now_Adv)	skeppen reser nu	skeppen reser nu
+PredVPS (DetCN the_Det (AdjCN (PositA hot_A) (UseN wine_N))) (UseComp (CompAP (PositA young_A)))	det heta vinet är ungt	det heta vinet är ungt
+PredVPS (UsePron she_Pron) (ComplV2 buy_V2 (UsePron they_Pron))	hon köper dem	hon köper dem
+PredVPS (UsePron he_Pron) (ComplV2 eat_V2 (DetCN the_Det (UseN friend_N)))	han äter vännen	han äter vännen
+PredVPS (UsePron she_Pron) (UseV travel_V)	hon reser	hon reser
+PredVPS (DetCN thePl_Det (UseN animal_N)) (AdvVP (ComplV2 love_V2 (UsePron he_Pron)) (PrepNP in_Prep (UsePron they_Pron)))	djuren älskar honom i dem	djuren älskar honom i dem
+PredVPS (DetCN the_Det (UseN car_N)) (AdvVP (AdvVP (UseV swim_V) now_Adv) (PrepNP on_Prep (UsePron he_Pron)))	bilen simmar nu på honom	bilen simmar nu på honom
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA big_A)))	de är stora	de är stora
+PredVPS (DetCN aPl_Det (UseN book_N)) (AdvVP (AdvVP (UseV travel_V) already_Adv) now_Adv)	böcker reser redan nu	böcker reser redan nu
+PredVPS (UsePron she_Pron) (ComplV2 drink_V2 (UsePron he_Pron))	hon dricker honom	hon dricker honom
+PredVPS (DetCN thePl_Det (AdjCN (PositA big_A) (UseN computer_N))) (AdvVP (AdvVP (UseV travel_V) now_Adv) already_Adv)	de stora datorerna reser nu redan	de stora datorerna reser nu redan
+PredVPS (UsePron they_Pron) (ComplV2 wait_V2 (UsePron he_Pron))	de väntar på honom	de väntar på honom
+PredVPS (DetCN the_Det (AdjCN (PositA heavy_A) (UseN girl_N))) (UseComp (CompAP (PositA young_A)))	den tunga flickan är ung	den tunga flickan är ung
+PredVPS (UsePron they_Pron) (ComplV2 drink_V2 (UsePron she_Pron))	de dricker henne	de dricker henne
+PredVPS (DetCN the_Det (UseN river_N)) (ComplV2 kill_V2 (DetCN a_Det (UseN grammar_N)))	ån dödar en grammatik	ån dödar en grammatik
+PredVPS (DetCN aPl_Det (AdjCN (PositA clever_A) (UseN city_N))) (ComplV2 love_V2 (UsePron they_Pron))	kloka städer älskar dem	kloka städer älskar dem
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 love_V2 (UsePron he_Pron)) already_Adv)	han älskar honom redan	han älskar honom redan
+PredVPS (DetCN a_Det (UseN cat_N)) (UseComp (CompAP (PositA clean_A)))	en katt är ren	en katt är ren
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV travel_V) now_Adv) (PrepNP in_Prep (UsePron he_Pron)))	han reser nu i honom	han reser nu i honom
+PredVPS (DetCN a_Det (UseN bread_N)) (ComplV2 see_V2 (DetCN the_Det (UseN man_N)))	ett bröd ser mannen	ett bröd ser mannen
+PredVPS (UsePron he_Pron) (AdvVP (UseV come_V) (PrepNP on_Prep (UsePron they_Pron)))	han kommer på dem	han kommer på dem
+PredVPS (DetCN thePl_Det (UseN blood_N)) (UseComp (CompAP (PositA new_A)))	bloden är nya	bloden är nya
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA clever_A)))	hon är klok	hon är klok
+PredVPS (UsePron they_Pron) (UseV travel_V)	de reser	de reser
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA ready_A)))	han är färdig	han är färdig
+PredVPS (DetCN thePl_Det (AdjCN (PositA cold_A) (UseN dog_N))) (UseComp (CompAP (PositA old_A)))	de kalla hundarna är gamla	de kalla hundarna är gamla
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV play_V) already_Adv) now_Adv)	de leker redan nu	de leker redan nu
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA good_A)))	han är god	han är god
+PredVPS (UsePron they_Pron) (UseV jump_V)	de hoppar	de hoppar
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA dirty_A)))	de är smutsiga	de är smutsiga
+PredVPS (DetCN aPl_Det (UseN animal_N)) (ComplV2 see_V2 (DetCN aPl_Det (UseN star_N)))	djur ser stjärnor	djur ser stjärnor
+PredVPS (UsePron they_Pron) (ComplV2 see_V2 (DetCN the_Det (UseN baby_N)))	de ser bebisen	de ser bebisen
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 break_V2 (UsePron they_Pron)) already_Adv)	han slår dem sönder redan	han slår sönder dem redan
+PredVPS (UsePron she_Pron) (UseV come_V)	hon kommer	hon kommer
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA hot_A)))	de är heta	de är heta
+PredVPS (DetCN thePl_Det (UseN water_N)) (UseComp (CompAP (PositA clean_A)))	vattnen är rena	vattnen är rena
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 drink_V2 (UsePron she_Pron)) already_Adv)	de dricker henne redan	de dricker henne redan
+PredVPS (UsePron they_Pron) (ComplV2 kill_V2 (UsePron he_Pron))	de dödar honom	de dödar honom
+PredVPS (DetCN a_Det (AdjCN (PositA green_A) (UseN grammar_N))) (ComplV2 see_V2 (DetCN the_Det (UseN friend_N)))	en grön grammatik ser vännen	en grön grammatik ser vännen
+PredVPS (DetCN aPl_Det (AdjCN (PositA ready_A) (UseN wine_N))) (UseV come_V)	färdiga viner kommer	färdiga viner kommer
+PredVPS (UsePron she_Pron) (AdvVP (UseV go_V) already_Adv)	hon går redan	hon går redan
+PredVPS (DetCN the_Det (UseN friend_N)) (UseComp (CompAP (PositA cold_A)))	vännen är kall	vännen är kall
+PredVPS (DetCN the_Det (UseN man_N)) (AdvVP (ComplV2 love_V2 (UsePron he_Pron)) now_Adv)	mannen älskar honom nu	mannen älskar honom nu
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 read_V2 (UsePron they_Pron)) now_Adv)	hon läser dem nu	hon läser dem nu
+PredVPS (DetCN aPl_Det (UseN car_N)) (ComplV2 love_V2 (DetCN the_Det (UseN blood_N)))	bilar älskar blodet	bilar älskar blodet
+PredVPS (DetCN the_Det (UseN city_N)) (UseComp (CompAP (PositA big_A)))	staden är stor	staden är stor
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 teach_V2 (UsePron she_Pron)) now_Adv)	de undervisar henne nu	de undervisar henne nu
+PredVPS (DetCN the_Det (UseN book_N)) (ComplV2 read_V2 (UsePron he_Pron))	boken läser honom	boken läser honom
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 eat_V2 (UsePron he_Pron)) (PrepNP in_Prep (UsePron he_Pron)))	de äter honom i honom	de äter honom i honom
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA heavy_A)))	de är tunga	de är tunga
+PredVPS (UsePron he_Pron) (UseV come_V)	han kommer	han kommer
+PredVPS (DetCN aPl_Det (AdjCN (PositA young_A) (UseN train_N))) (UseV play_V)	unga tåg leker	unga tåg leker
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA blue_A)))	hon är blå	hon är blå
+PredVPS (DetCN a_Det (AdjCN (PositA big_A) (UseN city_N))) (UseV swim_V)	en stor stad simmar	en stor stad simmar
+PredVPS (UsePron she_Pron) (AdvVP (UseV run_V) now_Adv)	hon springer nu	hon springer nu
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA blue_A)))	de är blåa	de är blåa
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA good_A)))	han är god	han är god
+PredVPS (DetCN a_Det (AdjCN (PositA warm_A) (UseN fish_N))) (UseComp (CompAP (PositA good_A)))	en varm fisk är god	en varm fisk är god
+PredVPS (DetCN a_Det (AdjCN (PositA small_A) (UseN language_N))) (ComplV2 see_V2 (DetCN the_Det (UseN river_N)))	ett litet språk ser ån	ett litet språk ser ån
+PredVPS (DetCN thePl_Det (AdjCN (PositA yellow_A) (UseN blood_N))) (ComplV2 kill_V2 (UsePron they_Pron))	de gula bloden dödar dem	de gula bloden dödar dem
+PredVPS (DetCN a_Det (UseN fire_N)) (UseComp (CompAP (PositA clean_A)))	en eld är ren	en eld är ren
+PredVPS (DetCN a_Det (UseN house_N)) (AdvVP (AdvVP (UseV go_V) already_Adv) (PrepNP on_Prep (UsePron she_Pron)))	ett hus går redan på henne	ett hus går redan på henne
+PredVPS (DetCN thePl_Det (UseN boy_N)) (UseV play_V)	pojkarna leker	pojkarna leker
+PredVPS (UsePron they_Pron) (UseV go_V)	de går	de går
+PredVPS (DetCN the_Det (UseN apple_N)) (ComplV2 read_V2 (DetCN the_Det (UseN friend_N)))	äpplet läser vännen	äpplet läser vännen
+PredVPS (DetCN thePl_Det (AdjCN (PositA small_A) (UseN apple_N))) (AdvVP (UseV go_V) (PrepNP in_Prep (UsePron he_Pron)))	de små äpplena går i honom	de lilla äpplena går i honom
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA warm_A)))	hon är varm	hon är varm
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 break_V2 (UsePron she_Pron)) already_Adv)	hon slår henne sönder redan	hon slår sönder henne redan
+PredVPS (DetCN the_Det (UseN fire_N)) (UseV come_V)	elden kommer	elden kommer
+PredVPS (UsePron he_Pron) (UseV swim_V)	han simmar	han simmar
+PredVPS (DetCN aPl_Det (AdjCN (PositA young_A) (UseN woman_N))) (ComplV2 see_V2 (DetCN a_Det (UseN apple_N)))	unga kvinnor ser ett äpple	unga kvinnor ser ett äpple
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA clean_A)))	de är rena	de är rena
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 read_V2 (UsePron they_Pron)) (PrepNP on_Prep (UsePron they_Pron)))	hon läser dem på dem	hon läser dem på dem
+PredVPS (DetCN a_Det (UseN bird_N)) (ComplV2 buy_V2 (UsePron she_Pron))	en fågel köper henne	en fågel köper henne
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA old_A)))	han är gammal	han är gammal
+PredVPS (UsePron he_Pron) (ComplV2 wait_V2 (DetCN the_Det (UseN friend_N)))	han väntar på vännen	han väntar på vännen
+PredVPS (UsePron she_Pron) (AdvVP (AdvVP (UseV travel_V) already_Adv) already_Adv)	hon reser redan redan	hon reser redan redan
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 find_V2 (UsePron she_Pron)) already_Adv)	hon finner henne redan	hon finner henne redan
+PredVPS (UsePron she_Pron) (ComplV2 love_V2 (UsePron she_Pron))	hon älskar henne	hon älskar henne
+PredVPS (DetCN thePl_Det (UseN house_N)) (UseComp (CompAP (PositA black_A)))	husen är svarta	husen är svarta
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV come_V) already_Adv) (PrepNP on_Prep (UsePron she_Pron)))	de kommer redan på henne	de kommer redan på henne
+PredVPS (DetCN a_Det (UseN cloud_N)) (AdvVP (AdvVP (UseV live_V) now_Adv) (PrepNP on_Prep (UsePron they_Pron)))	ett moln lever nu på dem	ett moln lever nu på dem
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV walk_V) now_Adv) already_Adv)	de går nu redan	de går nu redan
+PredVPS (DetCN aPl_Det (UseN friend_N)) (AdvVP (AdvVP (UseV go_V) already_Adv) (PrepNP with_Prep (UsePron she_Pron)))	vänner går redan med henne	vänner går redan med henne
+PredVPS (DetCN a_Det (AdjCN (PositA clever_A) (UseN apple_N))) (ComplV2 break_V2 (DetCN thePl_Det (UseN wine_N)))	ett klokt äpple slår sönder vinerna	ett klokt äpple slår sönder vinerna
+PredVPS (DetCN thePl_Det (AdjCN (PositA good_A) (UseN city_N))) (UseV jump_V)	de goda städerna hoppar	de goda städerna hoppar
+PredVPS (DetCN the_Det (AdjCN (PositA small_A) (UseN horse_N))) (ComplV2 find_V2 (DetCN a_Det (UseN boy_N)))	den lilla hästen finner en pojke	den lilla hästen finner en pojke
+PredVPS (DetCN the_Det (AdjCN (PositA ready_A) (UseN flower_N))) (ComplV2 find_V2 (UsePron they_Pron))	den färdiga blomman finner dem	den färdiga blomman finner dem
+PredVPS (DetCN thePl_Det (UseN language_N)) (UseComp (CompAP (PositA big_A)))	språken är stora	språken är stora
+PredVPS (DetCN thePl_Det (AdjCN (PositA new_A) (UseN bread_N))) (AdvVP (ComplV2 teach_V2 (UsePron she_Pron)) now_Adv)	de nya bröden undervisar henne nu	de nya bröden undervisar henne nu
+PredVPS (DetCN a_Det (AdjCN (PositA black_A) (UseN star_N))) (ComplV2 break_V2 (UsePron they_Pron))	en svart stjärna slår dem sönder	en svart stjärna slår sönder dem
+PredVPS (DetCN aPl_Det (AdjCN (PositA big_A) (UseN bird_N))) (UseComp (CompAP (PositA new_A)))	stora fåglar är nya	stora fåglar är nya
+PredVPS (UsePron she_Pron) (UseV go_V)	hon går	hon går
+PredVPS (DetCN aPl_Det (UseN child_N)) (UseV jump_V)	barn hoppar	barn hoppar
+PredVPS (UsePron he_Pron) (UseV swim_V)	han simmar	han simmar
+PredVPS (DetCN the_Det (UseN dog_N)) (ComplV2 love_V2 (UsePron he_Pron))	hunden älskar honom	hunden älskar honom
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA bad_A)))	han är dålig	han är dålig
+PredVPS (DetCN a_Det (AdjCN (PositA dirty_A) (UseN language_N))) (AdvVP (ComplV2 find_V2 (UsePron they_Pron)) now_Adv)	ett smutsigt språk finner dem nu	ett smutsigt språk finner dem nu
+PredVPS (UsePron they_Pron) (ComplV2 see_V2 (UsePron she_Pron))	de ser henne	de ser henne
+PredVPS (UsePron he_Pron) (ComplV2 read_V2 (UsePron he_Pron))	han läser honom	han läser honom
+PredVPS (UsePron she_Pron) (UseV run_V)	hon springer	hon springer
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV jump_V) already_Adv) now_Adv)	de hoppar redan nu	de hoppar redan nu
+PredVPS (UsePron she_Pron) (AdvVP (AdvVP (UseV walk_V) already_Adv) now_Adv)	hon går redan nu	hon går redan nu
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA dirty_A)))	han är smutsig	han är smutsig
+PredVPS (UsePron he_Pron) (UseV sleep_V)	han sover	han sover
+PredVPS (DetCN thePl_Det (UseN language_N)) (ComplV2 teach_V2 (DetCN thePl_Det (UseN car_N)))	språken undervisar bilarna	språken undervisar bilarna
+PredVPS (DetCN thePl_Det (AdjCN (PositA old_A) (UseN river_N))) (ComplV2 understand_V2 (UsePron they_Pron))	de gamla åarna förstår dem	de gamla åarna förstår dem
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV walk_V) now_Adv) already_Adv)	de går nu redan	de går nu redan
+PredVPS (DetCN thePl_Det (AdjCN (PositA old_A) (UseN fire_N))) (AdvVP (UseV jump_V) already_Adv)	de gamla eldarna hoppar redan	de gamla eldarna hoppar redan
+PredVPS (DetCN a_Det (UseN horse_N)) (UseComp (CompAP (PositA blue_A)))	en häst är blå	en häst är blå
+PredVPS (UsePron he_Pron) (ComplV2 find_V2 (UsePron she_Pron))	han finner henne	han finner henne
+PredVPS (UsePron she_Pron) (ComplV2 drink_V2 (UsePron he_Pron))	hon dricker honom	hon dricker honom
+PredVPS (UsePron she_Pron) (ComplV2 kill_V2 (DetCN the_Det (UseN dog_N)))	hon dödar hunden	hon dödar hunden
+PredVPS (DetCN thePl_Det (UseN sea_N)) (UseComp (CompAP (PositA new_A)))	haven är nya	haven är nya
+PredVPS (UsePron she_Pron) (AdvVP (AdvVP (UseV sleep_V) already_Adv) already_Adv)	hon sover redan redan	hon sover redan redan
+PredVPS (UsePron he_Pron) (UseV jump_V)	han hoppar	han hoppar
+PredVPS (DetCN aPl_Det (UseN water_N)) (UseV swim_V)	vatten simmar	vatten simmar
+PredVPS (DetCN thePl_Det (AdjCN (PositA green_A) (UseN beer_N))) (UseComp (CompAP (PositA small_A)))	de gröna ölen är små	de gröna ölen är små
+PredVPS (UsePron they_Pron) (UseV live_V)	de lever	de lever
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 read_V2 (UsePron he_Pron)) already_Adv)	han läser honom redan	han läser honom redan
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA red_A)))	hon är röd	hon är röd
+PredVPS (DetCN thePl_Det (UseN book_N)) (AdvVP (UseV travel_V) now_Adv)	böckerna reser nu	böckerna reser nu
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA white_A)))	han är vit	han är vit
+PredVPS (UsePron they_Pron) (ComplV2 wait_V2 (DetCN thePl_Det (UseN baby_N)))	de väntar på bebisarna	de väntar på bebisarna
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 find_V2 (UsePron they_Pron)) (PrepNP in_Prep (UsePron they_Pron)))	han finner dem i dem	han finner dem i dem
+PredVPS (DetCN thePl_Det (AdjCN (PositA blue_A) (UseN train_N))) (AdvVP (ComplV2 drink_V2 (UsePron he_Pron)) already_Adv)	de blåa tågen dricker honom redan	de blåa tågen dricker honom redan
+PredVPS (DetCN thePl_Det (AdjCN (PositA big_A) (UseN tree_N))) (ComplV2 teach_V2 (UsePron they_Pron))	de stora träden undervisar dem	de stora träden undervisar dem
+PredVPS (DetCN aPl_Det (UseN fire_N)) (UseComp (CompAP (PositA dirty_A)))	eldar är smutsiga	eldar är smutsiga
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 buy_V2 (UsePron she_Pron)) (PrepNP with_Prep (UsePron she_Pron)))	de köper henne med henne	de köper henne med henne
+PredVPS (DetCN thePl_Det (UseN animal_N)) (UseComp (CompAP (PositA ready_A)))	djuren är färdiga	djuren är färdiga
+PredVPS (DetCN thePl_Det (AdjCN (PositA dirty_A) (UseN wine_N))) (ComplV2 love_V2 (DetCN aPl_Det (UseN flower_N)))	de smutsiga vinerna älskar blommor	de smutsiga vinerna älskar blommor
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 love_V2 (UsePron he_Pron)) (PrepNP with_Prep (UsePron he_Pron)))	han älskar honom med honom	han älskar honom med honom
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV run_V) already_Adv) (PrepNP on_Prep (UsePron they_Pron)))	de springer redan på dem	de springer redan på dem
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA black_A)))	de är svarta	de är svarta
+PredVPS (UsePron he_Pron) (UseV jump_V)	han hoppar	han hoppar
+PredVPS (DetCN thePl_Det (UseN animal_N)) (AdvVP (UseV jump_V) now_Adv)	djuren hoppar nu	djuren hoppar nu
+PredVPS (DetCN thePl_Det (AdjCN (PositA bad_A) (UseN city_N))) (UseV sleep_V)	de dåliga städerna sover	de dåliga städerna sover
+PredVPS (UsePron she_Pron) (UseV go_V)	hon går	hon går
+PredVPS (DetCN thePl_Det (UseN friend_N)) (AdvVP (ComplV2 read_V2 (UsePron he_Pron)) already_Adv)	vännerna läser honom redan	vännerna läser honom redan
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA red_A)))	hon är röd	hon är röd
+PredVPS (DetCN thePl_Det (UseN river_N)) (ComplV2 kill_V2 (DetCN aPl_Det (UseN beer_N)))	åarna dödar öl	åarna dödar öl
+PredVPS (DetCN the_Det (UseN boy_N)) (AdvVP (ComplV2 find_V2 (UsePron she_Pron)) now_Adv)	pojken finner henne nu	pojken finner henne nu
+PredVPS (DetCN aPl_Det (UseN friend_N)) (ComplV2 love_V2 (UsePron they_Pron))	vänner älskar dem	vänner älskar dem
+PredVPS (DetCN the_Det (UseN river_N)) (UseComp (CompAP (PositA warm_A)))	ån är varm	ån är varm
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA young_A)))	de är unga	de är unga
+PredVPS (DetCN thePl_Det (UseN horse_N)) (ComplV2 buy_V2 (DetCN aPl_Det (UseN friend_N)))	hästarna köper vänner	hästarna köper vänner
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 kill_V2 (UsePron she_Pron)) (PrepNP on_Prep (UsePron they_Pron)))	de dödar henne på dem	de dödar henne på dem
+PredVPS (DetCN thePl_Det (UseN girl_N)) (AdvVP (AdvVP (UseV walk_V) now_Adv) now_Adv)	flickorna går nu nu	flickorna går nu nu
+PredVPS (UsePron he_Pron) (UseV jump_V)	han hoppar	han hoppar
+PredVPS (DetCN a_Det (AdjCN (PositA new_A) (UseN boy_N))) (UseV go_V)	en ny pojke går	en ny pojke går
+PredVPS (DetCN aPl_Det (UseN sea_N)) (UseComp (CompAP (PositA new_A)))	hav är nya	hav är nya
+PredVPS (DetCN a_Det (UseN bird_N)) (UseV sleep_V)	en fågel sover	en fågel sover
+PredVPS (DetCN the_Det (UseN cloud_N)) (ComplV2 drink_V2 (UsePron he_Pron))	molnet dricker honom	molnet dricker honom
+PredVPS (UsePron she_Pron) (ComplV2 read_V2 (DetCN the_Det (UseN bird_N)))	hon läser fågeln	hon läser fågeln
+PredVPS (DetCN the_Det (AdjCN (PositA yellow_A) (UseN boat_N))) (UseV live_V)	den gula båten lever	den gula båten lever
+PredVPS (UsePron he_Pron) (ComplV2 see_V2 (DetCN thePl_Det (UseN fire_N)))	han ser eldarna	han ser eldarna
+PredVPS (UsePron they_Pron) (ComplV2 buy_V2 (DetCN thePl_Det (UseN baby_N)))	de köper bebisarna	de köper bebisarna
+PredVPS (DetCN thePl_Det (UseN city_N)) (UseComp (CompAP (PositA old_A)))	städerna är gamla	städerna är gamla
+PredVPS (DetCN aPl_Det (UseN star_N)) (UseV sleep_V)	stjärnor sover	stjärnor sover
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 teach_V2 (UsePron they_Pron)) (PrepNP in_Prep (UsePron they_Pron)))	han undervisar dem i dem	han undervisar dem i dem
+PredVPS (UsePron they_Pron) (UseV walk_V)	de går	de går
+PredVPS (DetCN aPl_Det (UseN book_N)) (ComplV2 love_V2 (DetCN a_Det (UseN girl_N)))	böcker älskar en flicka	böcker älskar en flicka
+PredVPS (UsePron she_Pron) (AdvVP (UseV come_V) now_Adv)	hon kommer nu	hon kommer nu
+PredVPS (DetCN a_Det (AdjCN (PositA old_A) (UseN boy_N))) (AdvVP (ComplV2 read_V2 (UsePron he_Pron)) now_Adv)	en gammal pojke läser honom nu	en gammal pojke läser honom nu
+PredVPS (DetCN thePl_Det (UseN book_N)) (UseComp (CompAP (PositA old_A)))	böckerna är gamla	böckerna är gamla
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA bad_A)))	hon är dålig	hon är dålig
+PredVPS (DetCN aPl_Det (AdjCN (PositA young_A) (UseN horse_N))) (UseComp (CompAP (PositA yellow_A)))	unga hästar är gula	unga hästar är gula
+PredVPS (DetCN a_Det (AdjCN (PositA big_A) (UseN bird_N))) (ComplV2 buy_V2 (DetCN aPl_Det (UseN cloud_N)))	en stor fågel köper moln	en stor fågel köper moln
+PredVPS (UsePron they_Pron) (ComplV2 break_V2 (UsePron she_Pron))	de slår henne sönder	de slår sönder henne
+PredVPS (UsePron he_Pron) (UseV walk_V)	han går	han går
+PredVPS (UsePron they_Pron) (UseV travel_V)	de reser	de reser
+PredVPS (UsePron they_Pron) (ComplV2 eat_V2 (DetCN thePl_Det (UseN river_N)))	de äter åarna	de äter åarna
+PredVPS (DetCN aPl_Det (UseN apple_N)) (ComplV2 eat_V2 (UsePron he_Pron))	äpplen äter honom	äpplen äter honom
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA black_A)))	hon är svart	hon är svart
+PredVPS (UsePron she_Pron) (ComplV2 find_V2 (UsePron she_Pron))	hon finner henne	hon finner henne
+PredVPS (DetCN thePl_Det (AdjCN (PositA young_A) (UseN language_N))) (ComplV2 drink_V2 (UsePron they_Pron))	de unga språken dricker dem	de unga språken dricker dem
+PredVPS (UsePron he_Pron) (ComplV2 teach_V2 (UsePron he_Pron))	han undervisar honom	han undervisar honom
+PredVPS (DetCN the_Det (UseN animal_N)) (AdvVP (AdvVP (UseV sleep_V) already_Adv) (PrepNP in_Prep (UsePron she_Pron)))	djuret sover redan i henne	djuret sover redan i henne
+PredVPS (UsePron she_Pron) (ComplV2 understand_V2 (UsePron she_Pron))	hon förstår henne	hon förstår henne
+PredVPS (UsePron she_Pron) (UseV travel_V)	hon reser	hon reser
+PredVPS (DetCN the_Det (UseN car_N)) (UseComp (CompAP (PositA clever_A)))	bilen är klok	bilen är klok
+PredVPS (UsePron she_Pron) (UseV sleep_V)	hon sover	hon sover
+PredVPS (UsePron they_Pron) (UseV come_V)	de kommer	de kommer
+PredVPS (UsePron they_Pron) (ComplV2 find_V2 (DetCN the_Det (UseN grammar_N)))	de finner grammatiken	de finner grammatiken
+PredVPS (UsePron he_Pron) (ComplV2 see_V2 (DetCN a_Det (UseN girl_N)))	han ser en flicka	han ser en flicka
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 wait_V2 (UsePron he_Pron)) now_Adv)	de väntar på honom nu	de väntar på honom nu
+PredVPS (UsePron he_Pron) (UseV play_V)	han leker	han leker
+PredVPS (DetCN the_Det (UseN fish_N)) (AdvVP (UseV travel_V) already_Adv)	fisken reser redan	fisken reser redan
+PredVPS (DetCN thePl_Det (UseN man_N)) (UseV live_V)	männen lever	männen lever
+PredVPS (UsePron she_Pron) (UseV jump_V)	hon hoppar	hon hoppar
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA blue_A)))	hon är blå	hon är blå
+PredVPS (DetCN aPl_Det (AdjCN (PositA red_A) (UseN fish_N))) (ComplV2 read_V2 (DetCN thePl_Det (UseN child_N)))	röda fiskar läser barnen	röda fiskar läser barnen
+PredVPS (DetCN the_Det (AdjCN (PositA young_A) (UseN fire_N))) (AdvVP (ComplV2 teach_V2 (UsePron she_Pron)) now_Adv)	den unga elden undervisar henne nu	den unga elden undervisar henne nu
+PredVPS (UsePron they_Pron) (AdvVP (UseV travel_V) now_Adv)	de reser nu	de reser nu
+PredVPS (UsePron they_Pron) (UseV live_V)	de lever	de lever
+PredVPS (UsePron they_Pron) (UseV sleep_V)	de sover	de sover
+PredVPS (DetCN aPl_Det (UseN man_N)) (UseComp (CompAP (PositA black_A)))	män är svarta	män är svarta
+PredVPS (DetCN aPl_Det (UseN water_N)) (AdvVP (UseV play_V) (PrepNP in_Prep (UsePron she_Pron)))	vatten leker i henne	vatten leker i henne
+PredVPS (UsePron they_Pron) (UseV play_V)	de leker	de leker
+PredVPS (DetCN a_Det (AdjCN (PositA yellow_A) (UseN man_N))) (UseComp (CompAP (PositA old_A)))	en gul man är gammal	en gul man är gammal
+PredVPS (DetCN aPl_Det (UseN star_N)) (UseComp (CompAP (PositA ready_A)))	stjärnor är färdiga	stjärnor är färdiga
+PredVPS (UsePron she_Pron) (ComplV2 understand_V2 (DetCN thePl_Det (UseN horse_N)))	hon förstår hästarna	hon förstår hästarna
+PredVPS (DetCN a_Det (UseN beer_N)) (AdvVP (ComplV2 see_V2 (UsePron she_Pron)) now_Adv)	ett öl ser henne nu	ett öl ser henne nu
+PredVPS (DetCN a_Det (UseN wine_N)) (AdvVP (ComplV2 find_V2 (UsePron they_Pron)) (PrepNP in_Prep (UsePron she_Pron)))	ett vin finner dem i henne	ett vin finner dem i henne
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA clever_A)))	de är kloka	de är kloka
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 buy_V2 (UsePron he_Pron)) already_Adv)	han köper honom redan	han köper honom redan
+PredVPS (DetCN a_Det (UseN city_N)) (UseV run_V)	en stad springer	en stad springer
+PredVPS (DetCN thePl_Det (UseN flower_N)) (UseComp (CompAP (PositA clever_A)))	blommorna är kloka	blommorna är kloka
+PredVPS (DetCN the_Det (UseN bird_N)) (ComplV2 eat_V2 (UsePron she_Pron))	fågeln äter henne	fågeln äter henne
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA clever_A)))	hon är klok	hon är klok
+PredVPS (UsePron they_Pron) (AdvVP (UseV go_V) already_Adv)	de går redan	de går redan
+PredVPS (DetCN thePl_Det (UseN friend_N)) (AdvVP (UseV jump_V) already_Adv)	vännerna hoppar redan	vännerna hoppar redan
+PredVPS (UsePron she_Pron) (UseV go_V)	hon går	hon går
+PredVPS (DetCN the_Det (AdjCN (PositA red_A) (UseN house_N))) (UseV jump_V)	det röda huset hoppar	det röda huset hoppar
+PredVPS (DetCN thePl_Det (UseN baby_N)) (AdvVP (AdvVP (UseV jump_V) already_Adv) already_Adv)	bebisarna hoppar redan redan	bebisarna hoppar redan redan
+PredVPS (DetCN aPl_Det (UseN computer_N)) (ComplV2 find_V2 (DetCN the_Det (UseN apple_N)))	datorer finner äpplet	datorer finner äpplet
+PredVPS (UsePron they_Pron) (UseV swim_V)	de simmar	de simmar
+PredVPS (DetCN a_Det (AdjCN (PositA clever_A) (UseN beer_N))) (UseV live_V)	ett klokt öl lever	ett klokt öl lever
+PredVPS (DetCN thePl_Det (AdjCN (PositA good_A) (UseN bread_N))) (UseComp (CompAP (PositA white_A)))	de goda bröden är vita	de goda bröden är vita
+PredVPS (DetCN aPl_Det (UseN tree_N)) (UseComp (CompAP (PositA big_A)))	träd är stora	träd är stora
+PredVPS (UsePron she_Pron) (UseV live_V)	hon lever	hon lever
+PredVPS (DetCN the_Det (AdjCN (PositA big_A) (UseN boy_N))) (UseComp (CompAP (PositA black_A)))	den stora pojken är svart	den stora pojken är svart
+PredVPS (DetCN aPl_Det (UseN cloud_N)) (UseComp (CompAP (PositA white_A)))	moln är vita	moln är vita
+PredVPS (DetCN aPl_Det (AdjCN (PositA cold_A) (UseN bird_N))) (UseComp (CompAP (PositA new_A)))	kalla fåglar är nya	kalla fåglar är nya
+PredVPS (DetCN thePl_Det (UseN girl_N)) (ComplV2 understand_V2 (UsePron he_Pron))	flickorna förstår honom	flickorna förstår honom
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 teach_V2 (UsePron they_Pron)) (PrepNP in_Prep (UsePron they_Pron)))	hon undervisar dem i dem	hon undervisar dem i dem
+PredVPS (DetCN the_Det (UseN baby_N)) (AdvVP (AdvVP (UseV come_V) now_Adv) now_Adv)	bebisen kommer nu nu	bebisen kommer nu nu
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA yellow_A)))	hon är gul	hon är gul
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 wait_V2 (UsePron they_Pron)) already_Adv)	han väntar på dem redan	han väntar på dem redan
+PredVPS (DetCN thePl_Det (AdjCN (PositA green_A) (UseN beer_N))) (UseV sleep_V)	de gröna ölen sover	de gröna ölen sover
+PredVPS (UsePron they_Pron) (ComplV2 wait_V2 (UsePron they_Pron))	de väntar på dem	de väntar på dem
+PredVPS (DetCN the_Det (UseN city_N)) (UseV swim_V)	staden simmar	staden simmar
+PredVPS (DetCN the_Det (UseN beer_N)) (UseComp (CompAP (PositA white_A)))	ölet är vitt	ölet är vitt
+PredVPS (DetCN thePl_Det (AdjCN (PositA bad_A) (UseN apple_N))) (AdvVP (UseV sleep_V) (PrepNP in_Prep (UsePron she_Pron)))	de dåliga äpplena sover i henne	de dåliga äpplena sover i henne
+PredVPS (DetCN the_Det (UseN fish_N)) (ComplV2 find_V2 (DetCN thePl_Det (UseN blood_N)))	fisken finner bloden	fisken finner bloden
+PredVPS (DetCN a_Det (AdjCN (PositA old_A) (UseN bread_N))) (UseComp (CompAP (PositA cold_A)))	ett gammalt bröd är kallt	ett gammalt bröd är kallt
+PredVPS (UsePron she_Pron) (UseV walk_V)	hon går	hon går
+PredVPS (DetCN the_Det (AdjCN (PositA red_A) (UseN cat_N))) (UseV travel_V)	den röda katten reser	den röda katten reser
+PredVPS (DetCN a_Det (AdjCN (PositA yellow_A) (UseN car_N))) (UseV walk_V)	en gul bil går	en gul bil går
+PredVPS (UsePron they_Pron) (ComplV2 teach_V2 (UsePron she_Pron))	de undervisar henne	de undervisar henne
+PredVPS (UsePron they_Pron) (ComplV2 buy_V2 (UsePron they_Pron))	de köper dem	de köper dem
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA old_A)))	de är gamla	de är gamla
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA green_A)))	hon är grön	hon är grön
+PredVPS (UsePron she_Pron) (ComplV2 read_V2 (UsePron he_Pron))	hon läser honom	hon läser honom
+PredVPS (DetCN thePl_Det (UseN child_N)) (ComplV2 break_V2 (DetCN thePl_Det (UseN boat_N)))	barnen slår sönder båtarna	barnen slår sönder båtarna
+PredVPS (UsePron she_Pron) (AdvVP (UseV sleep_V) now_Adv)	hon sover nu	hon sover nu
+PredVPS (UsePron he_Pron) (AdvVP (UseV live_V) now_Adv)	han lever nu	han lever nu
+PredVPS (DetCN aPl_Det (UseN animal_N)) (ComplV2 drink_V2 (DetCN aPl_Det (UseN apple_N)))	djur dricker äpplen	djur dricker äpplen
+PredVPS (DetCN the_Det (UseN blood_N)) (AdvVP (AdvVP (UseV come_V) already_Adv) now_Adv)	blodet kommer redan nu	blodet kommer redan nu
+PredVPS (UsePron he_Pron) (UseV sleep_V)	han sover	han sover
+PredVPS (DetCN the_Det (UseN river_N)) (AdvVP (AdvVP (UseV run_V) now_Adv) already_Adv)	ån springer nu redan	ån springer nu redan
+PredVPS (DetCN thePl_Det (UseN fish_N)) (UseV run_V)	fiskarna springer	fiskarna springer
+PredVPS (UsePron she_Pron) (UseV walk_V)	hon går	hon går
+PredVPS (DetCN a_Det (AdjCN (PositA good_A) (UseN star_N))) (AdvVP (AdvVP (UseV sleep_V) now_Adv) now_Adv)	en god stjärna sover nu nu	en god stjärna sover nu nu
+PredVPS (DetCN thePl_Det (UseN train_N)) (UseV play_V)	tågen leker	tågen leker
+PredVPS (DetCN a_Det (UseN bike_N)) (UseComp (CompAP (PositA white_A)))	en cykel är vit	en cykel är vit
+PredVPS (DetCN a_Det (AdjCN (PositA white_A) (UseN cat_N))) (AdvVP (ComplV2 find_V2 (UsePron they_Pron)) now_Adv)	en vit katt finner dem nu	en vit katt finner dem nu
+PredVPS (DetCN a_Det (UseN ship_N)) (AdvVP (ComplV2 teach_V2 (UsePron he_Pron)) now_Adv)	ett skepp undervisar honom nu	ett skepp undervisar honom nu
+PredVPS (UsePron they_Pron) (AdvVP (UseV run_V) (PrepNP in_Prep (UsePron she_Pron)))	de springer i henne	de springer i henne
+PredVPS (UsePron he_Pron) (ComplV2 find_V2 (UsePron they_Pron))	han finner dem	han finner dem
+PredVPS (UsePron they_Pron) (UseV jump_V)	de hoppar	de hoppar
+PredVPS (UsePron she_Pron) (ComplV2 read_V2 (UsePron she_Pron))	hon läser henne	hon läser henne
+PredVPS (DetCN the_Det (UseN water_N)) (UseComp (CompAP (PositA old_A)))	vattnet är gammalt	vattnet är gammalt
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA white_A)))	han är vit	han är vit
+PredVPS (DetCN the_Det (UseN girl_N)) (ComplV2 buy_V2 (DetCN a_Det (UseN bird_N)))	flickan köper en fågel	flickan köper en fågel
+PredVPS (DetCN a_Det (UseN wine_N)) (UseV travel_V)	ett vin reser	ett vin reser
+PredVPS (DetCN a_Det (AdjCN (PositA clean_A) (UseN horse_N))) (UseV travel_V)	en ren häst reser	en ren häst reser
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA bad_A)))	de är dåliga	de är dåliga
+PredVPS (UsePron she_Pron) (AdvVP (AdvVP (UseV go_V) now_Adv) already_Adv)	hon går nu redan	hon går nu redan
+PredVPS (DetCN a_Det (UseN girl_N)) (ComplV2 read_V2 (UsePron they_Pron))	en flicka läser dem	en flicka läser dem
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA dirty_A)))	han är smutsig	han är smutsig
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 teach_V2 (UsePron they_Pron)) now_Adv)	de undervisar dem nu	de undervisar dem nu
+PredVPS (DetCN aPl_Det (AdjCN (PositA warm_A) (UseN cat_N))) (UseComp (CompAP (PositA hot_A)))	varma katter är heta	varma katter är heta
+PredVPS (UsePron she_Pron) (ComplV2 kill_V2 (UsePron he_Pron))	hon dödar honom	hon dödar honom
+PredVPS (UsePron they_Pron) (ComplV2 break_V2 (UsePron he_Pron))	de slår honom sönder	de slår sönder honom
+PredVPS (UsePron he_Pron) (ComplV2 find_V2 (UsePron they_Pron))	han finner dem	han finner dem
+PredVPS (DetCN thePl_Det (UseN book_N)) (UseV swim_V)	böckerna simmar	böckerna simmar
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA yellow_A)))	han är gul	han är gul
+PredVPS (DetCN thePl_Det (UseN boy_N)) (ComplV2 eat_V2 (UsePron they_Pron))	pojkarna äter dem	pojkarna äter dem
+PredVPS (UsePron they_Pron) (AdvVP (UseV live_V) now_Adv)	de lever nu	de lever nu
+PredVPS (DetCN thePl_Det (AdjCN (PositA cold_A) (UseN baby_N))) (UseComp (CompAP (PositA green_A)))	de kalla bebisarna är gröna	de kalla bebisarna är gröna
+PredVPS (DetCN thePl_Det (UseN friend_N)) (UseComp (CompAP (PositA hot_A)))	vännerna är heta	vännerna är heta
+PredVPS (DetCN aPl_Det (UseN sea_N)) (UseV go_V)	hav går	hav går
+PredVPS (DetCN aPl_Det (UseN baby_N)) (UseComp (CompAP (PositA black_A)))	bebisar är svarta	bebisar är svarta
+PredVPS (UsePron she_Pron) (AdvVP (AdvVP (UseV travel_V) already_Adv) (PrepNP in_Prep (UsePron they_Pron)))	hon reser redan i dem	hon reser redan i dem
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 understand_V2 (UsePron she_Pron)) (PrepNP on_Prep (UsePron he_Pron)))	hon förstår henne på honom	hon förstår henne på honom
+PredVPS (DetCN the_Det (AdjCN (PositA cold_A) (UseN grammar_N))) (ComplV2 understand_V2 (DetCN thePl_Det (UseN cloud_N)))	den kalla grammatiken förstår molnen	den kalla grammatiken förstår molnen
+PredVPS (DetCN thePl_Det (UseN dog_N)) (AdvVP (UseV swim_V) already_Adv)	hundarna simmar redan	hundarna simmar redan
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 kill_V2 (UsePron she_Pron)) (PrepNP with_Prep (UsePron she_Pron)))	de dödar henne med henne	de dödar henne med henne
+PredVPS (DetCN a_Det (AdjCN (PositA hot_A) (UseN boy_N))) (UseComp (CompAP (PositA clean_A)))	en het pojke är ren	en het pojke är ren
+PredVPS (UsePron he_Pron) (ComplV2 eat_V2 (UsePron they_Pron))	han äter dem	han äter dem
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 drink_V2 (UsePron he_Pron)) (PrepNP on_Prep (UsePron he_Pron)))	de dricker honom på honom	de dricker honom på honom
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA big_A)))	han är stor	han är stor
+PredVPS (DetCN the_Det (AdjCN (PositA dirty_A) (UseN sea_N))) (UseV travel_V)	det smutsiga havet reser	det smutsiga havet reser
+PredVPS (DetCN a_Det (UseN cloud_N)) (ComplV2 find_V2 (DetCN the_Det (UseN flower_N)))	ett moln finner blomman	ett moln finner blomman
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 kill_V2 (UsePron she_Pron)) now_Adv)	hon dödar henne nu	hon dödar henne nu
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA warm_A)))	hon är varm	hon är varm
+PredVPS (UsePron they_Pron) (UseV go_V)	de går	de går
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA white_A)))	de är vita	de är vita
+PredVPS (UsePron she_Pron) (ComplV2 break_V2 (UsePron she_Pron))	hon slår henne sönder	hon slår sönder henne
+PredVPS (DetCN the_Det (AdjCN (PositA blue_A) (UseN car_N))) (ComplV2 kill_V2 (DetCN thePl_Det (UseN train_N)))	den blåa bilen dödar tågen	den blåa bilen dödar tågen
+PredVPS (DetCN a_Det (UseN baby_N)) (AdvVP (AdvVP (UseV sleep_V) already_Adv) (PrepNP with_Prep (UsePron they_Pron)))	en bebis sover redan med dem	en bebis sover redan med dem
+PredVPS (UsePron she_Pron) (ComplV2 find_V2 (DetCN the_Det (UseN animal_N)))	hon finner djuret	hon finner djuret
+PredVPS (DetCN the_Det (UseN ship_N)) (UseV travel_V)	skeppet reser	skeppet reser
+PredVPS (DetCN thePl_Det (AdjCN (PositA old_A) (UseN child_N))) (UseV live_V)	de gamla barnen lever	de gamla barnen lever
+PredVPS (DetCN a_Det (UseN car_N)) (ComplV2 wait_V2 (DetCN thePl_Det (UseN boy_N)))	en bil väntar på pojkarna	en bil väntar på pojkarna
+PredVPS (DetCN a_Det (AdjCN (PositA clever_A) (UseN sea_N))) (AdvVP (UseV play_V) already_Adv)	ett klokt hav leker redan	ett klokt hav leker redan
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA hot_A)))	hon är het	hon är het
+PredVPS (UsePron he_Pron) (AdvVP (UseV walk_V) now_Adv)	han går nu	han går nu
+PredVPS (UsePron she_Pron) (UseV run_V)	hon springer	hon springer
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA old_A)))	de är gamla	de är gamla
+PredVPS (DetCN aPl_Det (AdjCN (PositA yellow_A) (UseN computer_N))) (UseComp (CompAP (PositA old_A)))	gula datorer är gamla	gula datorer är gamla
+PredVPS (DetCN a_Det (AdjCN (PositA red_A) (UseN book_N))) (UseComp (CompAP (PositA warm_A)))	en röd bok är varm	en röd bok är varm
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA cold_A)))	de är kalla	de är kalla
+
+108 msec
+MicroLang> See you.
+0 msec

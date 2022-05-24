@@ -1,0 +1,8 @@
+PredVPS nsubj head
+ComplV2 head case obj
+AdvVP head advmod
+DetCN det head
+AdjCN amod head
+PrepNP case head
+
+UseComp {"är","var","varit","vara"} AUX cop head

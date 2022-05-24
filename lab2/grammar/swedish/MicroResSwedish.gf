@@ -53,21 +53,33 @@ oper
       s = table {
           Singular => table {
             Indefinite => table {
-              Genitive => sg_indef + "s";
+              Genitive => case sg_indef of {
+                _ + "s" => sg_indef ;
+                _ => sg_indef + "s"
+              } ;
               _ => sg_indef
             } ; 
             Definite   => table {
-              Genitive => sg_def + "s";
+              Genitive => case sg_def of {
+                _ + "s" => sg_def ;
+                _ => sg_def + "s"
+              } ;
               _ => sg_def
             }
           } ; 
           Plural => table {
             Indefinite => table {
-              Genitive => pl_indef + "s";
+              Genitive => case pl_indef of {
+                _ + "s" => pl_indef ;
+                _ => pl_indef + "s"
+              } ;
               _ => pl_indef
             } ;
             Definite   => table {
-              Genitive => pl_def + "s";
+              Genitive => case pl_def of {
+                _ + "s" => pl_def ;
+                _ => pl_def + "s"
+              } ;
               _ => pl_def
             }  
           } 

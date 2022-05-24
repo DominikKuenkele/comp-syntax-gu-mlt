@@ -31,9 +31,9 @@ lin
   UttNP np = {s = np.s ! Accusative} ;
 
 -- Sentence
-PredVPS np vp = {
-  s = np.s ! Nominative ++ vp.verb.s ! (VF (Present Active)) ++ vp.compl ! Positive ! np.n ! np.g
-} ;
+  PredVPS np vp = {
+    s = np.s ! Nominative ++ vp.verb.s ! (VF (Present Active)) ++ vp.compl ! Positive ! np.n ! np.g
+  } ;
 
 -- Verb
   UseV v = {
@@ -194,7 +194,7 @@ lin baby_N = mkN "bebis" Common ;
 lin beer_N = mkN "öl" Neuter ;
 lin bike_N = mkN "cykel" Common ;
 lin bird_N = mkN "fågel" Common ;
-lin blood_N = mkN "blod" Neuter ; -- only singular
+lin blood_N = mkN "blod" nonExist Neuter ; -- only singular
 lin boat_N = mkN "båt" Common ;
 lin book_N = mkN "bok" "böcker" Common ;
 lin boy_N = mkN "pojke" Common ;
@@ -217,8 +217,8 @@ lin horse_N = mkN "häst" Common ;
 lin house_N = mkN "hus" Neuter ;
 lin language_N = mkN "språk" Neuter ;
 lin man_N = mkN "man" "mannen" "män" "männen" Common ;
-lin milk_N = mkN "mjölk" "mjölket" "" "" Common; -- only singular
-lin music_N = mkN "musik" Common ; -- only singular
+lin milk_N = mkN "mjölk" "mjölket" nonExist nonExist Common; -- only singular
+lin music_N = mkN "musik" nonExist Common ; -- only singular
 lin river_N = mkN "å" Common ;
 lin sea_N = mkN "hav" Neuter ;
 lin ship_N = mkN "skepp" Neuter ;

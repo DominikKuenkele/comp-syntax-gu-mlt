@@ -1,0 +1,4 @@
+A:<DET> small:<ADJ> town:<NOUN> with:<ADP> two:<NUM> minarets:<NOUN> glides:<VERB> by:<ADV> .:<PUNCT>
+I:<PRON> was:<AUX> just:<ADV> a:<DET> boy:<NOUN> with:<ADP> muddy:<ADJ> shoes:<NOUN> .:<PUNCT>
+he:<PRON> collected:<VERB> cards:<NOUN> and:<CCONJ> traded:<VERB> them:<PRON> with:<ADP> the:<DET> other:<ADJ> boys:<NOUN>
+I:<PRON> carry:<VERB> these:<DET> thoughts:<NOUN> in:<ADP> the:<DET> back:<NOUN> of:<ADP> my:<PRON> head:<NOUN>

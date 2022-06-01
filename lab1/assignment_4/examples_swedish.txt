@@ -1,0 +1,4 @@
+En:<DET> liten:<ADJ> stad:<NOUN> med:<ADP> två:<NUM> minareter:<NOUN> glider:<VERB> förbi:<ADV> .:<PUNCT>
+Jag:<PRON> var:<AUX> bara:<ADV> en:<DET> pojke:<NOUN> med:<ADP> leriga:<ADJ> skor:<NOUN> .:<PUNCT>
+Han:<PRON> samlade:<VERB> kort:<NOUN> och:<CCONJ> handlade:<VERB> dem:<PRON> med:<ADP> de:<DET> andra:<ADJ> pojkarnar:<NOUN>
+Jag:<PRON> har:<VERB> dessa:<DET> tankar:<NOUN> i:<ADP> mitt:<PRON> bakhuvud:<NOUN>

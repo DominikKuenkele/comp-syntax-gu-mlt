@@ -1,8 +1,2 @@
-PredVPS nsubj head
-ComplV2 head case obj
-AdvVP head advmod
-DetCN det head
-AdjCN amod head
-PrepNP case head
-
+ComplV2 {"på"} PART case obj
 UseComp {"är","var","varit","vara"} AUX cop head

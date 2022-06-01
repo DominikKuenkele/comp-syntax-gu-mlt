@@ -8,7 +8,7 @@ lincat
   Utt = {s : Str} ;
   S = {s : Str} ;
   NP = {s : Case => Str ; n : Number ; g : Gender} ;
-  VP = {verb : Verb ; compl : Degree => Number => Gender => Str} ;
+  VP = {verb : Verb ; part : Str ; compl : Degree => Number => Gender => Str} ;
   Adv = {s : Str} ;
 
   N = Noun ;
@@ -32,12 +32,13 @@ lin
 
 -- Sentence
   PredVPS np vp = {
-    s = np.s ! Nominative ++ vp.verb.s ! (VF (Present Active)) ++ vp.compl ! Positive ! np.n ! np.g
+    s = np.s ! Nominative ++ vp.verb.s ! (VF (Present Active)) ++ vp.part ++ vp.compl ! Positive ! np.n ! np.g
   } ;
 
 -- Verb
   UseV v = {
     verb = v ;
+    part = "" ;
     compl = table {
       d => table {
         n => table {
@@ -49,10 +50,11 @@ lin
 
   ComplV2 v np = {
     verb = v ;
+    part = v.p.s ;
     compl = table {
       d => table {
         n => table {
-          g => v.p.s ++ v.c ++ np.s ! Accusative
+          g => np.s ! Accusative
         }
       }
     }
@@ -61,6 +63,7 @@ lin
 
   UseComp compl = {
     verb = be_Verb ;
+    part = "" ;
     compl = table {
       d => table {
         n => table {
@@ -74,6 +77,7 @@ lin
 
   AdvVP vp adv = {
     verb = vp.verb ;
+    part = "" ;
     compl = table {
       d => table {
         n => table {
@@ -219,7 +223,7 @@ lin language_N = mkN "språk" Neuter ;
 lin man_N = mkN "man" "mannen" "män" "männen" Common ;
 lin milk_N = mkN "mjölk" "mjölket" nonExist nonExist Common; -- only singular
 lin music_N = mkN "musik" nonExist Common ; -- only singular
-lin river_N = mkN "å" Common ;
+lin river_N = mkN "flod" "floder" Common ;
 lin sea_N = mkN "hav" Neuter ;
 lin ship_N = mkN "skepp" Neuter ;
 lin star_N = mkN "stjärna" Common ;
@@ -244,7 +248,7 @@ lin heavy_A = mkA "tung" "tyngre" ;
 lin hot_A = mkA "het" ;
 lin new_A = mkA "ny" "nytt" ;
 lin old_A = mkA "gammal" "gammalt" "gamla" "äldre" ;
-lin ready_A = mkA "färdig" ;
+lin ready_A = mkA "redo" "redo" "redo" "mer redo" ;
 lin red_A = mkA "röd" "rött" ;
 lin small_A = mkA "liten" "litet" "små" "lilla" "mindre" "minst" ;
 lin warm_A = mkA "varm" ;
@@ -253,7 +257,7 @@ lin yellow_A = mkA "gul" ;
 lin young_A = mkA "ung" "yngre" ;
 
 -- Verbs
-lin break_V2 = mkV2 (mkV "slå" "slagit" "slog") "sönder";
+lin break_V2 = mkV2 (mkV "bryta" "brutit" "bröt");
 lin buy_V2 = mkV2 (mkV "köpa" "köpte") ;
 lin come_V = mkV "komma" "kommit" "kom" ; -- not working perfectly
 lin drink_V2 = mkV2 (mkV "dricka" "druckit" "drack") ;

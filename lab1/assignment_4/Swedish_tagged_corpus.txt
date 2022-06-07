@@ -16,7 +16,7 @@ Nyheten:<NOUN> spreds:<VERB> till:<ADP> alla:<DET> byar:<NOUN> i:<ADP> provinsen
 Jag:<PRON> har:<VERB> dessa:<DET> tankar:<NOUN> i:<ADP> mitt:<PRON> bakhuvud:<NOUN> 
 Adam:<PROPN> skulle:<AUX> ha:<AUX> överförts:<VERB> till:<ADP> det:<DET> eviga:<ADJ> livet:<NOUN> 
 Höljet:<NOUN> hade:<AUX> ruttnat:<VERB> bort:<ADV> och:<CCONJ> måste:<AUX> bytas:<VERB> ut:<ADP> 
-Hon:<PRON> var:<AUX> uppröd:<ADJ> över <ADP> att:<SCONJ> den:<DET> här:<ADV> flickan:<NOUN> skulle:<AUX> våga:<VERB> göra:<VERB> henne:<PRON> till:<ADP> åtlöje:<NOUN> inför:<ADP> hela:<ADJ> klassen:<NOUN> 
+Hon:<PRON> var:<AUX> uppröd:<ADJ> över:<ADP> att:<SCONJ> den:<DET> här:<ADV> flickan:<NOUN> skulle:<AUX> våga:<VERB> göra:<VERB> henne:<PRON> till:<ADP> åtlöje:<NOUN> inför:<ADP> hela:<ADJ> klassen:<NOUN> 
 Jordskredet:<NOUN> han:<PRON> fick:<VERB> i:<ADP> elektorskollegiet:<NOUN> döljde:<VERB> snävheten:<NOUN> i:<ADP> en:<DET> seger:<NOUN> baserad:<VERB> på:<ADP> endast:<ADV> 43:<NUM> %:<SYM> av:<ADP> folkomröstningen:<NOUN> 
 USA:<PROPN> trupper:<NOUN> har:<VERB> nu:<ADV> atropin:<NOUN> och:<CCONJ> autoinjektorer:<NOUN> i:<ADP> sina:<PRON> förbandslådor:<NOUN> för:<PART> användning:<NOUN> vid:<ADP> förgiftning:<NOUN> med:<ADP> organofosfatnervmedel:<NOUN> 
 Han:<PRON> kan:<AUX> långsiktigt:<ADV> åstadkomma:<VERB> med:<ADP> hjälp:<NOUN> av:<ADP> hantverk:<NOUN> vad:<PRON> han:<PRON> inte:<PART> kan:<AUX> åstadkomma:<VERB> med:<ADP> kraft:<NOUN> och:<CCONJ> våld:<NOUN> kortsiktigt:<ADV> 

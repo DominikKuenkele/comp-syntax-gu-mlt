@@ -1,0 +1,24 @@
+Vilka:<PRON> är:<AUX> de:<PRON> ?:<PUNCT>
+En:<DET> liten:<ADJ> stad:<NOUN> med:<ADP> två:<NUM> minareter:<NOUN> glider:<VERB> förbi:<ADV> .:<PUNCT> 
+Jag:<PRON> var:<AUX> bara:<ADV> en:<DET> pojke:<NOUN> med:<ADP> leriga:<ADJ> skor:<NOUN> .:<PUNCT> 
+Shenzhens:<PROPN> traffikpolis:<NOUN> har:<AUX> valt:<VERB> okonventionella:<ADJ> straff:<NOUN> förut:<ADV> .:<PUNCT> 
+Studiet:<NOUN> av:<ADP> vulkaner:<NOUN> kallas:<VERB> vulkanologi:<NOUN> ,:<PUNCT> ibland:<ADV> stavat:<VERB> vulkanologi:<NOUN> .:<PUNCT> 
+Det:<PRON> genomfördes:<VERB> just:<ADV> utanför:<ADP> den:<DET> mexikanska:<ADJ> kusten:<NOUN> mellan:<ADP> april:<PROPN> och:<ADP> juni:<PROPN> .:<PUNCT> 
+Hennes:<PRON> röst:<NOUN> gick:<VERB> bokstavligt:<ADV> talat:<VERB> runt:<ADP> jorden:<NOUN> ,:<PUNCT> sade:<VERB> Leive:<PROPN> .:<PUNCT> 
+Ett:<DET> vittne:<NOUN> berättade:<VERB> för:<ADP> polisen:<NOUN> att:<SCONJ> offret:<NOUN> hade:<AUX> attackerat:<VERB> den:<DET> misstänkte:<NOUN> i:<ADP> april:<PROPN> .:<PUNCT>
+Det:<PRON> är:<AUX> som:<SCONJ> allra:<ADV> tydligast:<ADJ> när:<SCONJ> en:<DET> kändis:<NOUN> namn:<NOUN> från:<ADP> början:<NOUN> är:<AUX> riktigt:<ADV> ovanligt:<ADJ> .:<PUNCT> 
+Detta:<PRON> har:<AUX> inte:<PART> hindrat:<VERB> investerare:<NOUN> från:<ADP> att:<PART> flockas:<VERB> för:<ADP> att:<PART> sätta:<VERB> in:<ADV> sina:<PRON> pengar:<NOUN> i:<ADP> fonderna:<NOUN> .:<PUNCT> 
+Denna:<DET> motsägelse:<NOUN> mellan:<ADP> ekonomiska:<ADJ> data:<NOUN> och:<CCONJ> politisk:<ADJ> retorik:<NOUN> är:<AUX> bekant:<ADJ> ,:<PUNCT> eller:<CCONJ> borde:<AUX> vara:<VERB> det:<PRON> .:<PUNCT> 
+Rimlighetsstudien:<NOUN> uppskattar:<VERB> att:<SCONJ> det:<PRON> skulle:<AUX> ta:<VERB> passagerare:<NOUN> ungefär:<ADV> fyra:<NUM> minuter:<NOUN> att:<PART> korsa:<VERB> Potomacfloden:<PROPN> med:<ADP> gondolen:<NOUN> .:<PUNCT> 
+Han:<PRON> samlade:<VERB> kort:<NOUN> och:<CCONJ> handlade:<VERB> dem:<PRON> med:<ADP> de:<DET> andra:<ADJ> pojkarna:<NOUN> 
+Detta:<DET> brott:<NOUN> har:<VERB> en:<DET> strafvärde:<NOUN> på:<ADP> fem:<NUM> år:<NOUN> i:<ADP> fängelse:<NOUN> 
+Nyheten:<NOUN> spreds:<VERB> till:<ADP> alla:<DET> byar:<NOUN> i:<ADP> provinsen:<NOUN> 
+Jag:<PRON> har:<VERB> dessa:<DET> tankar:<NOUN> i:<ADP> mitt:<PRON> bakhuvud:<NOUN> 
+Adam:<PROPN> skulle:<AUX> ha:<AUX> överförts:<VERB> till:<ADP> det:<DET> eviga:<ADJ> livet:<NOUN> 
+Höljet:<NOUN> hade:<AUX> ruttnat:<VERB> bort:<ADV> och:<CCONJ> måste:<AUX> bytas:<VERB> ut:<ADP> 
+Hon:<PRON> var:<AUX> uppröd:<ADJ> över ADP> att:<SCONJ> den:<DET> här:<ADV> flickan:<NOUN> skulle:<AUX> våga:<VERB> göra:<VERB> henne:<PRON> till:<ADP> åtlöje:<NOUN> inför:<ADP> hela:<ADJ> klassen:<NOUN> 
+Jordskredet:<NOUN> han:<PRON> fick:<VERB> i:<ADP> elektorskollegiet:<NOUN> döljde:<VERB> snävheten:<NOUN> i:<ADP> en:<DET> seger:<NOUN> baserad:<VERB> på:<ADP> endast:<ADV> 43:<NUM> %:<SYM> av:<ADP> folkomröstningen:<NOUN> 
+USA:<PROPN> trupper:<NOUN> har:<VERB> nu:<ADV> atropin:<NOUN> och:<CCONJ> autoinjektorer:<NOUN> i:<ADP> sina:<PRON> förbandslådor:<NOUN> för:<PART> användning:<NOUN> vid:<ADP> förgiftning:<NOUN> med:<ADP> organofosfatnervmedel:<NOUN> 
+Han:<PRON> kan:<AUX> långsiktigt:<ADV> åstadkomma:<VERB> med:<ADP> hjälp:<NOUN> av:<ADP> hantverk:<NOUN> vad:<PRON> han:<PRON> inte:<PART> kan:<AUX> åstadkomma:<VERB> med:<ADP> kraft:<NOUN> och:<CCONJ> våld:<NOUN> kortsiktigt:<ADV> 
+Det:<PRON> har:<AUX> sagts:<VERB> att:<SCONJ> endast:<ADV> ett:<DET> hierarkiskt:<ADJ> samhälle:<NOUN> med:<ADP> en:<DET> fritidsklass:<NOUN> i:<ADP> toppen:<NOUN> kan:<AUX> producera:<VERB> konstverk:<NOUN> 
+hans:<PRON> geniala:<ADJ> förklaring:<NOUN> att:<SCONJ> han:<PRON> inte:<PART> skulle:<AUX> ha:<AUX> bränt:<VERB> kyrkan:<NOUN> om:<SCONJ> han:<PRON> inte:<PART> hade:<AUX> trott:<VERB> att:<SCONJ> biskopen:<NOUN> var:<AUX> i:<ADP> den:<PRON> 

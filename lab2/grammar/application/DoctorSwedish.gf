@@ -55,16 +55,16 @@ lin
 -- end of what could be a functor
 --------------------------------
 
-  coughAction = mkVP (mkV "hosta") ;
+  coughAction = mkVP (mkV "hostar") ;
   breatheAction = mkVP (mkV "andas") ;
-  vomitAction = mkVP (mkV "kräkas") ;
-  sleepAction = mkVP (mkV "sova" "sovit" "sov") ;
+  vomitAction = mkVP (mkV "kräks") ;
+  sleepAction = mkVP (mkV "sova" "sov" "sovit") ;
   undressAction = reflexiveVP (mkV2 dress_V (mkPrep "av")) ;
   dressAction = reflexiveVP (mkV2 dress_V (mkPrep "på")) ;
-  eatAction = mkVP (mkV "äta" "ätit" "åt") ;
-  drinkAction = mkVP (mkV "dricka" "druckit" "drack") ;
-  smokeAction = mkVP (mkV "röka") ;
-  measureTemperatureAction = mkVP (mkV2 (mkV "mäter")) (mkNP the_Det (mkN "kroppstemperatur" utrum)) ;
+  eatAction = mkVP (mkV "äta" "åt" "ätit") ;
+  drinkAction = mkVP (mkV "dricka" "drack" "druckit") ;
+  smokeAction = mkVP (mkV "röker") ;
+  measureTemperatureAction = mkVP (mkV2 (mkV "mäter")) (mkNP the_Det (mkN "kroppstemperatur" "kroppstemparaturer")) ;
   measureBloodPressureAction = mkVP (mkV2 (mkV "mäter")) (mkNP the_Det (mkN "blodtryck" neutrum)) ;
 
   hospitalPlace = {at = pAdv "på sjukhuset" ; to = pAdv "till sjukhuset"} ;
@@ -72,40 +72,40 @@ lin
   schoolPlace = {at = pAdv "i skolan" ; to = pAdv "till skolan"} ;
   workPlace = {at = pAdv "på jobbet" ; to = pAdv "till jobbet"} ;
 
-  doctorProfession = mkCN (mkN "doktor" utrum) ;
-  nurseProfession = mkCN (mkN "sjuksköterska" utrum) ;
-  interpreterProfession = mkCN (mkN "tolk" utrum) ;
+  doctorProfession = mkCN (mkN "doktor" "doktorer") ;
+  nurseProfession = mkCN (mkN "sjuksköterska") ;
+  interpreterProfession = mkCN (mkN "tolk") ;
 
-  bePregnantProperty = mkVP (mkA "gravid") ;
+  bePregnantProperty = mkVP (mkA "gravid" "gravitt") ;
   beIllProperty = mkVP (mkA "sjuk") ;
-  beWellProperty = mkVP (mkVA (mkV "mår")) (mkAP (mkA "bra")) ;
-  beDeadProperty = mkVP (mkA "död") ;
-  haveAllergiesProperty = mkVP have_V2 (mkNP aPl_Det (mkN "allergi" utrum)) ;
-  havePainsProperty = mkVP have_V2 (mkNP aPl_Det (mkN "smärta" utrum)) ;
+  beWellProperty = mkVP (mkVA (mkV "mår")) (mkAP (mkA "bra" "bra" "bra" "bättre" "bäst")) ;
+  beDeadProperty = mkVP (mkA "död" "dött") ;
+  haveAllergiesProperty = mkVP have_V2 (mkNP aPl_Det (mkN "allergi" "allergin" "allergier" "allergierna" utrum)) ;
+  havePainsProperty = mkVP have_V2 (mkNP aPl_Det (mkN "smärta")) ;
   haveChildrenProperty = mkVP have_V2 (mkNP aPl_Det (mkN "barn" neutrum)) ;
 
-  feverIllness = mkNP (mkN "feber" utrum) ;
-  fluIllness = mkNP (mkN "influense" utrum) ;
-  headacheIllness = mkNP (mkN "huvudvärk" utrum) ;
-  diarrheaIllness = mkNP (mkN "diarré" utrum) ;
-  heartDiseaseIllness = mkNP a_Det (mkN "hjärtsjukdom" utrum) ;
-  lungDiseaseIllness = mkNP a_Det (mkN "lungsjukdom" utrum) ;
-  hypertensionIllness = mkNP (mkCN (mkA "hög") (mkN "blodtryck" neutrum)) ;
+  feverIllness = mkNP (mkN "feber") ;
+  fluIllness = mkNP (mkN "influensa") ;
+  headacheIllness = mkNP (mkN "huvudvärk") ;
+  diarrheaIllness = mkNP (mkN "diarré" "diarréer") ;
+  heartDiseaseIllness = mkNP a_Det (mkN "hjärtsjukdom") ;
+  lungDiseaseIllness = mkNP a_Det (mkN "lungsjukdom") ;
+  hypertensionIllness = mkNP (mkCN (mkA "hög" "högre" "högst") (mkN "blodtryck" neutrum)) ;
 
-  alcoholSubstance = mkNP (mkN "alkohol" utrum) ;
-  medicineSubstance = mkNP a_Det (mkN "medicin" utrum) ;
-  drugsSubstance = mkNP aPl_Det (mkN "drog" utrum) ;
+  alcoholSubstance = mkNP (mkN "alkohol" "alcoholer") ;
+  medicineSubstance = mkNP a_Det (mkN "medicin" "mediciner") ;
+  drugsSubstance = mkNP aPl_Det (mkN "drog" "droger") ;
 
 oper
   pAdv : Str -> Adv = ParadigmsSwe.mkAdv ;
 
-  go_V = mkV "gå" "gick" ;
-  stay_V = mkV "stanna" ;
-  need_V2 = mkV2 (mkV "behöva") ;
-  take_V2 = mkV2 (mkV "tar") ;
+  go_V = mkV "gå" "gick" "gått" ;
+  stay_V = mkV "stannar" ;
+  need_V2 = mkV2 (mkV "behöver") ;
+  take_V2 = mkV2 (mkV "ta" "tar" "ta" "tog" "tagit" "tagen") ;
   dress_V = mkV "klär" ;
-  put_V2 = mkV2 (mkV "sätta") ;
-  vaccinate_V2 = mkV2 (mkV "vaccinera") ;
-  examine_V2 = mkV2 (mkV "undersöka") ;
+  put_V2 = mkV2 (mkV "sätta" "satte" "satt") ;
+  vaccinate_V2 = mkV2 (mkV "vaccinerar") ;
+  examine_V2 = mkV2 (mkV "undersöker") ;
 
 }

@@ -1,0 +1,68 @@
+1	den	the_Det	DET	Det	Det-0	3	det	_	_
+2	nya	new_A	ADJ	A	A-0	3	amod	_	_
+3	katten	cat_N	NOUN	N	N-1	0	root	_	_
+
+1	viner	wine_N	NOUN	N	N-10	0	root	_	_
+
+1	gula	yellow_A	ADJ	A	A-5	3	amod	_	_
+2	dåliga	bad_A	ADJ	A	A-5	3	amod	_	_
+3	floder	river_N	NOUN	N	N-10	0	root	_	_
+
+1	den	the_Det	DET	Det	Det-0	3	det	_	_
+2	röda	red_A	ADJ	A	A-0	3	amod	_	_
+3	bilen	car_N	NOUN	N	N-0	4	nsubj	_	_
+4	läser	read_V2	VERB	V2	V2-5	0	root	_	_
+5	tåget	train_N	NOUN	N	N-1	4	obj	_	_
+
+1	dem	they_Pron	PRON	Pron	Pron-1	0	root	_	_
+
+1	honom	he_Pron	PRON	Pron	Pron-1	0	root	_	_
+
+1	bebisen	baby_N	NOUN	N	N-1	0	root	_	_
+
+1	hon	she_Pron	PRON	Pron	Pron-0	3	nsubj	_	_
+2	är	UseComp	AUX	VP	VP-18	3	cop	_	_
+3	ung	young_A	ADJ	A	A-1	0	root	_	_
+
+1	nya	new_A	ADJ	A	A-7	2	amod	_	_
+2	öl	beer_N	NOUN	N	N-10	0	root	_	_
+
+1	hon	she_Pron	PRON	Pron	Pron-0	2	nsubj	_	_
+2	går	walk_V	VERB	V	V-5	0	root	_	_
+3	nu	now_Adv	ADV	Adv	Adv-0	2	advmod	_	_
+4	nu	now_Adv	ADV	Adv	Adv-0	2	advmod	_	_
+5	nu	now_Adv	ADV	Adv	Adv-0	2	advmod	_	_
+
+1	de	thePl_Det	DET	Det	Det-0	3	det	_	_
+2	gröna	green_A	ADJ	A	A-4	3	amod	_	_
+3	vännerna	friend_N	NOUN	N	N-6	5	nsubj	_	_
+4	är	UseComp	AUX	VP	VP-18	5	cop	_	_
+5	rena	clean_A	ADJ	A	A-5	0	root	_	_
+
+1	honom	he_Pron	PRON	Pron	Pron-1	0	root	_	_
+
+1	de	they_Pron	PRON	Pron	Pron-0	3	nsubj	_	_
+2	är	UseComp	AUX	VP	VP-18	3	cop	_	_
+3	blåa	blue_A	ADJ	A	A-5	0	root	_	_
+
+1	gröna	green_A	ADJ	A	A-7	2	amod	_	_
+2	hus	house_N	NOUN	N	N-9	4	nsubj	_	_
+3	är	UseComp	AUX	VP	VP-18	4	cop	_	_
+4	gamla	old_A	ADJ	A	A-7	0	root	_	_
+
+1	de	they_Pron	PRON	Pron	Pron-0	2	nsubj	_	_
+2	springer	run_V	VERB	V	V-5	0	root	_	_
+
+1	honom	he_Pron	PRON	Pron	Pron-1	0	root	_	_
+
+1	dem	they_Pron	PRON	Pron	Pron-1	0	root	_	_
+
+1	dåliga	bad_A	ADJ	A	A-5	2	amod	_	_
+2	bilar	car_N	NOUN	N	N-10	0	root	_	_
+
+1	henne	she_Pron	PRON	Pron	Pron-1	0	root	_	_
+
+1	han	he_Pron	PRON	Pron	Pron-0	2	nsubj	_	_
+2	ser	see_V2	VERB	V2	V2-5	0	root	_	_
+3	goda	good_A	ADJ	A	A-7	4	amod	_	_
+4	barn	child_N	NOUN	N	N-10	2	obj	_	_

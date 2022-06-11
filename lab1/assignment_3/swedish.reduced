@@ -1,7 +1,7 @@
 # sent_id = 1
 # text = Vilka är de? 
 # text_en = Who are they?
-1	Vilka	PRON    0   roo
+1	Vilka	PRON    0   root
 2	är	AUX 1   cop
 3	de	PRON    1   nsubj
 4	?	PUNCT   1   punct

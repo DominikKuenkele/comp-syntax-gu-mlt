@@ -249,37 +249,37 @@
 
 
 
-# text = this crime carries a penalty of five years in prison
-# analyses = 10
-# parsetree = (Chunks (Str this) (Str crime) (Str carries) (Str a) (Str penalty) (Str of) (Str five) (Str years) (Str in) (Str prison))
-# weight = 9.765625e-8
-1	this	_	X	_	_	0	root	_	_
-2	crime	_	X	_	_	1	dep	_	_
-3	carries	_	X	_	_	1	dep	_	_
-4	a	_	X	_	_	1	dep	_	_
-5	penalty	_	X	_	_	1	dep	_	_
-6	of	_	X	_	_	1	dep	_	_
-7	five	_	X	_	_	1	dep	_	_
-8	years	_	X	_	_	1	dep	_	_
-9	in	_	X	_	_	1	dep	_	_
-10	prison	_	X	_	_	1	dep	_	_
+# text = this:<DET> crime:<NOUN> carries:<VERB> a:<DET> penalty:<NOUN> of:<ADP> five:<NUM> years:<NOUN> in:<ADP> prison:<NOUN> 
+# analyses = 185
+# parsetree = (Utt (S (NP (Det this) (CN (N crime))) (VP (V2 carries) (NP (NP (Det a) (CN (N penalty))) (NP_obl (Prep of) (NP (NP (Num (Card five)) (NP (CN (N years)))) (NP_obl (Prep in) (NP (CN (N prison))))))))))
+# weight = 7.812500000000008e-13
+1	this	_	DET	_	_	2	det	_	_
+2	crime	_	NOUN	_	_	3	nsubj	_	_
+3	carries	_	VERB	_	_	0	root	_	_
+4	a	_	DET	_	_	5	det	_	_
+5	penalty	_	NOUN	_	_	3	obj	_	_
+6	of	_	ADP	_	_	8	case	_	_
+7	five	_	NUM	_	_	8	nummod	_	_
+8	years	_	NOUN	_	_	5	nmod	_	_
+9	in	_	ADP	_	_	10	case	_	_
+10	prison	_	NOUN	_	_	8	nmod	_	_
 
 
 
-# text = the news was carried to every village in the province
-# analyses = 10
-# parsetree = (Chunks (Str the) (Str news) (Str was) (Str carried) (Str to) (Str every) (Str village) (Str in) (Str the) (Str province))
-# weight = 9.765625e-8
-1	the	_	X	_	_	0	root	_	_
-2	news	_	X	_	_	1	dep	_	_
-3	was	_	X	_	_	1	dep	_	_
-4	carried	_	X	_	_	1	dep	_	_
-5	to	_	X	_	_	1	dep	_	_
-6	every	_	X	_	_	1	dep	_	_
-7	village	_	X	_	_	1	dep	_	_
-8	in	_	X	_	_	1	dep	_	_
-9	the	_	X	_	_	1	dep	_	_
-10	province	_	X	_	_	1	dep	_	_
+# text = the:<DET> news:<NOUN> was:<AUX> carried:<VERB> to:<ADP> every:<DET> village:<NOUN> in:<ADP> the:<DET> province:<NOUN>
+# analyses = 63
+# parsetree = (Utt (S (NP (Det the) (CN (N news))) (have was) (VP (V2 carried) (NP_obl (Prep to) (NP (NP (Det every) (CN (N village))) (NP_obl (Prep in) (NP (Det the) (CN (N province)))))))))
+# weight = 2.5000000000000017e-11
+1	the	_	DET	_	_	2	det	_	_
+2	news	_	NOUN	_	_	4	nsubj	_	_
+3	was	_	AUX	_	_	4	aux	_	_
+4	carried	_	VERB	_	_	0	root	_	_
+5	to	_	ADP	_	_	7	case	_	_
+6	every	_	DET	_	_	7	det	_	_
+7	village	_	NOUN	_	_	4	obl	_	_
+8	in	_	ADP	_	_	10	case	_	_
+9	the	_	DET	_	_	10	det	_	_
+10	province	_	NOUN	_	_	7	nmod	_	_
 
 
 
@@ -363,48 +363,40 @@
 
 
 
-# text = the:<DET> landslide:<NOUN> he:<PRON:< nsubj
-# analyses = 3
-# parsetree = (Chunks (Comp (NP (Det the) (CN (N landslide)))) (Str 'he:<PRON:<') (Str nsubj))
-# weight = 1.2500000000000002e-7
+# text = the:<DET> landslide:<NOUN> he:<PRON> had:<VERB> in:<ADP> the:<DET> electoral:<ADJ> college:<NOUN> obscured:<VERB> the:<DET> narrowness:<NOUN> of:<ADP> a:<DET> victory:<NOUN> based:<VERB> on:<ADP> just:<ADV> NUM> %:<SYM> of:<ADP> the:<DET> popular:<ADJ> vote:<NOUN> 
+# analyses = 4
+# parsetree = (Chunks (Comp (NP (NP (NP (Det the) (CN (N landslide))) (SC (S_that (S (NP (Pron he)) (VP (V had)))))) (NP_obl (Prep in) (NP (NP (NP (Det the)) (SC (S_that (S (NP (CN (AP (A electoral)) (CN (N college)))) (VP (V2 obscured) (NP (Det the) (CN (N narrowness)))))))) (NP_obl (Prep of) (NP (NP (Det a)) (RS (NP (CN (N victory))) (VPSlash (VPSlash (VP (V based)) (Prep on)) (Adv just))))))))) (Str 'NUM>') (Symb '%') (Comp (NP_obl (Prep of) (NP (Det the) (CN (AP (A popular)) (CN (N vote)))))))
+# weight = 3.051757812500006e-36
 1	the	_	DET	_	_	2	det	_	_
 2	landslide	_	NOUN	_	_	0	root	_	_
-3	he:<PRON:<	_	X	_	_	2	dep	_	_
-4	nsubj	_	X	_	_	2	dep	_	_
+3	he	_	PRON	_	_	4	nsubj	_	_
+4	had	_	VERB	_	_	2	acl	_	_
+5	in	_	ADP	_	_	6	case	_	_
+6	the	_	DET	_	_	2	nmod	_	_
+7	electoral	_	ADJ	_	_	8	amod	_	_
+8	college	_	NOUN	_	_	9	nsubj	_	_
+9	obscured	_	VERB	_	_	6	acl	_	_
+10	the	_	DET	_	_	11	det	_	_
+11	narrowness	_	NOUN	_	_	9	obj	_	_
+12	of	_	ADP	_	_	13	case	_	_
+13	a	_	DET	_	_	6	nmod	_	_
+14	victory	_	NOUN	_	_	15	nsubj	_	_
+15	based	_	VERB	_	_	13	acl:relcl	_	_
+16	on	_	ADP	_	_	15	case	_	_
+17	just	_	ADV	_	_	15	advmod	_	_
+18	NUM>	_	X	_	_	2	dep	_	_
+19	%	_	SYM	_	_	2	dep	_	_
+20	of	_	ADP	_	_	23	case	_	_
+21	the	_	DET	_	_	23	det	_	_
+22	popular	_	ADJ	_	_	23	amod	_	_
+23	vote	_	NOUN	_	_	2	dep	_	_
 
 
 
-# text = had:<VERB> in:<ADP> the:<DET> electoral:<ADJ> college:<NOUN> obscured:<VERB> the:<DET> narrowness:<NOUN> of:<ADP> a:<DET> victory:<NOUN> based:<VERB> on:<ADP> just:<ADV> NUM> %:<SYM> of:<ADP> the:<DET> popular:<ADJ> vote:<NOUN> 
-# analyses = 4
-# parsetree = (Chunks (Imp (VP (V2 had) (NP_obl (Prep in) (NP (NP (NP (Det the)) (SC (S_that (S (NP (CN (AP (A electoral)) (CN (N college)))) (VP (V2 obscured) (NP (Det the) (CN (N narrowness)))))))) (NP_obl (Prep of) (NP (NP (Det a)) (RS (NP (CN (N victory))) (VPSlash (VPSlash (VP (V based)) (Prep on)) (Adv just))))))))) (Str 'NUM>') (Symb '%') (Comp (NP_obl (Prep of) (NP (Det the) (CN (AP (A popular)) (CN (N vote)))))))
-# weight = 9.765625000000017e-32
-1	had	_	VERB	_	_	0	root	_	_
-2	in	_	ADP	_	_	3	case	_	_
-3	the	_	DET	_	_	1	obl	_	_
-4	electoral	_	ADJ	_	_	5	amod	_	_
-5	college	_	NOUN	_	_	6	nsubj	_	_
-6	obscured	_	VERB	_	_	3	acl	_	_
-7	the	_	DET	_	_	8	det	_	_
-8	narrowness	_	NOUN	_	_	6	obj	_	_
-9	of	_	ADP	_	_	10	case	_	_
-10	a	_	DET	_	_	3	nmod	_	_
-11	victory	_	NOUN	_	_	12	nsubj	_	_
-12	based	_	VERB	_	_	10	acl:relcl	_	_
-13	on	_	ADP	_	_	12	case	_	_
-14	just	_	ADV	_	_	12	advmod	_	_
-15	NUM>	_	X	_	_	1	dep	_	_
-16	%	_	SYM	_	_	1	dep	_	_
-17	of	_	ADP	_	_	20	case	_	_
-18	the	_	DET	_	_	20	det	_	_
-19	popular	_	ADJ	_	_	20	amod	_	_
-20	vote	_	NOUN	_	_	1	dep	_	_
-
-
-
-# text = United:<PROPN> States:<PROPN> troops:<NOUN> now:<ADV> carry:<VERB> atropine:<NOUN> and:<CCONJ> autoinjectors:<NOUN> in:<ADP> their:<PRON> first:<ADJ> -:<PUNCT> aid:<NOUN> kits:<NOUN> to:<PART> use:<VERB> in:<ADP> case:<NOUN:<17 fixed
-# analyses = 4
-# parsetree = (Chunks (Comp (NP (NP (NP (NP (PN United)) (SC (S_that (S (NP (CN (N (PN States) (CN (N troops))))) (VP (AdV now) (VP (V2C carry) (NP (NP (ListNP (NP (CN (N atropine)))) (NP_conj (Conj and) (NP (CN (N autoinjectors))))) (NP_obl (Prep in) (NP (Pron their)))) (AP (A first)))))))) (NP_appos (Punct_appos '-') (NP (CN (N (N_one aid) (N kits)))))) (SC (VP_to (to to) (VP (V use)))))) (Prep in) (Str 'case:<NOUN:<17') (Str fixed))
-# weight = 1.525878906250002e-28
+# text = United:<PROPN> States:<PROPN> troops:<NOUN> now:<ADV> carry:<VERB> atropine:<NOUN> and:<CCONJ> autoinjectors:<NOUN> in:<ADP> their:<PRON> first:<ADJ> -:<PUNCT> aid:<NOUN> kits:<NOUN> to:<PART> use:<VERB> in:<ADP> case:<NOUN> of:<ADP> organophosphate:<NOUN> nerve:<NOUN> agent:<NOUN> poisoning:<NOUN> 
+# analyses = 85
+# parsetree = (Utt (NP (NP (NP (NP (NP (PN United)) (SC (S_that (S (NP (CN (N (PN States) (CN (N troops))))) (VP (AdV now) (VP (V2C carry) (NP (NP (ListNP (NP (CN (N atropine)))) (NP_conj (Conj and) (NP (CN (N autoinjectors))))) (NP_obl (Prep in) (NP (Pron their)))) (AP (A first)))))))) (NP_appos (Punct_appos '-') (NP (CN (N (N_one aid) (N kits)))))) (SC (VP_to (to to) (VP (V use))))) (NP_obl (Prep in) (NP (NP (CN (N case))) (NP_obl (Prep of) (NP (CN (N (N_one organophosphate) (N (N_one nerve) (N (N_one agent) (N poisoning)))))))))))
+# weight = 1.9073486328125034e-31
 1	United	_	PROPN	_	_	0	root	_	_
 2	States	_	PROPN	_	_	3	compound	_	_
 3	troops	_	NOUN	_	_	5	nsubj	_	_
@@ -421,21 +413,13 @@
 14	kits	_	NOUN	_	_	1	appos	_	_
 15	to	_	PART	_	_	16	mark	_	_
 16	use	_	VERB	_	_	1	acl	_	_
-17	in	_	ADP	_	_	1	dep	_	_
-18	case:<NOUN:<17	_	X	_	_	1	dep	_	_
-19	fixed	_	X	_	_	1	dep	_	_
-
-
-
-# text = of:<ADP> organophosphate:<NOUN> nerve:<NOUN> agent:<NOUN> poisoning:<NOUN> 
-# analyses = 1
-# parsetree = (Chunks (Comp (NP_obl (Prep of) (NP (CN (N (N_one organophosphate) (N (N_one nerve) (N (N_one agent) (N poisoning)))))))))
-# weight = 2.500000000000001e-10
-1	of	_	ADP	_	_	5	case	_	_
-2	organophosphate	_	NOUN	_	_	5	compound	_	_
-3	nerve	_	NOUN	_	_	5	compound	_	_
-4	agent	_	NOUN	_	_	5	compound	_	_
-5	poisoning	_	NOUN	_	_	0	root	_	_
+17	in	_	ADP	_	_	18	case	_	_
+18	case	_	NOUN	_	_	1	nmod	_	_
+19	of	_	ADP	_	_	23	case	_	_
+20	organophosphate	_	NOUN	_	_	23	compound	_	_
+21	nerve	_	NOUN	_	_	23	compound	_	_
+22	agent	_	NOUN	_	_	23	compound	_	_
+23	poisoning	_	NOUN	_	_	18	nmod	_	_
 
 
 

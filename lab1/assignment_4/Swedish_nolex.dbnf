@@ -15,7 +15,6 @@ Utt ::= Num
 
 -- sentences
 S ::= NP VP # nsubj head
-S ::= NP do neg VP  # nsubj aux advmod head
 S ::= NP have neg? VP  # nsubj aux advmod head
 S ::= NP aux neg? have? VP  # nsubj aux advmod aux head
 
@@ -23,13 +22,11 @@ S ::= NP cop AdV? neg? Comp # nsubj cop advmod advmod head
 S ::= NP have AdV? neg? cop Comp # nsubj aux advmod advmod cop head
 S ::= NP aux AdV?  neg? have? cop Comp # nsubj aux advmod advmod aux cop head
 
+S ::= NP VP_pass # nsubj:pass head
 S ::= NP cop AdV? neg? VP_pass # nsubj:pass aux:pass advmod advmod head
 S ::= NP have AdV? neg? cop VP_pass # nsubj:pass aux advmod advmod aux:pass head
 S ::= NP aux AdV? neg? have? cop VP_pass # nsubj:pass aux advmod advmod aux aux:pass head
 
-S ::= there be_V AdV? neg? NP # expl head advmod advmod nsubj
-S ::= there have AdV? neg? be_V neg? NP # expl aux advmod advmod head nsubj
-S ::= there aux AdV? neg? have? be_V NP # expl aux advmod advmod aux head nsubj
 S ::= it cop AdV? neg? AP # expl cop advmod advmod head
 
 S ::= NP be_V neg? SC # nsubj head advmod ccomp
@@ -42,7 +39,6 @@ S ::= SC cop neg? VP_pass # csubj:pass aux:pass advmod head
 S ::= SC have neg? cop VP_pass # csubj:pass aux advmod aux:pass head
 S ::= S_front NP VS # parataxis nsubj head
 
-QS ::= do NP neg? VP # aux nsubj advmod head
 QS ::= aux NP neg? have? VP # aux nsubj advmod aux head
 QS ::= cop NP neg? Comp # cop nsubj advmod head
 QS ::= cop neg NP Comp # cop nsubj advmod head
@@ -105,7 +101,7 @@ SC ::= QS
 SC ::= VP_to
 
 
-VP ::= V
+VP ::= V neg? # head advmod
 VP ::= aux # # 0.001
 VP ::= V2 NP  # head obj
 VP ::= V2 NP_obl # head obl
@@ -123,6 +119,7 @@ VP ::= VS S_direct # head parataxis
 
 VP_pass ::= V2
 VP_pass ::= VP_pass Adv # head advmod
+VP_pass ::= AdV? VP_pass NP # advmod head xcomp
 VP_pass ::= VP_pass NP_obl # head nmod
 
 VPSlash ::= V2
@@ -130,7 +127,7 @@ VPSlash ::= VPSlash NP_obl  # head obl # 0.001
 VPSlash ::= VPSlash Adv # head advmod
 VPSlash ::= VP Prep # head case # 0.001
 
-S_that ::= that? S # mark head
+S_that ::= that S # mark head
 
 S_direct ::= colon S # punct head
 S_direct ::= colon quote S quote # punct punct head punct

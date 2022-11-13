@@ -1,2 +1,4 @@
 # comp-syntax-gu-mlt
-Course material for the Computational Syntax course of the Master of Language Technology programme at the University of Gothenburg
+> Part of the Master in Language Technology at the University of Gothenburg
+>
+> **Course:** Computational Syntax (LT2214)
